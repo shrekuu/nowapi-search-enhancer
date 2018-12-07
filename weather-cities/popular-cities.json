@@ -1,0 +1,38 @@
+[
+    {
+        "label": "北京，城区",
+        "value": "beijing，chengqu 北京，城区"
+    },
+    {
+        "label": "上海，城区",
+        "value": "shanghai，chengqu 上海，城区"
+    },
+    {
+        "label": "陕西，西安，城区",
+        "value": "shanxi，xian，chengqu 陕西，西安，城区"
+    },
+    {
+        "label": "香港，城区",
+        "value": "xianggang，chengqu 香港，城区"
+    },
+    {
+        "label": "美国，纽约（NewYork）",
+        "value": "meiguo，niuyue（NewYork） 美国，纽约（NewYork）"
+    },
+    {
+        "label": "英国，伦敦（London）",
+        "value": "yingguo，lundun（London） 英国，伦敦（London）"
+    },
+    {
+        "label": "法国，巴黎（Paris）",
+        "value": "faguo，bali（Paris） 法国，巴黎（Paris）"
+    },
+    {
+        "label": "日本，东京（Tokyo）",
+        "value": "riben，dongjing（Tokyo） 日本，东京（Tokyo）"
+    },
+    {
+        "label": "新加坡，新加坡（Singapore）",
+        "value": "xinjiapo，xinjiapo（Singapore） 新加坡，新加坡（Singapore）"
+    }
+]

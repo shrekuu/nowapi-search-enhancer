@@ -1,0 +1,2574 @@
+alblhqzg, db; a la bo lian he qiu zhang guo, di bai; 阿拉伯联合酋长国，迪拜（Dubai）
+ah, hf, cq; an hui, he fei, cheng qu; 安徽，合肥，城区
+ah, hf, zf; an hui, he fei, zhang feng; 安徽，合肥，长丰
+ah, hf, fd; an hui, he fei, fei dong; 安徽，合肥，肥东
+ah, hf, fx; an hui, he fei, fei xi; 安徽，合肥，肥西
+ah, hf, ch; an hui, he fei, chao hu; 安徽，合肥，巢湖
+ah, hf, lj; an hui, he fei, lu jiang; 安徽，合肥，庐江
+ah, bb, cq; an hui, beng bu, cheng qu; 安徽，蚌埠，城区
+ah, bb, hy; an hui, beng bu, huai yuan; 安徽，蚌埠，怀远
+ah, bb, gz; an hui, beng bu, gu zhen; 安徽，蚌埠，固镇
+ah, bb, wh; an hui, beng bu, wu he; 安徽，蚌埠，五河
+ah, wh, cq; an hui, wu hu, cheng qu; 安徽，芜湖，城区
+ah, wh, fc; an hui, wu hu, fan chang; 安徽，芜湖，繁昌
+ah, wh, whx; an hui, wu hu, wu hu xian; 安徽，芜湖，芜湖县
+ah, wh, nl; an hui, wu hu, nan ling; 安徽，芜湖，南陵
+ah, wh, ww; an hui, wu hu, wu wei; 安徽，芜湖，无为
+ah, hn, cq; an hui, huai nan, cheng qu; 安徽，淮南，城区
+ah, hn, ft; an hui, huai nan, feng tai; 安徽，淮南，凤台
+ah, hn, pj; an hui, huai nan, pan ji; 安徽，淮南，潘集
+ah, hn, sx; an hui, huai nan, shou xian; 安徽，淮南，寿县
+ah, mas, cq; an hui, ma an shan, cheng qu; 安徽，马鞍山，城区
+ah, mas, dt; an hui, ma an shan, dang tu; 安徽，马鞍山，当涂
+ah, mas, hs; an hui, ma an shan, han shan; 安徽，马鞍山，含山
+ah, mas, hx; an hui, ma an shan, he xian; 安徽，马鞍山，和县
+ah, aq, cq; an hui, an qing, cheng qu; 安徽，安庆，城区
+ah, aq, th; an hui, an qing, tai hu; 安徽，安庆，太湖
+ah, aq, qs; an hui, an qing, qian shan; 安徽，安庆，潜山
+ah, aq, hn; an hui, an qing, huai ning; 安徽，安庆，怀宁
+ah, aq, ss; an hui, an qing, su song; 安徽，安庆，宿松
+ah, aq, wj; an hui, an qing, wang jiang; 安徽，安庆，望江
+ah, aq, yx; an hui, an qing, yue xi; 安徽，安庆，岳西
+ah, aq, tc; an hui, an qing, tong cheng; 安徽，安庆，桐城
+ah, sz, cq; an hui, su zhou, cheng qu; 安徽，宿州，城区
+ah, sz, ds; an hui, su zhou, dang shan; 安徽，宿州，砀山
+ah, sz, lb; an hui, su zhou, ling bi; 安徽，宿州，灵璧
+ah, sz, sx; an hui, su zhou, si xian; 安徽，宿州，泗县
+ah, sz, xx; an hui, su zhou, xiao xian; 安徽，宿州，萧县
+ah, fy, cq; an hui, fu yang, cheng qu; 安徽，阜阳，城区
+ah, fy, fn; an hui, fu yang, fu nan; 安徽，阜阳，阜南
+ah, fy, ys; an hui, fu yang, ying shang; 安徽，阜阳，颍上
+ah, fy, lq; an hui, fu yang, lin quan; 安徽，阜阳，临泉
+ah, fy, js; an hui, fu yang, jie shou; 安徽，阜阳，界首
+ah, fy, th; an hui, fu yang, tai he; 安徽，阜阳，太和
+ah, bz, cq; an hui, bo zhou, cheng qu; 安徽，亳州，城区
+ah, bz, wy; an hui, bo zhou, wo yang; 安徽，亳州，涡阳
+ah, bz, lx; an hui, bo zhou, li xin; 安徽，亳州，利辛
+ah, bz, mc; an hui, bo zhou, meng cheng; 安徽，亳州，蒙城
+ah, hs, cq; an hui, huang shan, cheng qu; 安徽，黄山，城区
+ah, hs, hsq; an hui, huang shan, huang shan qu; 安徽，黄山，黄山区
+ah, hs, tx; an hui, huang shan, tun xi; 安徽，黄山，屯溪
+ah, hs, qm; an hui, huang shan, qi men; 安徽，黄山，祁门
+ah, hs, yx; an hui, huang shan, yi xian; 安徽，黄山，黟县
+ah, hs, sx; an hui, huang shan, she xian; 安徽，黄山，歙县
+ah, hs, xn; an hui, huang shan, xiu ning; 安徽，黄山，休宁
+ah, cz, cq; an hui, chu zhou, cheng qu; 安徽，滁州，城区
+ah, cz, fy; an hui, chu zhou, feng yang; 安徽，滁州，凤阳
+ah, cz, mg; an hui, chu zhou, ming guang; 安徽，滁州，明光
+ah, cz, dy; an hui, chu zhou, ding yuan; 安徽，滁州，定远
+ah, cz, qj; an hui, chu zhou, quan jiao; 安徽，滁州，全椒
+ah, cz, la; an hui, chu zhou, lai an; 安徽，滁州，来安
+ah, cz, tz; an hui, chu zhou, tian zhang; 安徽，滁州，天长
+ah, hb, cq; an hui, huai bei, cheng qu; 安徽，淮北，城区
+ah, hb, sx; an hui, huai bei, sui xi; 安徽，淮北，濉溪
+ah, tl, cq; an hui, tong ling, cheng qu; 安徽，铜陵，城区
+ah, tl, zy; an hui, tong ling, zong yang; 安徽，铜陵，枞阳
+ah, xc, cq; an hui, xuan cheng, cheng qu; 安徽，宣城，城区
+ah, xc, jx; an hui, xuan cheng, jing xian; 安徽，宣城，泾县
+ah, xc, jd; an hui, xuan cheng, jing de; 安徽，宣城，旌德
+ah, xc, ng; an hui, xuan cheng, ning guo; 安徽，宣城，宁国
+ah, xc, jx; an hui, xuan cheng, ji xi; 安徽，宣城，绩溪
+ah, xc, gd; an hui, xuan cheng, guang de; 安徽，宣城，广德
+ah, xc, lx; an hui, xuan cheng, lang xi; 安徽，宣城，郎溪
+ah, la, cq; an hui, lu an, cheng qu; 安徽，六安，城区
+ah, la, hq; an hui, lu an, huo qiu; 安徽，六安，霍邱
+ah, la, jz; an hui, lu an, jin zhai; 安徽，六安，金寨
+ah, la, hs; an hui, lu an, huo shan; 安徽，六安，霍山
+ah, la, sc; an hui, lu an, shu cheng; 安徽，六安，舒城
+ah, cz, cq; an hui, chi zhou, cheng qu; 安徽，池州，城区
+ah, cz, dz; an hui, chi zhou, dong zhi; 安徽，池州，东至
+ah, cz, qy; an hui, chi zhou, qing yang; 安徽，池州，青阳
+ah, cz, jhs; an hui, chi zhou, jiu hua shan; 安徽，池州，九华山
+ah, cz, st; an hui, chi zhou, shi tai; 安徽，池州，石台
+adly, xn; ao da li ya, xi ni; 澳大利亚，悉尼（Sydney）
+adly, meb; ao da li ya, mo er ben; 澳大利亚，墨尔本（Melbourne）
+adly, hld; ao da li ya, hui ling dun; 澳大利亚，惠灵顿（Wellington）
+am, cq; ao men, cheng qu; 澳门，城区
+am, dzd; ao men, dang zai dao; 澳门，氹仔岛
+am, lhd; ao men, lu huan dao; 澳门，路环岛
+bx, bbsn; ba xi, ba ba sai na; 巴西，巴巴塞纳（Barbacena）
+bx, aljess; ba xi, a la jia er sa si; 巴西，阿拉加尔萨斯（Aragarcas）
+bx, aemnl; ba xi, a er mei na la; 巴西，阿尔梅纳拉（Almenara）
+bx, ablhs; ba xi, a bo luo he si; 巴西，阿波罗荷斯（Abrolhos）
+bx, agdwn; ba xi, a gui da wa ne; 巴西，阿圭达瓦讷（Aquidauana）
+bx, aefldcws; ba xi, a er fu lei duo cha wei si; 巴西，阿尔弗雷多查维斯（Alfredochaves）
+bx, akl; ba xi, a kai lao; 巴西，阿凯劳（Acarau）
+bx, algyn; ba xi, a la gua yi na; 巴西，阿拉瓜伊纳（Araguaina）
+bx, akl; ba xi, a kai lao; 巴西，阿凯劳（Acarau）
+bx, aetml; ba xi, a er ta mi la; 巴西，阿尔塔米拉（Altamira）
+bx, aetmljc; ba xi, a er ta mi la ji chang; 巴西，阿尔塔米拉机场（Altamira Airport）
+bx, algyn; ba xi, a la gua yi na; 巴西，阿拉瓜伊纳（Araguaina）
+bx, ablhs; ba xi, a bo luo he si; 巴西，阿波罗荷斯（Abrolhos）
+bj, cq; bei jing, cheng qu; 北京，城区
+bj, hd; bei jing, hai dian; 北京，海淀
+bj, zy; bei jing, zhao yang; 北京，朝阳
+bj, sy; bei jing, shun yi; 北京，顺义
+bj, hr; bei jing, huai rou; 北京，怀柔
+bj, tz; bei jing, tong zhou; 北京，通州
+bj, cp; bei jing, chang ping; 北京，昌平
+bj, yq; bei jing, yan qing; 北京，延庆
+bj, ft; bei jing, feng tai; 北京，丰台
+bj, sjs; bei jing, shi jing shan; 北京，石景山
+bj, dx; bei jing, da xing; 北京，大兴
+bj, fs; bei jing, fang shan; 北京，房山
+bj, my; bei jing, mi yun; 北京，密云
+bj, mtg; bei jing, men tou gou; 北京，门头沟
+bj, pg; bei jing, ping gu; 北京，平谷
+dg, flkf; de guo, fa lan ke fu; 德国，法兰克福（Frankfurt）
+dg, mnh; de guo, mu ni hei; 德国，慕尼黑（Munich）
+els, msk; e luo si, mo si ke; 俄罗斯，莫斯科（Moscow）
+fg, bl; fa guo, ba li; 法国，巴黎（Paris）
+fj, fz, cq; fu jian, fu zhou, cheng qu; 福建，福州，城区
+fj, fz, mq; fu jian, fu zhou, min qing; 福建，福州，闽清
+fj, fz, mh; fu jian, fu zhou, min hou; 福建，福州，闽侯
+fj, fz, ly; fu jian, fu zhou, luo yuan; 福建，福州，罗源
+fj, fz, lj; fu jian, fu zhou, lian jiang; 福建，福州，连江
+fj, fz, yt; fu jian, fu zhou, yong tai; 福建，福州，永泰
+fj, fz, pt; fu jian, fu zhou, ping tan; 福建，福州，平潭
+fj, fz, cl; fu jian, fu zhou, chang le; 福建，福州，长乐
+fj, fz, fq; fu jian, fu zhou, fu qing; 福建，福州，福清
+fj, xm, cq; fu jian, xia men, cheng qu; 福建，厦门，城区
+fj, xm, ta; fu jian, xia men, tong an; 福建，厦门，同安
+fj, nd, cq; fu jian, ning de, cheng qu; 福建，宁德，城区
+fj, nd, gt; fu jian, ning de, gu tian; 福建，宁德，古田
+fj, nd, xp; fu jian, ning de, xia pu; 福建，宁德，霞浦
+fj, nd, sn; fu jian, ning de, shou ning; 福建，宁德，寿宁
+fj, nd, zn; fu jian, ning de, zhou ning; 福建，宁德，周宁
+fj, nd, fa; fu jian, ning de, fu an; 福建，宁德，福安
+fj, nd, zr; fu jian, ning de, zhe rong; 福建，宁德，柘荣
+fj, nd, fd; fu jian, ning de, fu ding; 福建，宁德，福鼎
+fj, nd, pn; fu jian, ning de, ping nan; 福建，宁德，屏南
+fj, pt, cq; fu jian, pu tian, cheng qu; 福建，莆田，城区
+fj, pt, xy; fu jian, pu tian, xian you; 福建，莆田，仙游
+fj, pt, hj; fu jian, pu tian, han jiang; 福建，莆田，涵江
+fj, pt, xy; fu jian, pu tian, xiu yu; 福建，莆田，秀屿
+fj, pt, lc; fu jian, pu tian, li cheng; 福建，莆田，荔城
+fj, pt, cx; fu jian, pu tian, cheng xiang; 福建，莆田，城厢
+fj, qz, cq; fu jian, quan zhou, cheng qu; 福建，泉州，城区
+fj, qz, ax; fu jian, quan zhou, an xi; 福建，泉州，安溪
+fj, qz, yc; fu jian, quan zhou, yong chun; 福建，泉州，永春
+fj, qz, dh; fu jian, quan zhou, de hua; 福建，泉州，德化
+fj, qz, na; fu jian, quan zhou, nan an; 福建，泉州，南安
+fj, qz, ha; fu jian, quan zhou, hui an; 福建，泉州，惠安
+fj, qz, jj; fu jian, quan zhou, jin jiang; 福建，泉州，晋江
+fj, qz, ss; fu jian, quan zhou, shi shi; 福建，泉州，石狮
+fj, zz, cq; fu jian, zhang zhou, cheng qu; 福建，漳州，城区
+fj, zz, zt; fu jian, zhang zhou, zhang tai; 福建，漳州，长泰
+fj, zz, nj; fu jian, zhang zhou, nan jing; 福建，漳州，南靖
+fj, zz, ph; fu jian, zhang zhou, ping he; 福建，漳州，平和
+fj, zz, lh; fu jian, zhang zhou, long hai; 福建，漳州，龙海
+fj, zz, zp; fu jian, zhang zhou, zhang pu; 福建，漳州，漳浦
+fj, zz, za; fu jian, zhang zhou, zhao an; 福建，漳州，诏安
+fj, zz, ds; fu jian, zhang zhou, dong shan; 福建，漳州，东山
+fj, zz, yx; fu jian, zhang zhou, yun xiao; 福建，漳州，云霄
+fj, zz, ha; fu jian, zhang zhou, hua an; 福建，漳州，华安
+fj, ly, cq; fu jian, long yan, cheng qu; 福建，龙岩，城区
+fj, ly, ct; fu jian, long yan, chang ting; 福建，龙岩，长汀
+fj, ly, lc; fu jian, long yan, lian cheng; 福建，龙岩，连城
+fj, ly, wp; fu jian, long yan, wu ping; 福建，龙岩，武平
+fj, ly, sh; fu jian, long yan, shang hang; 福建，龙岩，上杭
+fj, ly, yd; fu jian, long yan, yong ding; 福建，龙岩，永定
+fj, ly, zp; fu jian, long yan, zhang ping; 福建，龙岩，漳平
+fj, sm, cq; fu jian, san ming, cheng qu; 福建，三明，城区
+fj, sm, nh; fu jian, san ming, ning hua; 福建，三明，宁化
+fj, sm, ql; fu jian, san ming, qing liu; 福建，三明，清流
+fj, sm, tn; fu jian, san ming, tai ning; 福建，三明，泰宁
+fj, sm, jl; fu jian, san ming, jiang le; 福建，三明，将乐
+fj, sm, jn; fu jian, san ming, jian ning; 福建，三明，建宁
+fj, sm, mx; fu jian, san ming, ming xi; 福建，三明，明溪
+fj, sm, sx; fu jian, san ming, sha xian; 福建，三明，沙县
+fj, sm, yx; fu jian, san ming, you xi; 福建，三明，尤溪
+fj, sm, ya; fu jian, san ming, yong an; 福建，三明，永安
+fj, sm, dt; fu jian, san ming, da tian; 福建，三明，大田
+fj, np, cq; fu jian, nan ping, cheng qu; 福建，南平，城区
+fj, np, sc; fu jian, nan ping, shun chang; 福建，南平，顺昌
+fj, np, gz; fu jian, nan ping, guang ze; 福建，南平，光泽
+fj, np, sw; fu jian, nan ping, shao wu; 福建，南平，邵武
+fj, np, wys; fu jian, nan ping, wu yi shan; 福建，南平，武夷山
+fj, np, pc; fu jian, nan ping, pu cheng; 福建，南平，浦城
+fj, np, jy; fu jian, nan ping, jian yang; 福建，南平，建阳
+fj, np, sx; fu jian, nan ping, song xi; 福建，南平，松溪
+fj, np, zh; fu jian, nan ping, zheng he; 福建，南平，政和
+fj, np, jo; fu jian, nan ping, jian ou; 福建，南平，建瓯
+fj, dyd, cq; fu jian, diao yu dao, cheng qu; 福建，钓鱼岛，城区
+gs, lz, cq; gan su, lan zhou, cheng qu; 甘肃，兰州，城区
+gs, lz, gl; gan su, lan zhou, gao lan; 甘肃，兰州，皋兰
+gs, lz, yd; gan su, lan zhou, yong deng; 甘肃，兰州，永登
+gs, lz, yz; gan su, lan zhou, yu zhong; 甘肃，兰州，榆中
+gs, dx, cq; gan su, ding xi, cheng qu; 甘肃，定西，城区
+gs, dx, tw; gan su, ding xi, tong wei; 甘肃，定西，通渭
+gs, dx, lx; gan su, ding xi, long xi; 甘肃，定西，陇西
+gs, dx, wy; gan su, ding xi, wei yuan; 甘肃，定西，渭源
+gs, dx, lt; gan su, ding xi, lin tao; 甘肃，定西，临洮
+gs, dx, zx; gan su, ding xi, zhang xian; 甘肃，定西，漳县
+gs, dx, mx; gan su, ding xi, min xian; 甘肃，定西，岷县
+gs, dx, ad; gan su, ding xi, an ding; 甘肃，定西，安定
+gs, pl, cq; gan su, ping liang, cheng qu; 甘肃，平凉，城区
+gs, pl, jc; gan su, ping liang, jing chuan; 甘肃，平凉，泾川
+gs, pl, lt; gan su, ping liang, ling tai; 甘肃，平凉，灵台
+gs, pl, cx; gan su, ping liang, chong xin; 甘肃，平凉，崇信
+gs, pl, ht; gan su, ping liang, hua ting; 甘肃，平凉，华亭
+gs, pl, zl; gan su, ping liang, zhuang lang; 甘肃，平凉，庄浪
+gs, pl, jn; gan su, ping liang, jing ning; 甘肃，平凉，静宁
+gs, pl, kd; gan su, ping liang, kong dong; 甘肃，平凉，崆峒
+gs, qy, cq; gan su, qing yang, cheng qu; 甘肃，庆阳，城区
+gs, qy, hx; gan su, qing yang, huan xian; 甘肃，庆阳，环县
+gs, qy, hc; gan su, qing yang, hua chi; 甘肃，庆阳，华池
+gs, qy, hs; gan su, qing yang, he shui; 甘肃，庆阳，合水
+gs, qy, zn; gan su, qing yang, zheng ning; 甘肃，庆阳，正宁
+gs, qy, nx; gan su, qing yang, ning xian; 甘肃，庆阳，宁县
+gs, qy, zy; gan su, qing yang, zhen yuan; 甘肃，庆阳，镇原
+gs, qy, qc; gan su, qing yang, qing cheng; 甘肃，庆阳，庆城
+gs, ww, cq; gan su, wu wei, cheng qu; 甘肃，武威，城区
+gs, ww, mq; gan su, wu wei, min qin; 甘肃，武威，民勤
+gs, ww, gl; gan su, wu wei, gu lang; 甘肃，武威，古浪
+gs, ww, tz; gan su, wu wei, tian zhu; 甘肃，武威，天祝
+gs, jc, cq; gan su, jin chang, cheng qu; 甘肃，金昌，城区
+gs, jc, yc; gan su, jin chang, yong chang; 甘肃，金昌，永昌
+gs, zy, cq; gan su, zhang ye, cheng qu; 甘肃，张掖，城区
+gs, zy, sn; gan su, zhang ye, su nan; 甘肃，张掖，肃南
+gs, zy, my; gan su, zhang ye, min yue; 甘肃，张掖，民乐
+gs, zy, lz; gan su, zhang ye, lin ze; 甘肃，张掖，临泽
+gs, zy, gt; gan su, zhang ye, gao tai; 甘肃，张掖，高台
+gs, zy, sd; gan su, zhang ye, shan dan; 甘肃，张掖，山丹
+gs, jq, cq; gan su, jiu quan, cheng qu; 甘肃，酒泉，城区
+gs, jq, jt; gan su, jiu quan, jin ta; 甘肃，酒泉，金塔
+gs, jq, aks; gan su, jiu quan, a ke sai; 甘肃，酒泉，阿克塞
+gs, jq, gz; gan su, jiu quan, gua zhou; 甘肃，酒泉，瓜州
+gs, jq, sb; gan su, jiu quan, su bei; 甘肃，酒泉，肃北
+gs, jq, ym; gan su, jiu quan, yu men; 甘肃，酒泉，玉门
+gs, jq, dh; gan su, jiu quan, dun huang; 甘肃，酒泉，敦煌
+gs, ts, cq; gan su, tian shui, cheng qu; 甘肃，天水，城区
+gs, ts, qs; gan su, tian shui, qing shui; 甘肃，天水，清水
+gs, ts, qa; gan su, tian shui, qin an; 甘肃，天水，秦安
+gs, ts, gg; gan su, tian shui, gan gu; 甘肃，天水，甘谷
+gs, ts, ws; gan su, tian shui, wu shan; 甘肃，天水，武山
+gs, ts, zjc; gan su, tian shui, zhang jia chuan; 甘肃，天水，张家川
+gs, ts, mj; gan su, tian shui, mai ji; 甘肃，天水，麦积
+gs, ln, wd; gan su, long nan, wu dou; 甘肃，陇南，武都
+gs, ln, cx; gan su, long nan, cheng xian; 甘肃，陇南，成县
+gs, ln, wx; gan su, long nan, wen xian; 甘肃，陇南，文县
+gs, ln, dc; gan su, long nan, dang chang; 甘肃，陇南，宕昌
+gs, ln, kx; gan su, long nan, kang xian; 甘肃，陇南，康县
+gs, ln, xh; gan su, long nan, xi he; 甘肃，陇南，西和
+gs, ln, lx; gan su, long nan, li xian; 甘肃，陇南，礼县
+gs, ln, hx; gan su, long nan, hui xian; 甘肃，陇南，徽县
+gs, ln, ld; gan su, long nan, liang dang; 甘肃，陇南，两当
+gs, lx, cq; gan su, lin xia, cheng qu; 甘肃，临夏，城区
+gs, lx, kl; gan su, lin xia, kang le; 甘肃，临夏，康乐
+gs, lx, yj; gan su, lin xia, yong jing; 甘肃，临夏，永靖
+gs, lx, gh; gan su, lin xia, guang he; 甘肃，临夏，广河
+gs, lx, hz; gan su, lin xia, he zheng; 甘肃，临夏，和政
+gs, lx, dx; gan su, lin xia, dong xiang; 甘肃，临夏，东乡
+gs, lx, jss; gan su, lin xia, ji shi shan; 甘肃，临夏，积石山
+gs, gn, hz; gan su, gan nan, he zuo; 甘肃，甘南，合作
+gs, gn, lt; gan su, gan nan, lin tan; 甘肃，甘南，临潭
+gs, gn, zn; gan su, gan nan, zhuo ni; 甘肃，甘南，卓尼
+gs, gn, zq; gan su, gan nan, zhou qu; 甘肃，甘南，舟曲
+gs, gn, db; gan su, gan nan, die bu; 甘肃，甘南，迭部
+gs, gn, mq; gan su, gan nan, ma qu; 甘肃，甘南，玛曲
+gs, gn, lq; gan su, gan nan, lu qu; 甘肃，甘南，碌曲
+gs, gn, xh; gan su, gan nan, xia he; 甘肃，甘南，夏河
+gs, by, cq; gan su, bai yin, cheng qu; 甘肃，白银，城区
+gs, by, jy; gan su, bai yin, jing yuan; 甘肃，白银，靖远
+gs, by, hn; gan su, bai yin, hui ning; 甘肃，白银，会宁
+gs, by, pc; gan su, bai yin, ping chuan; 甘肃，白银，平川
+gs, by, jt; gan su, bai yin, jing tai; 甘肃，白银，景泰
+gs, jyg, cq; gan su, jia yu guan, cheng qu; 甘肃，嘉峪关，城区
+gd, gz, cq; guang dong, guang zhou, cheng qu; 广东，广州，城区
+gd, gz, py; guang dong, guang zhou, pan yu; 广东，广州，番禺
+gd, gz, ch; guang dong, guang zhou, cong hua; 广东，广州，从化
+gd, gz, zc; guang dong, guang zhou, zeng cheng; 广东，广州，增城
+gd, gz, hd; guang dong, guang zhou, hua dou; 广东，广州，花都
+gd, gz, lw; guang dong, guang zhou, li wan; 广东，广州，荔湾
+gd, gz, yx; guang dong, guang zhou, yue xiu; 广东，广州，越秀
+gd, gz, hz; guang dong, guang zhou, hai zhu; 广东，广州，海珠
+gd, gz, th; guang dong, guang zhou, tian he; 广东，广州，天河
+gd, gz, by; guang dong, guang zhou, bai yun; 广东，广州，白云
+gd, gz, hp; guang dong, guang zhou, huang pu; 广东，广州，黄埔
+gd, gz, ns; guang dong, guang zhou, nan sha; 广东，广州，南沙
+gd, sg, cq; guang dong, shao guan, cheng qu; 广东，韶关，城区
+gd, sg, ry; guang dong, shao guan, ru yuan; 广东，韶关，乳源
+gd, sg, sx; guang dong, shao guan, shi xing; 广东，韶关，始兴
+gd, sg, wy; guang dong, shao guan, weng yuan; 广东，韶关，翁源
+gd, sg, lc; guang dong, shao guan, le chang; 广东，韶关，乐昌
+gd, sg, rh; guang dong, shao guan, ren hua; 广东，韶关，仁化
+gd, sg, nx; guang dong, shao guan, nan xiong; 广东，韶关，南雄
+gd, sg, xf; guang dong, shao guan, xin feng; 广东，韶关，新丰
+gd, sg, qj; guang dong, shao guan, qu jiang; 广东，韶关，曲江
+gd, sg, zj; guang dong, shao guan, zhen jiang; 广东，韶关，浈江
+gd, sg, wj; guang dong, shao guan, wu jiang; 广东，韶关，武江
+gd, hz, cq; guang dong, hui zhou, cheng qu; 广东，惠州，城区
+gd, hz, bl; guang dong, hui zhou, bo luo; 广东，惠州，博罗
+gd, hz, hy; guang dong, hui zhou, hui yang; 广东，惠州，惠阳
+gd, hz, hd; guang dong, hui zhou, hui dong; 广东，惠州，惠东
+gd, hz, lm; guang dong, hui zhou, long men; 广东，惠州，龙门
+gd, mz, cq; guang dong, mei zhou, cheng qu; 广东，梅州，城区
+gd, mz, xn; guang dong, mei zhou, xing ning; 广东，梅州，兴宁
+gd, mz, jl; guang dong, mei zhou, jiao ling; 广东，梅州，蕉岭
+gd, mz, db; guang dong, mei zhou, da bu; 广东，梅州，大埔
+gd, mz, fs; guang dong, mei zhou, feng shun; 广东，梅州，丰顺
+gd, mz, py; guang dong, mei zhou, ping yuan; 广东，梅州，平远
+gd, mz, wh; guang dong, mei zhou, wu hua; 广东，梅州，五华
+gd, mz, mx; guang dong, mei zhou, mei xian; 广东，梅州，梅县
+gd, st, cq; guang dong, shan tou, cheng qu; 广东，汕头，城区
+gd, st, cy; guang dong, shan tou, chao yang; 广东，汕头，潮阳
+gd, st, ch; guang dong, shan tou, cheng hai; 广东，汕头，澄海
+gd, st, na; guang dong, shan tou, nan ao; 广东，汕头，南澳
+gd, sz, cq; guang dong, shen zhen, cheng qu; 广东，深圳，城区
+gd, zh, cq; guang dong, zhu hai, cheng qu; 广东，珠海，城区
+gd, zh, dm; guang dong, zhu hai, dou men; 广东，珠海，斗门
+gd, zh, jw; guang dong, zhu hai, jin wan; 广东，珠海，金湾
+gd, fs, cq; guang dong, fo shan, cheng qu; 广东，佛山，城区
+gd, fs, sd; guang dong, fo shan, shun de; 广东，佛山，顺德
+gd, fs, ss; guang dong, fo shan, san shui; 广东，佛山，三水
+gd, fs, nh; guang dong, fo shan, nan hai; 广东，佛山，南海
+gd, fs, gm; guang dong, fo shan, gao ming; 广东，佛山，高明
+gd, zq, cq; guang dong, zhao qing, cheng qu; 广东，肇庆，城区
+gd, zq, gn; guang dong, zhao qing, guang ning; 广东，肇庆，广宁
+gd, zq, sh; guang dong, zhao qing, si hui; 广东，肇庆，四会
+gd, zq, dq; guang dong, zhao qing, de qing; 广东，肇庆，德庆
+gd, zq, hj; guang dong, zhao qing, huai ji; 广东，肇庆，怀集
+gd, zq, fk; guang dong, zhao qing, feng kai; 广东，肇庆，封开
+gd, zq, gy; guang dong, zhao qing, gao yao; 广东，肇庆，高要
+gd, zj, cq; guang dong, zhan jiang, cheng qu; 广东，湛江，城区
+gd, zj, wc; guang dong, zhan jiang, wu chuan; 广东，湛江，吴川
+gd, zj, lz; guang dong, zhan jiang, lei zhou; 广东，湛江，雷州
+gd, zj, xw; guang dong, zhan jiang, xu wen; 广东，湛江，徐闻
+gd, zj, lj; guang dong, zhan jiang, lian jiang; 广东，湛江，廉江
+gd, zj, ck; guang dong, zhan jiang, chi kan; 广东，湛江，赤坎
+gd, zj, sx; guang dong, zhan jiang, sui xi; 广东，湛江，遂溪
+gd, zj, pt; guang dong, zhan jiang, po tou; 广东，湛江，坡头
+gd, zj, xs; guang dong, zhan jiang, xia shan; 广东，湛江，霞山
+gd, zj, mz; guang dong, zhan jiang, ma zhang; 广东，湛江，麻章
+gd, jm, cq; guang dong, jiang men, cheng qu; 广东，江门，城区
+gd, jm, kp; guang dong, jiang men, kai ping; 广东，江门，开平
+gd, jm, xh; guang dong, jiang men, xin hui; 广东，江门，新会
+gd, jm, ep; guang dong, jiang men, en ping; 广东，江门，恩平
+gd, jm, ts; guang dong, jiang men, tai shan; 广东，江门，台山
+gd, jm, pj; guang dong, jiang men, peng jiang; 广东，江门，蓬江
+gd, jm, hs; guang dong, jiang men, he shan; 广东，江门，鹤山
+gd, jm, jh; guang dong, jiang men, jiang hai; 广东，江门，江海
+gd, hy, cq; guang dong, he yuan, cheng qu; 广东，河源，城区
+gd, hy, zj; guang dong, he yuan, zi jin; 广东，河源，紫金
+gd, hy, lp; guang dong, he yuan, lian ping; 广东，河源，连平
+gd, hy, hp; guang dong, he yuan, he ping; 广东，河源，和平
+gd, hy, lc; guang dong, he yuan, long chuan; 广东，河源，龙川
+gd, hy, dy; guang dong, he yuan, dong yuan; 广东，河源，东源
+gd, qy, cq; guang dong, qing yuan, cheng qu; 广东，清远，城区
+gd, qy, ln; guang dong, qing yuan, lian nan; 广东，清远，连南
+gd, qy, lz; guang dong, qing yuan, lian zhou; 广东，清远，连州
+gd, qy, ls; guang dong, qing yuan, lian shan; 广东，清远，连山
+gd, qy, ys; guang dong, qing yuan, yang shan; 广东，清远，阳山
+gd, qy, fg; guang dong, qing yuan, fu gang; 广东，清远，佛冈
+gd, qy, yd; guang dong, qing yuan, ying de; 广东，清远，英德
+gd, qy, qx; guang dong, qing yuan, qing xin; 广东，清远，清新
+gd, yf, cq; guang dong, yun fu, cheng qu; 广东，云浮，城区
+gd, yf, ld; guang dong, yun fu, luo ding; 广东，云浮，罗定
+gd, yf, xx; guang dong, yun fu, xin xing; 广东，云浮，新兴
+gd, yf, yn; guang dong, yun fu, yu nan; 广东，云浮，郁南
+gd, yf, ya; guang dong, yun fu, yun an; 广东，云浮，云安
+gd, cz, cq; guang dong, chao zhou, cheng qu; 广东，潮州，城区
+gd, cz, rp; guang dong, chao zhou, rao ping; 广东，潮州，饶平
+gd, cz, ca; guang dong, chao zhou, chao an; 广东，潮州，潮安
+gd, dg, cq; guang dong, dong guan, cheng qu; 广东，东莞，城区
+gd, zs, cq; guang dong, zhong shan, cheng qu; 广东，中山，城区
+gd, yj, cq; guang dong, yang jiang, cheng qu; 广东，阳江，城区
+gd, yj, yc; guang dong, yang jiang, yang chun; 广东，阳江，阳春
+gd, yj, yd; guang dong, yang jiang, yang dong; 广东，阳江，阳东
+gd, yj, yx; guang dong, yang jiang, yang xi; 广东，阳江，阳西
+gd, jy, cq; guang dong, jie yang, cheng qu; 广东，揭阳，城区
+gd, jy, jx; guang dong, jie yang, jie xi; 广东，揭阳，揭西
+gd, jy, pn; guang dong, jie yang, pu ning; 广东，揭阳，普宁
+gd, jy, hl; guang dong, jie yang, hui lai; 广东，揭阳，惠来
+gd, jy, jd; guang dong, jie yang, jie dong; 广东，揭阳，揭东
+gd, mm, cq; guang dong, mao ming, cheng qu; 广东，茂名，城区
+gd, mm, gz; guang dong, mao ming, gao zhou; 广东，茂名，高州
+gd, mm, hz; guang dong, mao ming, hua zhou; 广东，茂名，化州
+gd, mm, db; guang dong, mao ming, dian bai; 广东，茂名，电白
+gd, mm, xy; guang dong, mao ming, xin yi; 广东，茂名，信宜
+gd, sw, cq; guang dong, shan wei, cheng qu; 广东，汕尾，城区
+gd, sw, hf; guang dong, shan wei, hai feng; 广东，汕尾，海丰
+gd, sw, lf; guang dong, shan wei, lu feng; 广东，汕尾，陆丰
+gd, sw, lh; guang dong, shan wei, lu he; 广东，汕尾，陆河
+gx, nn, cq; guang xi, nan ning, cheng qu; 广西，南宁，城区
+gx, nn, yn; guang xi, nan ning, yong ning; 广西，南宁，邕宁
+gx, nn, hx; guang xi, nan ning, heng xian; 广西，南宁，横县
+gx, nn, la; guang xi, nan ning, long an; 广西，南宁，隆安
+gx, nn, ms; guang xi, nan ning, ma shan; 广西，南宁，马山
+gx, nn, sl; guang xi, nan ning, shang lin; 广西，南宁，上林
+gx, nn, wm; guang xi, nan ning, wu ming; 广西，南宁，武鸣
+gx, nn, by; guang xi, nan ning, bin yang; 广西，南宁，宾阳
+gx, cz, cq; guang xi, chong zuo, cheng qu; 广西，崇左，城区
+gx, cz, td; guang xi, chong zuo, tian deng; 广西，崇左，天等
+gx, cz, lz; guang xi, chong zuo, long zhou; 广西，崇左，龙州
+gx, cz, px; guang xi, chong zuo, ping xiang; 广西，崇左，凭祥
+gx, cz, dx; guang xi, chong zuo, da xin; 广西，崇左，大新
+gx, cz, fs; guang xi, chong zuo, fu sui; 广西，崇左，扶绥
+gx, cz, nm; guang xi, chong zuo, ning ming; 广西，崇左，宁明
+gx, lz, cq; guang xi, liu zhou, cheng qu; 广西，柳州，城区
+gx, lz, lc; guang xi, liu zhou, liu cheng; 广西，柳州，柳城
+gx, lz, lz; guang xi, liu zhou, lu zhai; 广西，柳州，鹿寨
+gx, lz, lj; guang xi, liu zhou, liu jiang; 广西，柳州，柳江
+gx, lz, ra; guang xi, liu zhou, rong an; 广西，柳州，融安
+gx, lz, rs; guang xi, liu zhou, rong shui; 广西，柳州，融水
+gx, lz, sj; guang xi, liu zhou, san jiang; 广西，柳州，三江
+gx, lb, cq; guang xi, lai bin, cheng qu; 广西，来宾，城区
+gx, lb, xc; guang xi, lai bin, xin cheng; 广西，来宾，忻城
+gx, lb, jx; guang xi, lai bin, jin xiu; 广西，来宾，金秀
+gx, lb, xz; guang xi, lai bin, xiang zhou; 广西，来宾，象州
+gx, lb, wx; guang xi, lai bin, wu xuan; 广西，来宾，武宣
+gx, lb, hs; guang xi, lai bin, he shan; 广西，来宾，合山
+gx, gl, cq; guang xi, gui lin, cheng qu; 广西，桂林，城区
+gx, gl, ls; guang xi, gui lin, long sheng; 广西，桂林，龙胜
+gx, gl, yf; guang xi, gui lin, yong fu; 广西，桂林，永福
+gx, gl, lg; guang xi, gui lin, lin gui; 广西，桂林，临桂
+gx, gl, xa; guang xi, gui lin, xing an; 广西，桂林，兴安
+gx, gl, lc; guang xi, gui lin, ling chuan; 广西，桂林，灵川
+gx, gl, qz; guang xi, gui lin, quan zhou; 广西，桂林，全州
+gx, gl, gy; guang xi, gui lin, guan yang; 广西，桂林，灌阳
+gx, gl, ys; guang xi, gui lin, yang shuo; 广西，桂林，阳朔
+gx, gl, gc; guang xi, gui lin, gong cheng; 广西，桂林，恭城
+gx, gl, pl; guang xi, gui lin, ping le; 广西，桂林，平乐
+gx, gl, lp; guang xi, gui lin, li pu; 广西，桂林，荔浦
+gx, gl, zy; guang xi, gui lin, zi yuan; 广西，桂林，资源
+gx, wz, cq; guang xi, wu zhou, cheng qu; 广西，梧州，城区
+gx, wz, tx; guang xi, wu zhou, teng xian; 广西，梧州，藤县
+gx, wz, cw; guang xi, wu zhou, cang wu; 广西，梧州，苍梧
+gx, wz, ms; guang xi, wu zhou, meng shan; 广西，梧州，蒙山
+gx, wz, cx; guang xi, wu zhou, cen xi; 广西，梧州，岑溪
+gx, hz, cq; guang xi, he zhou, cheng qu; 广西，贺州，城区
+gx, hz, zp; guang xi, he zhou, zhao ping; 广西，贺州，昭平
+gx, hz, fc; guang xi, he zhou, fu chuan; 广西，贺州，富川
+gx, hz, zs; guang xi, he zhou, zhong shan; 广西，贺州，钟山
+gx, gg, cq; guang xi, gui gang, cheng qu; 广西，贵港，城区
+gx, gg, gp; guang xi, gui gang, gui ping; 广西，贵港，桂平
+gx, gg, pn; guang xi, gui gang, ping nan; 广西，贵港，平南
+gx, yl, cq; guang xi, yu lin, cheng qu; 广西，玉林，城区
+gx, yl, bb; guang xi, yu lin, bo bai; 广西，玉林，博白
+gx, yl, bl; guang xi, yu lin, bei liu; 广西，玉林，北流
+gx, yl, rx; guang xi, yu lin, rong xian; 广西，玉林，容县
+gx, yl, lc; guang xi, yu lin, lu chuan; 广西，玉林，陆川
+gx, yl, xy; guang xi, yu lin, xing ye; 广西，玉林，兴业
+gx, bs, cq; guang xi, bai se, cheng qu; 广西，百色，城区
+gx, bs, np; guang xi, bai se, na po; 广西，百色，那坡
+gx, bs, ty; guang xi, bai se, tian yang; 广西，百色，田阳
+gx, bs, db; guang xi, bai se, de bao; 广西，百色，德保
+gx, bs, jx; guang xi, bai se, jing xi; 广西，百色，靖西
+gx, bs, td; guang xi, bai se, tian dong; 广西，百色，田东
+gx, bs, pg; guang xi, bai se, ping guo; 广西，百色，平果
+gx, bs, ll; guang xi, bai se, long lin; 广西，百色，隆林
+gx, bs, xl; guang xi, bai se, xi lin; 广西，百色，西林
+gx, bs, ly; guang xi, bai se, le ye; 广西，百色，乐业
+gx, bs, ly; guang xi, bai se, ling yun; 广西，百色，凌云
+gx, bs, tl; guang xi, bai se, tian lin; 广西，百色，田林
+gx, qz, cq; guang xi, qin zhou, cheng qu; 广西，钦州，城区
+gx, qz, pb; guang xi, qin zhou, pu bei; 广西，钦州，浦北
+gx, qz, ls; guang xi, qin zhou, ling shan; 广西，钦州，灵山
+gx, hc, cq; guang xi, he chi, cheng qu; 广西，河池，城区
+gx, hc, te; guang xi, he chi, tian e; 广西，河池，天峨
+gx, hc, dl; guang xi, he chi, dong lan; 广西，河池，东兰
+gx, hc, bm; guang xi, he chi, ba ma; 广西，河池，巴马
+gx, hc, hj; guang xi, he chi, huan jiang; 广西，河池，环江
+gx, hc, lc; guang xi, he chi, luo cheng; 广西，河池，罗城
+gx, hc, yz; guang xi, he chi, yi zhou; 广西，河池，宜州
+gx, hc, fs; guang xi, he chi, feng shan; 广西，河池，凤山
+gx, hc, nd; guang xi, he chi, nan dan; 广西，河池，南丹
+gx, hc, da; guang xi, he chi, dou an; 广西，河池，都安
+gx, hc, dh; guang xi, he chi, da hua; 广西，河池，大化
+gx, bh, cq; guang xi, bei hai, cheng qu; 广西，北海，城区
+gx, bh, hp; guang xi, bei hai, he pu; 广西，北海，合浦
+gx, fcg, cq; guang xi, fang cheng gang, cheng qu; 广西，防城港，城区
+gx, fcg, ss; guang xi, fang cheng gang, shang si; 广西，防城港，上思
+gx, fcg, dx; guang xi, fang cheng gang, dong xing; 广西，防城港，东兴
+gx, fcg, fc; guang xi, fang cheng gang, fang cheng; 广西，防城港，防城
+gz, gy, cq; gui zhou, gui yang, cheng qu; 贵州，贵阳，城区
+gz, gy, by; gui zhou, gui yang, bai yun; 贵州，贵阳，白云
+gz, gy, hx; gui zhou, gui yang, hua xi; 贵州，贵阳，花溪
+gz, gy, wd; gui zhou, gui yang, wu dang; 贵州，贵阳，乌当
+gz, gy, xf; gui zhou, gui yang, xi feng; 贵州，贵阳，息烽
+gz, gy, ky; gui zhou, gui yang, kai yang; 贵州，贵阳，开阳
+gz, gy, xw; gui zhou, gui yang, xiu wen; 贵州，贵阳，修文
+gz, gy, qz; gui zhou, gui yang, qing zhen; 贵州，贵阳，清镇
+gz, gy, yy; gui zhou, gui yang, yun yan; 贵州，贵阳，云岩
+gz, gy, nm; gui zhou, gui yang, nan ming; 贵州，贵阳，南明
+gz, zy, cq; gui zhou, zun yi, cheng qu; 贵州，遵义，城区
+gz, zy, rh; gui zhou, zun yi, ren huai; 贵州，遵义，仁怀
+gz, zy, sy; gui zhou, zun yi, sui yang; 贵州，遵义，绥阳
+gz, zy, mt; gui zhou, zun yi, mei tan; 贵州，遵义，湄潭
+gz, zy, fg; gui zhou, zun yi, feng gang; 贵州，遵义，凤冈
+gz, zy, tz; gui zhou, zun yi, tong zi; 贵州，遵义，桐梓
+gz, zy, cs; gui zhou, zun yi, chi shui; 贵州，遵义，赤水
+gz, zy, xs; gui zhou, zun yi, xi shui; 贵州，遵义，习水
+gz, zy, dz; gui zhou, zun yi, dao zhen; 贵州，遵义，道真
+gz, zy, za; gui zhou, zun yi, zheng an; 贵州，遵义，正安
+gz, zy, wc; gui zhou, zun yi, wu chuan; 贵州，遵义，务川
+gz, zy, yq; gui zhou, zun yi, yu qing; 贵州，遵义，余庆
+gz, zy, hc; gui zhou, zun yi, hui chuan; 贵州，遵义，汇川
+gz, zy, hhg; gui zhou, zun yi, hong hua gang; 贵州，遵义，红花岗
+gz, as, cq; gui zhou, an shun, cheng qu; 贵州，安顺，城区
+gz, as, pd; gui zhou, an shun, pu ding; 贵州，安顺，普定
+gz, as, zn; gui zhou, an shun, zhen ning; 贵州，安顺，镇宁
+gz, as, pb; gui zhou, an shun, ping ba; 贵州，安顺，平坝
+gz, as, zy; gui zhou, an shun, zi yun; 贵州，安顺，紫云
+gz, as, gl; gui zhou, an shun, guan ling; 贵州，安顺，关岭
+gz, qn, dy; gui zhou, qian nan, dou yun; 贵州，黔南，都匀
+gz, qn, gd; gui zhou, qian nan, gui ding; 贵州，黔南，贵定
+gz, qn, wa; gui zhou, qian nan, weng an; 贵州，黔南，瓮安
+gz, qn, zs; gui zhou, qian nan, zhang shun; 贵州，黔南，长顺
+gz, qn, fq; gui zhou, qian nan, fu quan; 贵州，黔南，福泉
+gz, qn, hs; gui zhou, qian nan, hui shui; 贵州，黔南，惠水
+gz, qn, ll; gui zhou, qian nan, long li; 贵州，黔南，龙里
+gz, qn, ld; gui zhou, qian nan, luo dian; 贵州，黔南，罗甸
+gz, qn, pt; gui zhou, qian nan, ping tang; 贵州，黔南，平塘
+gz, qn, ds; gui zhou, qian nan, du shan; 贵州，黔南，独山
+gz, qn, sd; gui zhou, qian nan, san dou; 贵州，黔南，三都
+gz, qn, lb; gui zhou, qian nan, li bo; 贵州，黔南，荔波
+gz, qdn, kl; gui zhou, qian dong nan, kai li; 贵州，黔东南，凯里
+gz, qdn, cg; gui zhou, qian dong nan, cen gong; 贵州，黔东南，岑巩
+gz, qdn, sb; gui zhou, qian dong nan, shi bing; 贵州，黔东南，施秉
+gz, qdn, zy; gui zhou, qian dong nan, zhen yuan; 贵州，黔东南，镇远
+gz, qdn, hp; gui zhou, qian dong nan, huang ping; 贵州，黔东南，黄平
+gz, qdn, mj; gui zhou, qian dong nan, ma jiang; 贵州，黔东南，麻江
+gz, qdn, dz; gui zhou, qian dong nan, dan zhai; 贵州，黔东南，丹寨
+gz, qdn, ss; gui zhou, qian dong nan, san sui; 贵州，黔东南，三穗
+gz, qdn, tj; gui zhou, qian dong nan, tai jiang; 贵州，黔东南，台江
+gz, qdn, jh; gui zhou, qian dong nan, jian he; 贵州，黔东南，剑河
+gz, qdn, ls; gui zhou, qian dong nan, lei shan; 贵州，黔东南，雷山
+gz, qdn, lp; gui zhou, qian dong nan, li ping; 贵州，黔东南，黎平
+gz, qdn, tz; gui zhou, qian dong nan, tian zhu; 贵州，黔东南，天柱
+gz, qdn, jp; gui zhou, qian dong nan, jin ping; 贵州，黔东南，锦屏
+gz, qdn, rj; gui zhou, qian dong nan, rong jiang; 贵州，黔东南，榕江
+gz, qdn, cj; gui zhou, qian dong nan, cong jiang; 贵州，黔东南，从江
+gz, tr, cq; gui zhou, tong ren, cheng qu; 贵州，铜仁，城区
+gz, tr, jk; gui zhou, tong ren, jiang kou; 贵州，铜仁，江口
+gz, tr, yp; gui zhou, tong ren, yu ping; 贵州，铜仁，玉屏
+gz, tr, ws; gui zhou, tong ren, wan shan; 贵州，铜仁，万山
+gz, tr, sn; gui zhou, tong ren, si nan; 贵州，铜仁，思南
+gz, tr, yj; gui zhou, tong ren, yin jiang; 贵州，铜仁，印江
+gz, tr, sq; gui zhou, tong ren, shi qian; 贵州，铜仁，石阡
+gz, tr, yh; gui zhou, tong ren, yan he; 贵州，铜仁，沿河
+gz, tr, dj; gui zhou, tong ren, de jiang; 贵州，铜仁，德江
+gz, tr, st; gui zhou, tong ren, song tao; 贵州，铜仁，松桃
+gz, bj, cq; gui zhou, bi jie, cheng qu; 贵州，毕节，城区
+gz, bj, hz; gui zhou, bi jie, he zhang; 贵州，毕节，赫章
+gz, bj, js; gui zhou, bi jie, jin sha; 贵州，毕节，金沙
+gz, bj, wn; gui zhou, bi jie, wei ning; 贵州，毕节，威宁
+gz, bj, df; gui zhou, bi jie, da fang; 贵州，毕节，大方
+gz, bj, ny; gui zhou, bi jie, na yong; 贵州，毕节，纳雍
+gz, bj, zj; gui zhou, bi jie, zhi jin; 贵州，毕节，织金
+gz, bj, qx; gui zhou, bi jie, qian xi; 贵州，毕节，黔西
+gz, lps, sc; gui zhou, liu pan shui, shui cheng; 贵州，六盘水，水城
+gz, lps, lz; gui zhou, liu pan shui, liu zhi; 贵州，六盘水，六枝
+gz, lps, px; gui zhou, liu pan shui, pan xian; 贵州，六盘水，盘县
+gz, qxn, xy; gui zhou, qian xi nan, xing yi; 贵州，黔西南，兴义
+gz, qxn, ql; gui zhou, qian xi nan, qing long; 贵州，黔西南，晴隆
+gz, qxn, xr; gui zhou, qian xi nan, xing ren; 贵州，黔西南，兴仁
+gz, qxn, zf; gui zhou, qian xi nan, zhen feng; 贵州，黔西南，贞丰
+gz, qxn, wm; gui zhou, qian xi nan, wang mo; 贵州，黔西南，望谟
+gz, qxn, al; gui zhou, qian xi nan, an long; 贵州，黔西南，安龙
+gz, qxn, ch; gui zhou, qian xi nan, ce heng; 贵州，黔西南，册亨
+gz, qxn, pa; gui zhou, qian xi nan, pu an; 贵州，黔西南，普安
+hn, hk; hai nan, hai kou; 海南，海口
+hn, sy; hai nan, san ya; 海南，三亚
+hn, df; hai nan, dong fang; 海南，东方
+hn, lg; hai nan, lin gao; 海南，临高
+hn, cm; hai nan, cheng mai; 海南，澄迈
+hn, dz; hai nan, dan zhou; 海南，儋州
+hn, cj; hai nan, chang jiang; 海南，昌江
+hn, bs; hai nan, bai sha; 海南，白沙
+hn, qz; hai nan, qiong zhong; 海南，琼中
+hn, da; hai nan, ding an; 海南，定安
+hn, tc; hai nan, tun chang; 海南，屯昌
+hn, qh; hai nan, qiong hai; 海南，琼海
+hn, wc; hai nan, wen chang; 海南，文昌
+hn, bt; hai nan, bao ting; 海南，保亭
+hn, wn; hai nan, wan ning; 海南，万宁
+hn, ls; hai nan, ling shui; 海南，陵水
+hn, ld; hai nan, le dong; 海南，乐东
+hn, wzs; hai nan, wu zhi shan; 海南，五指山
+hg, se; han guo, shou er; 韩国，首尔（Seoul）
+hb, sjz, cq; he bei, shi jia zhuang, cheng qu; 河北，石家庄，城区
+hb, sjz, jx; he bei, shi jia zhuang, jing xing; 河北，石家庄，井陉
+hb, sjz, zd; he bei, shi jia zhuang, zheng ding; 河北，石家庄，正定
+hb, sjz, lc; he bei, shi jia zhuang, luan cheng; 河北，石家庄，栾城
+hb, sjz, xt; he bei, shi jia zhuang, xing tang; 河北，石家庄，行唐
+hb, sjz, ls; he bei, shi jia zhuang, ling shou; 河北，石家庄，灵寿
+hb, sjz, gy; he bei, shi jia zhuang, gao yi; 河北，石家庄，高邑
+hb, sjz, sz; he bei, shi jia zhuang, shen ze; 河北，石家庄，深泽
+hb, sjz, zh; he bei, shi jia zhuang, zan huang; 河北，石家庄，赞皇
+hb, sjz, wj; he bei, shi jia zhuang, wu ji; 河北，石家庄，无极
+hb, sjz, ps; he bei, shi jia zhuang, ping shan; 河北，石家庄，平山
+hb, sjz, ys; he bei, shi jia zhuang, yuan shi; 河北，石家庄，元氏
+hb, sjz, zx; he bei, shi jia zhuang, zhao xian; 河北，石家庄，赵县
+hb, sjz, xj; he bei, shi jia zhuang, xin ji; 河北，石家庄，辛集
+hb, sjz, gc; he bei, shi jia zhuang, gao cheng; 河北，石家庄，藁城
+hb, sjz, jz; he bei, shi jia zhuang, jin zhou; 河北，石家庄，晋州
+hb, sjz, xl; he bei, shi jia zhuang, xin le; 河北，石家庄，新乐
+hb, sjz, lq; he bei, shi jia zhuang, lu quan; 河北，石家庄，鹿泉
+hb, bd, cq; he bei, bao ding, cheng qu; 河北，保定，城区
+hb, bd, mc; he bei, bao ding, man cheng; 河北，保定，满城
+hb, bd, fp; he bei, bao ding, fu ping; 河北，保定，阜平
+hb, bd, xs; he bei, bao ding, xu shui; 河北，保定，徐水
+hb, bd, tx; he bei, bao ding, tang xian; 河北，保定，唐县
+hb, bd, gy; he bei, bao ding, gao yang; 河北，保定，高阳
+hb, bd, ly; he bei, bao ding, lai yuan; 河北，保定，涞源
+hb, bd, wd; he bei, bao ding, wang dou; 河北，保定，望都
+hb, bd, yx; he bei, bao ding, yi xian; 河北，保定，易县
+hb, bd, qy; he bei, bao ding, qu yang; 河北，保定，曲阳
+hb, bd, lx; he bei, bao ding, li xian; 河北，保定，蠡县
+hb, bd, sp; he bei, bao ding, shun ping; 河北，保定，顺平
+hb, bd, zz; he bei, bao ding, zhuo zhou; 河北，保定，涿州
+hb, bd, dz; he bei, bao ding, ding zhou; 河北，保定，定州
+hb, bd, ag; he bei, bao ding, an guo; 河北，保定，安国
+hb, bd, gbd; he bei, bao ding, gao bei dian; 河北，保定，高碑店
+hb, bd, ls; he bei, bao ding, lai shui; 河北，保定，涞水
+hb, bd, dx; he bei, bao ding, ding xing; 河北，保定，定兴
+hb, bd, qy; he bei, bao ding, qing yuan; 河北，保定，清苑
+hb, bd, by; he bei, bao ding, bo ye; 河北，保定，博野
+hb, zjk, cq; he bei, zhang jia kou, cheng qu; 河北，张家口，城区
+hb, zjk, xh; he bei, zhang jia kou, xuan hua; 河北，张家口，宣化
+hb, zjk, zb; he bei, zhang jia kou, zhang bei; 河北，张家口，张北
+hb, zjk, kb; he bei, zhang jia kou, kang bao; 河北，张家口，康保
+hb, zjk, gy; he bei, zhang jia kou, gu yuan; 河北，张家口，沽源
+hb, zjk, sy; he bei, zhang jia kou, shang yi; 河北，张家口，尚义
+hb, zjk, yx; he bei, zhang jia kou, yu xian; 河北，张家口，蔚县
+hb, zjk, yy; he bei, zhang jia kou, yang yuan; 河北，张家口，阳原
+hb, zjk, ha; he bei, zhang jia kou, huai an; 河北，张家口，怀安
+hb, zjk, wq; he bei, zhang jia kou, wan quan; 河北，张家口，万全
+hb, zjk, hl; he bei, zhang jia kou, huai lai; 河北，张家口，怀来
+hb, zjk, zl; he bei, zhang jia kou, zhuo lu; 河北，张家口，涿鹿
+hb, zjk, cc; he bei, zhang jia kou, chi cheng; 河北，张家口，赤城
+hb, zjk, cl; he bei, zhang jia kou, chong li; 河北，张家口，崇礼
+hb, cd, cq; he bei, cheng de, cheng qu; 河北，承德，城区
+hb, cd, cdx; he bei, cheng de, cheng de xian; 河北，承德，承德县
+hb, cd, xl; he bei, cheng de, xing long; 河北，承德，兴隆
+hb, cd, pq; he bei, cheng de, ping quan; 河北，承德，平泉
+hb, cd, lp; he bei, cheng de, luan ping; 河北，承德，滦平
+hb, cd, lh; he bei, cheng de, long hua; 河北，承德，隆化
+hb, cd, fn; he bei, cheng de, feng ning; 河北，承德，丰宁
+hb, cd, kc; he bei, cheng de, kuan cheng; 河北，承德，宽城
+hb, cd, wc; he bei, cheng de, wei chang; 河北，承德，围场
+hb, ts, cq; he bei, tang shan, cheng qu; 河北，唐山，城区
+hb, ts, fn; he bei, tang shan, feng nan; 河北，唐山，丰南
+hb, ts, fr; he bei, tang shan, feng run; 河北，唐山，丰润
+hb, ts, lx; he bei, tang shan, luan xian; 河北，唐山，滦县
+hb, ts, ln; he bei, tang shan, luan nan; 河北，唐山，滦南
+hb, ts, lt; he bei, tang shan, le ting; 河北，唐山，乐亭
+hb, ts, qx; he bei, tang shan, qian xi; 河北，唐山，迁西
+hb, ts, yt; he bei, tang shan, yu tian; 河北，唐山，玉田
+hb, ts, cfd; he bei, tang shan, cao fei dian; 河北，唐山，曹妃甸
+hb, ts, zh; he bei, tang shan, zun hua; 河北，唐山，遵化
+hb, ts, qa; he bei, tang shan, qian an; 河北，唐山，迁安
+hb, lf, cq; he bei, lang fang, cheng qu; 河北，廊坊，城区
+hb, lf, ga; he bei, lang fang, gu an; 河北，廊坊，固安
+hb, lf, yq; he bei, lang fang, yong qing; 河北，廊坊，永清
+hb, lf, xh; he bei, lang fang, xiang he; 河北，廊坊，香河
+hb, lf, dc; he bei, lang fang, dai cheng; 河北，廊坊，大城
+hb, lf, wa; he bei, lang fang, wen an; 河北，廊坊，文安
+hb, lf, dc; he bei, lang fang, da chang; 河北，廊坊，大厂
+hb, lf, bz; he bei, lang fang, ba zhou; 河北，廊坊，霸州
+hb, lf, sh; he bei, lang fang, san he; 河北，廊坊，三河
+hb, cz, cq; he bei, cang zhou, cheng qu; 河北，沧州，城区
+hb, cz, qx; he bei, cang zhou, qing xian; 河北，沧州，青县
+hb, cz, dg; he bei, cang zhou, dong guang; 河北，沧州，东光
+hb, cz, hx; he bei, cang zhou, hai xing; 河北，沧州，海兴
+hb, cz, ys; he bei, cang zhou, yan shan; 河北，沧州，盐山
+hb, cz, sn; he bei, cang zhou, su ning; 河北，沧州，肃宁
+hb, cz, np; he bei, cang zhou, nan pi; 河北，沧州，南皮
+hb, cz, wq; he bei, cang zhou, wu qiao; 河北，沧州，吴桥
+hb, cz, xx; he bei, cang zhou, xian xian; 河北，沧州，献县
+hb, cz, mc; he bei, cang zhou, meng cun; 河北，沧州，孟村
+hb, cz, pt; he bei, cang zhou, po tou; 河北，沧州，泊头
+hb, cz, rq; he bei, cang zhou, ren qiu; 河北，沧州，任丘
+hb, cz, hh; he bei, cang zhou, huang hua; 河北，沧州，黄骅
+hb, cz, hj; he bei, cang zhou, he jian; 河北，沧州，河间
+hb, cz, cx; he bei, cang zhou, cang xian; 河北，沧州，沧县
+hb, hs, cq; he bei, heng shui, cheng qu; 河北，衡水，城区
+hb, hs, zq; he bei, heng shui, zao qiang; 河北，衡水，枣强
+hb, hs, wy; he bei, heng shui, wu yi; 河北，衡水，武邑
+hb, hs, wq; he bei, heng shui, wu qiang; 河北，衡水，武强
+hb, hs, ry; he bei, heng shui, rao yang; 河北，衡水，饶阳
+hb, hs, ap; he bei, heng shui, an ping; 河北，衡水，安平
+hb, hs, gc; he bei, heng shui, gu cheng; 河北，衡水，故城
+hb, hs, jx; he bei, heng shui, jing xian; 河北，衡水，景县
+hb, hs, fc; he bei, heng shui, fu cheng; 河北，衡水，阜城
+hb, hs, jz; he bei, heng shui, ji zhou; 河北，衡水，冀州
+hb, hs, sz; he bei, heng shui, shen zhou; 河北，衡水，深州
+hb, xt, cq; he bei, xing tai, cheng qu; 河北，邢台，城区
+hb, xt, lc; he bei, xing tai, lin cheng; 河北，邢台，临城
+hb, xt, nq; he bei, xing tai, nei qiu; 河北，邢台，内丘
+hb, xt, bx; he bei, xing tai, bai xiang; 河北，邢台，柏乡
+hb, xt, ly; he bei, xing tai, long yao; 河北，邢台，隆尧
+hb, xt, nh; he bei, xing tai, nan he; 河北，邢台，南和
+hb, xt, nj; he bei, xing tai, ning jin; 河北，邢台，宁晋
+hb, xt, jl; he bei, xing tai, ju lu; 河北，邢台，巨鹿
+hb, xt, xh; he bei, xing tai, xin he; 河北，邢台，新河
+hb, xt, gz; he bei, xing tai, guang zong; 河北，邢台，广宗
+hb, xt, px; he bei, xing tai, ping xiang; 河北，邢台，平乡
+hb, xt, wx; he bei, xing tai, wei xian; 河北，邢台，威县
+hb, xt, qh; he bei, xing tai, qing he; 河北，邢台，清河
+hb, xt, lx; he bei, xing tai, lin xi; 河北，邢台，临西
+hb, xt, ng; he bei, xing tai, nan gong; 河北，邢台，南宫
+hb, xt, sh; he bei, xing tai, sha he; 河北，邢台，沙河
+hb, xt, rx; he bei, xing tai, ren xian; 河北，邢台，任县
+hb, hd, cq; he bei, han dan, cheng qu; 河北，邯郸，城区
+hb, hd, ff; he bei, han dan, feng feng; 河北，邯郸，峰峰
+hb, hd, lz; he bei, han dan, lin zhang; 河北，邯郸，临漳
+hb, hd, ca; he bei, han dan, cheng an; 河北，邯郸，成安
+hb, hd, dm; he bei, han dan, da ming; 河北，邯郸，大名
+hb, hd, sx; he bei, han dan, she xian; 河北，邯郸，涉县
+hb, hd, cx; he bei, han dan, ci xian; 河北，邯郸，磁县
+hb, hd, fx; he bei, han dan, fei xiang; 河北，邯郸，肥乡
+hb, hd, yn; he bei, han dan, yong nian; 河北，邯郸，永年
+hb, hd, qx; he bei, han dan, qiu xian; 河北，邯郸，邱县
+hb, hd, jz; he bei, han dan, ji ze; 河北，邯郸，鸡泽
+hb, hd, gp; he bei, han dan, guang ping; 河北，邯郸，广平
+hb, hd, gt; he bei, han dan, guan tao; 河北，邯郸，馆陶
+hb, hd, wx; he bei, han dan, wei xian; 河北，邯郸，魏县
+hb, hd, qz; he bei, han dan, qu zhou; 河北，邯郸，曲周
+hb, hd, wa; he bei, han dan, wu an; 河北，邯郸，武安
+hb, qhd, cq; he bei, qin huang dao, cheng qu; 河北，秦皇岛，城区
+hb, qhd, ql; he bei, qin huang dao, qing long; 河北，秦皇岛，青龙
+hb, qhd, cl; he bei, qin huang dao, chang li; 河北，秦皇岛，昌黎
+hb, qhd, fn; he bei, qin huang dao, fu ning; 河北，秦皇岛，抚宁
+hb, qhd, ll; he bei, qin huang dao, lu long; 河北，秦皇岛，卢龙
+hb, qhd, bdh; he bei, qin huang dao, bei dai he; 河北，秦皇岛，北戴河
+hb, xaxq, rc; he bei, xiong an xin qu, rong cheng; 河北，雄安新区，容城
+hb, xaxq, ax; he bei, xiong an xin qu, an xin; 河北，雄安新区，安新
+hb, xaxq, xx; he bei, xiong an xin qu, xiong xian; 河北，雄安新区，雄县
+hn, zz, cq; he nan, zheng zhou, cheng qu; 河南，郑州，城区
+hn, zz, gy; he nan, zheng zhou, gong yi; 河南，郑州，巩义
+hn, zz, xy; he nan, zheng zhou, xing yang; 河南，郑州，荥阳
+hn, zz, df; he nan, zheng zhou, deng feng; 河南，郑州，登封
+hn, zz, xm; he nan, zheng zhou, xin mi; 河南，郑州，新密
+hn, zz, xz; he nan, zheng zhou, xin zheng; 河南，郑州，新郑
+hn, zz, zm; he nan, zheng zhou, zhong mu; 河南，郑州，中牟
+hn, zz, sj; he nan, zheng zhou, shang jie; 河南，郑州，上街
+hn, ay, cq; he nan, an yang, cheng qu; 河南，安阳，城区
+hn, ay, ty; he nan, an yang, tang yin; 河南，安阳，汤阴
+hn, ay, hx; he nan, an yang, hua xian; 河南，安阳，滑县
+hn, ay, nh; he nan, an yang, nei huang; 河南，安阳，内黄
+hn, ay, lz; he nan, an yang, lin zhou; 河南，安阳，林州
+hn, xx, cq; he nan, xin xiang, cheng qu; 河南，新乡，城区
+hn, xx, hj; he nan, xin xiang, huo jia; 河南，新乡，获嘉
+hn, xx, yy; he nan, xin xiang, yuan yang; 河南，新乡，原阳
+hn, xx, hx; he nan, xin xiang, hui xian; 河南，新乡，辉县
+hn, xx, wh; he nan, xin xiang, wei hui; 河南，新乡，卫辉
+hn, xx, yj; he nan, xin xiang, yan jin; 河南，新乡，延津
+hn, xx, fq; he nan, xin xiang, feng qiu; 河南，新乡，封丘
+hn, xx, zy; he nan, xin xiang, zhang yuan; 河南，新乡，长垣
+hn, xc, cq; he nan, xu chang, cheng qu; 河南，许昌，城区
+hn, xc, yl; he nan, xu chang, yan ling; 河南，许昌，鄢陵
+hn, xc, xc; he nan, xu chang, xiang cheng; 河南，许昌，襄城
+hn, xc, zg; he nan, xu chang, zhang ge; 河南，许昌，长葛
+hn, xc, yz; he nan, xu chang, yu zhou; 河南，许昌，禹州
+hn, pds, cq; he nan, ping ding shan, cheng qu; 河南，平顶山，城区
+hn, pds, jx; he nan, ping ding shan, jia xian; 河南，平顶山，郏县
+hn, pds, bf; he nan, ping ding shan, bao feng; 河南，平顶山，宝丰
+hn, pds, rz; he nan, ping ding shan, ru zhou; 河南，平顶山，汝州
+hn, pds, yx; he nan, ping ding shan, ye xian; 河南，平顶山，叶县
+hn, pds, wg; he nan, ping ding shan, wu gang; 河南，平顶山，舞钢
+hn, pds, ls; he nan, ping ding shan, lu shan; 河南，平顶山，鲁山
+hn, pds, sl; he nan, ping ding shan, shi long; 河南，平顶山，石龙
+hn, xy, cq; he nan, xin yang, cheng qu; 河南，信阳，城区
+hn, xy, xx; he nan, xin yang, xi xian; 河南，信阳，息县
+hn, xy, ls; he nan, xin yang, luo shan; 河南，信阳，罗山
+hn, xy, gs; he nan, xin yang, guang shan; 河南，信阳，光山
+hn, xy, xx; he nan, xin yang, xin xian; 河南，信阳，新县
+hn, xy, hb; he nan, xin yang, huai bin; 河南，信阳，淮滨
+hn, xy, hc; he nan, xin yang, huang chuan; 河南，信阳，潢川
+hn, xy, gs; he nan, xin yang, gu shi; 河南，信阳，固始
+hn, xy, sc; he nan, xin yang, shang cheng; 河南，信阳，商城
+hn, ny, cq; he nan, nan yang, cheng qu; 河南，南阳，城区
+hn, ny, nz; he nan, nan yang, nan zhao; 河南，南阳，南召
+hn, ny, fc; he nan, nan yang, fang cheng; 河南，南阳，方城
+hn, ny, sq; he nan, nan yang, she qi; 河南，南阳，社旗
+hn, ny, xx; he nan, nan yang, xi xia; 河南，南阳，西峡
+hn, ny, nx; he nan, nan yang, nei xiang; 河南，南阳，内乡
+hn, ny, zp; he nan, nan yang, zhen ping; 河南，南阳，镇平
+hn, ny, xc; he nan, nan yang, xi chuan; 河南，南阳，淅川
+hn, ny, xy; he nan, nan yang, xin ye; 河南，南阳，新野
+hn, ny, th; he nan, nan yang, tang he; 河南，南阳，唐河
+hn, ny, dz; he nan, nan yang, deng zhou; 河南，南阳，邓州
+hn, ny, tb; he nan, nan yang, tong bai; 河南，南阳，桐柏
+hn, kf, cq; he nan, kai feng, cheng qu; 河南，开封，城区
+hn, kf, qx; he nan, kai feng, qi xian; 河南，开封，杞县
+hn, kf, ws; he nan, kai feng, wei shi; 河南，开封，尉氏
+hn, kf, tx; he nan, kai feng, tong xu; 河南，开封，通许
+hn, kf, lk; he nan, kai feng, lan kao; 河南，开封，兰考
+hn, ly, cq; he nan, luo yang, cheng qu; 河南，洛阳，城区
+hn, ly, xa; he nan, luo yang, xin an; 河南，洛阳，新安
+hn, ly, mj; he nan, luo yang, meng jin; 河南，洛阳，孟津
+hn, ly, yy; he nan, luo yang, yi yang; 河南，洛阳，宜阳
+hn, ly, ln; he nan, luo yang, luo ning; 河南，洛阳，洛宁
+hn, ly, yc; he nan, luo yang, yi chuan; 河南，洛阳，伊川
+hn, ly, sx; he nan, luo yang, song xian; 河南，洛阳，嵩县
+hn, ly, ys; he nan, luo yang, yan shi; 河南，洛阳，偃师
+hn, ly, lc; he nan, luo yang, luan chuan; 河南，洛阳，栾川
+hn, ly, ry; he nan, luo yang, ru yang; 河南，洛阳，汝阳
+hn, ly, jl; he nan, luo yang, ji li; 河南，洛阳，吉利
+hn, sq, cq; he nan, shang qiu, cheng qu; 河南，商丘，城区
+hn, sq, sx; he nan, shang qiu, sui xian; 河南，商丘，睢县
+hn, sq, mq; he nan, shang qiu, min quan; 河南，商丘，民权
+hn, sq, yc; he nan, shang qiu, yu cheng; 河南，商丘，虞城
+hn, sq, zc; he nan, shang qiu, zhe cheng; 河南，商丘，柘城
+hn, sq, nl; he nan, shang qiu, ning ling; 河南，商丘，宁陵
+hn, sq, xy; he nan, shang qiu, xia yi; 河南，商丘，夏邑
+hn, sq, yc; he nan, shang qiu, yong cheng; 河南，商丘，永城
+hn, jz, cq; he nan, jiao zuo, cheng qu; 河南，焦作，城区
+hn, jz, xw; he nan, jiao zuo, xiu wu; 河南，焦作，修武
+hn, jz, wz; he nan, jiao zuo, wu zhi; 河南，焦作，武陟
+hn, jz, qy; he nan, jiao zuo, qin yang; 河南，焦作，沁阳
+hn, jz, ba; he nan, jiao zuo, bo ai; 河南，焦作，博爱
+hn, jz, wx; he nan, jiao zuo, wen xian; 河南，焦作，温县
+hn, jz, mz; he nan, jiao zuo, meng zhou; 河南，焦作，孟州
+hn, hb, cq; he nan, he bi, cheng qu; 河南，鹤壁，城区
+hn, hb, jx; he nan, he bi, jun xian; 河南，鹤壁，浚县
+hn, hb, qx; he nan, he bi, qi xian; 河南，鹤壁，淇县
+hn, py, cq; he nan, pu yang, cheng qu; 河南，濮阳，城区
+hn, py, tq; he nan, pu yang, tai qian; 河南，濮阳，台前
+hn, py, nl; he nan, pu yang, nan le; 河南，濮阳，南乐
+hn, py, qf; he nan, pu yang, qing feng; 河南，濮阳，清丰
+hn, py, fx; he nan, pu yang, fan xian; 河南，濮阳，范县
+hn, zk, cq; he nan, zhou kou, cheng qu; 河南，周口，城区
+hn, zk, fg; he nan, zhou kou, fu gou; 河南，周口，扶沟
+hn, zk, tk; he nan, zhou kou, tai kang; 河南，周口，太康
+hn, zk, hy; he nan, zhou kou, huai yang; 河南，周口，淮阳
+hn, zk, xh; he nan, zhou kou, xi hua; 河南，周口，西华
+hn, zk, ss; he nan, zhou kou, shang shui; 河南，周口，商水
+hn, zk, xc; he nan, zhou kou, xiang cheng; 河南，周口，项城
+hn, zk, dc; he nan, zhou kou, dan cheng; 河南，周口，郸城
+hn, zk, ly; he nan, zhou kou, lu yi; 河南，周口，鹿邑
+hn, zk, sq; he nan, zhou kou, shen qiu; 河南，周口，沈丘
+hn, th, cq; he nan, ta he, cheng qu; 河南，漯河，城区
+hn, th, ly; he nan, ta he, lin ying; 河南，漯河，临颍
+hn, th, wy; he nan, ta he, wu yang; 河南，漯河，舞阳
+hn, zmd, cq; he nan, zhu ma dian, cheng qu; 河南，驻马店，城区
+hn, zmd, xp; he nan, zhu ma dian, xi ping; 河南，驻马店，西平
+hn, zmd, sp; he nan, zhu ma dian, sui ping; 河南，驻马店，遂平
+hn, zmd, sc; he nan, zhu ma dian, shang cai; 河南，驻马店，上蔡
+hn, zmd, rn; he nan, zhu ma dian, ru nan; 河南，驻马店，汝南
+hn, zmd, by; he nan, zhu ma dian, bi yang; 河南，驻马店，泌阳
+hn, zmd, py; he nan, zhu ma dian, ping yu; 河南，驻马店，平舆
+hn, zmd, xc; he nan, zhu ma dian, xin cai; 河南，驻马店，新蔡
+hn, zmd, qs; he nan, zhu ma dian, que shan; 河南，驻马店，确山
+hn, zmd, zy; he nan, zhu ma dian, zheng yang; 河南，驻马店，正阳
+hn, smx, cq; he nan, san men xia, cheng qu; 河南，三门峡，城区
+hn, smx, lb; he nan, san men xia, ling bao; 河南，三门峡，灵宝
+hn, smx, mc; he nan, san men xia, mian chi; 河南，三门峡，渑池
+hn, smx, ls; he nan, san men xia, lu shi; 河南，三门峡，卢氏
+hn, smx, ym; he nan, san men xia, yi ma; 河南，三门峡，义马
+hn, smx, sz; he nan, san men xia, shan zhou; 河南，三门峡，陕州
+hn, jy, cq; he nan, ji yuan, cheng qu; 河南，济源，城区
+hlj, heb, cq; hei long jiang, ha er bin, cheng qu; 黑龙江，哈尔滨，城区
+hlj, heb, sc; hei long jiang, ha er bin, shuang cheng; 黑龙江，哈尔滨，双城
+hlj, heb, hl; hei long jiang, ha er bin, hu lan; 黑龙江，哈尔滨，呼兰
+hlj, heb, ac; hei long jiang, ha er bin, a cheng; 黑龙江，哈尔滨，阿城
+hlj, heb, bx; hei long jiang, ha er bin, bin xian; 黑龙江，哈尔滨，宾县
+hlj, heb, yl; hei long jiang, ha er bin, yi lan; 黑龙江，哈尔滨，依兰
+hlj, heb, by; hei long jiang, ha er bin, ba yan; 黑龙江，哈尔滨，巴彦
+hlj, heb, th; hei long jiang, ha er bin, tong he; 黑龙江，哈尔滨，通河
+hlj, heb, fz; hei long jiang, ha er bin, fang zheng; 黑龙江，哈尔滨，方正
+hlj, heb, ys; hei long jiang, ha er bin, yan shou; 黑龙江，哈尔滨，延寿
+hlj, heb, sz; hei long jiang, ha er bin, shang zhi; 黑龙江，哈尔滨，尚志
+hlj, heb, wc; hei long jiang, ha er bin, wu chang; 黑龙江，哈尔滨，五常
+hlj, heb, ml; hei long jiang, ha er bin, mu lan; 黑龙江，哈尔滨，木兰
+hlj, qqhe, cq; hei long jiang, qi qi ha er, cheng qu; 黑龙江，齐齐哈尔，城区
+hlj, qqhe, nh; hei long jiang, qi qi ha er, ne he; 黑龙江，齐齐哈尔，讷河
+hlj, qqhe, lj; hei long jiang, qi qi ha er, long jiang; 黑龙江，齐齐哈尔，龙江
+hlj, qqhe, gn; hei long jiang, qi qi ha er, gan nan; 黑龙江，齐齐哈尔，甘南
+hlj, qqhe, fy; hei long jiang, qi qi ha er, fu yu; 黑龙江，齐齐哈尔，富裕
+hlj, qqhe, ya; hei long jiang, qi qi ha er, yi an; 黑龙江，齐齐哈尔，依安
+hlj, qqhe, bq; hei long jiang, qi qi ha er, bai quan; 黑龙江，齐齐哈尔，拜泉
+hlj, qqhe, ks; hei long jiang, qi qi ha er, ke shan; 黑龙江，齐齐哈尔，克山
+hlj, qqhe, kd; hei long jiang, qi qi ha er, ke dong; 黑龙江，齐齐哈尔，克东
+hlj, qqhe, tl; hei long jiang, qi qi ha er, tai lai; 黑龙江，齐齐哈尔，泰来
+hlj, mdj, cq; hei long jiang, mu dan jiang, cheng qu; 黑龙江，牡丹江，城区
+hlj, mdj, hl; hei long jiang, mu dan jiang, hai lin; 黑龙江，牡丹江，海林
+hlj, mdj, ml; hei long jiang, mu dan jiang, mu leng; 黑龙江，牡丹江，穆棱
+hlj, mdj, lk; hei long jiang, mu dan jiang, lin kou; 黑龙江，牡丹江，林口
+hlj, mdj, sfh; hei long jiang, mu dan jiang, sui fen he; 黑龙江，牡丹江，绥芬河
+hlj, mdj, na; hei long jiang, mu dan jiang, ning an; 黑龙江，牡丹江，宁安
+hlj, mdj, dn; hei long jiang, mu dan jiang, dong ning; 黑龙江，牡丹江，东宁
+hlj, jms, cq; hei long jiang, jia mu si, cheng qu; 黑龙江，佳木斯，城区
+hlj, jms, ty; hei long jiang, jia mu si, tang yuan; 黑龙江，佳木斯，汤原
+hlj, jms, fy; hei long jiang, jia mu si, fu yuan; 黑龙江，佳木斯，抚远
+hlj, jms, hc; hei long jiang, jia mu si, hua chuan; 黑龙江，佳木斯，桦川
+hlj, jms, hn; hei long jiang, jia mu si, hua nan; 黑龙江，佳木斯，桦南
+hlj, jms, tj; hei long jiang, jia mu si, tong jiang; 黑龙江，佳木斯，同江
+hlj, jms, fj; hei long jiang, jia mu si, fu jin; 黑龙江，佳木斯，富锦
+hlj, sh, cq; hei long jiang, sui hua, cheng qu; 黑龙江，绥化，城区
+hlj, sh, zd; hei long jiang, sui hua, zhao dong; 黑龙江，绥化，肇东
+hlj, sh, ad; hei long jiang, sui hua, an da; 黑龙江，绥化，安达
+hlj, sh, hl; hei long jiang, sui hua, hai lun; 黑龙江，绥化，海伦
+hlj, sh, ms; hei long jiang, sui hua, ming shui; 黑龙江，绥化，明水
+hlj, sh, wk; hei long jiang, sui hua, wang kui; 黑龙江，绥化，望奎
+hlj, sh, lx; hei long jiang, sui hua, lan xi; 黑龙江，绥化，兰西
+hlj, sh, qg; hei long jiang, sui hua, qing gang; 黑龙江，绥化，青冈
+hlj, sh, qa; hei long jiang, sui hua, qing an; 黑龙江，绥化，庆安
+hlj, sh, sl; hei long jiang, sui hua, sui leng; 黑龙江，绥化，绥棱
+hlj, hh, cq; hei long jiang, hei he, cheng qu; 黑龙江，黑河，城区
+hlj, hh, nj; hei long jiang, hei he, nen jiang; 黑龙江，黑河，嫩江
+hlj, hh, sw; hei long jiang, hei he, sun wu; 黑龙江，黑河，孙吴
+hlj, hh, xk; hei long jiang, hei he, xun ke; 黑龙江，黑河，逊克
+hlj, hh, wdlc; hei long jiang, hei he, wu da lian chi; 黑龙江，黑河，五大连池
+hlj, hh, ba; hei long jiang, hei he, bei an; 黑龙江，黑河，北安
+hlj, dxal, cq; hei long jiang, da xing an ling, cheng qu; 黑龙江，大兴安岭，城区
+hlj, dxal, th; hei long jiang, da xing an ling, ta he; 黑龙江，大兴安岭，塔河
+hlj, dxal, mh; hei long jiang, da xing an ling, mo he; 黑龙江，大兴安岭，漠河
+hlj, dxal, hm; hei long jiang, da xing an ling, hu ma; 黑龙江，大兴安岭，呼玛
+hlj, yc, cq; hei long jiang, yi chun, cheng qu; 黑龙江，伊春，城区
+hlj, yc, wyl; hei long jiang, yi chun, wu yi ling; 黑龙江，伊春，乌伊岭
+hlj, yc, wy; hei long jiang, yi chun, wu ying; 黑龙江，伊春，五营
+hlj, yc, tl; hei long jiang, yi chun, tie li; 黑龙江，伊春，铁力
+hlj, yc, jy; hei long jiang, yi chun, jia yin; 黑龙江，伊春，嘉荫
+hlj, dq, cq; hei long jiang, da qing, cheng qu; 黑龙江，大庆，城区
+hlj, dq, ld; hei long jiang, da qing, lin dian; 黑龙江，大庆，林甸
+hlj, dq, zz; hei long jiang, da qing, zhao zhou; 黑龙江，大庆，肇州
+hlj, dq, zy; hei long jiang, da qing, zhao yuan; 黑龙江，大庆，肇源
+hlj, dq, debt; hei long jiang, da qing, du er bo te; 黑龙江，大庆，杜尔伯特
+hlj, qth, cq; hei long jiang, qi tai he, cheng qu; 黑龙江，七台河，城区
+hlj, qth, bl; hei long jiang, qi tai he, bo li; 黑龙江，七台河，勃利
+hlj, jx, cq; hei long jiang, ji xi, cheng qu; 黑龙江，鸡西，城区
+hlj, jx, hl; hei long jiang, ji xi, hu lin; 黑龙江，鸡西，虎林
+hlj, jx, ms; hei long jiang, ji xi, mi shan; 黑龙江，鸡西，密山
+hlj, jx, jd; hei long jiang, ji xi, ji dong; 黑龙江，鸡西，鸡东
+hlj, hg, cq; hei long jiang, he gang, cheng qu; 黑龙江，鹤岗，城区
+hlj, hg, sb; hei long jiang, he gang, sui bin; 黑龙江，鹤岗，绥滨
+hlj, hg, lb; hei long jiang, he gang, luo bei; 黑龙江，鹤岗，萝北
+hlj, sys, cq; hei long jiang, shuang ya shan, cheng qu; 黑龙江，双鸭山，城区
+hlj, sys, jx; hei long jiang, shuang ya shan, ji xian; 黑龙江，双鸭山，集贤
+hlj, sys, bq; hei long jiang, shuang ya shan, bao qing; 黑龙江，双鸭山，宝清
+hlj, sys, rh; hei long jiang, shuang ya shan, rao he; 黑龙江，双鸭山，饶河
+hlj, sys, yy; hei long jiang, shuang ya shan, you yi; 黑龙江，双鸭山，友谊
+hb, wh, cq; hu bei, wu han, cheng qu; 湖北，武汉，城区
+hb, wh, cd; hu bei, wu han, cai dian; 湖北，武汉，蔡甸
+hb, wh, hp; hu bei, wu han, huang po; 湖北，武汉，黄陂
+hb, wh, xz; hu bei, wu han, xin zhou; 湖北，武汉，新洲
+hb, wh, jx; hu bei, wu han, jiang xia; 湖北，武汉，江夏
+hb, wh, dxh; hu bei, wu han, dong xi hu; 湖北，武汉，东西湖
+hb, xy, cq; hu bei, xiang yang, cheng qu; 湖北，襄阳，城区
+hb, xy, xz; hu bei, xiang yang, xiang zhou; 湖北，襄阳，襄州
+hb, xy, bk; hu bei, xiang yang, bao kang; 湖北，襄阳，保康
+hb, xy, nz; hu bei, xiang yang, nan zhang; 湖北，襄阳，南漳
+hb, xy, yc; hu bei, xiang yang, yi cheng; 湖北，襄阳，宜城
+hb, xy, lhk; hu bei, xiang yang, lao he kou; 湖北，襄阳，老河口
+hb, xy, gc; hu bei, xiang yang, gu cheng; 湖北，襄阳，谷城
+hb, xy, zy; hu bei, xiang yang, zao yang; 湖北，襄阳，枣阳
+hb, ez, cq; hu bei, e zhou, cheng qu; 湖北，鄂州，城区
+hb, ez, lzh; hu bei, e zhou, liang zi hu; 湖北，鄂州，梁子湖
+hb, xg, cq; hu bei, xiao gan, cheng qu; 湖北，孝感，城区
+hb, xg, al; hu bei, xiao gan, an lu; 湖北，孝感，安陆
+hb, xg, ym; hu bei, xiao gan, yun meng; 湖北，孝感，云梦
+hb, xg, dw; hu bei, xiao gan, da wu; 湖北，孝感，大悟
+hb, xg, yc; hu bei, xiao gan, ying cheng; 湖北，孝感，应城
+hb, xg, hc; hu bei, xiao gan, han chuan; 湖北，孝感，汉川
+hb, xg, xc; hu bei, xiao gan, xiao chang; 湖北，孝感，孝昌
+hb, hg, cq; hu bei, huang gang, cheng qu; 湖北，黄冈，城区
+hb, hg, ha; hu bei, huang gang, hong an; 湖北，黄冈，红安
+hb, hg, mc; hu bei, huang gang, ma cheng; 湖北，黄冈，麻城
+hb, hg, lt; hu bei, huang gang, luo tian; 湖北，黄冈，罗田
+hb, hg, ys; hu bei, huang gang, ying shan; 湖北，黄冈，英山
+hb, hg, xs; hu bei, huang gang, xi shui; 湖北，黄冈，浠水
+hb, hg, qc; hu bei, huang gang, qi chun; 湖北，黄冈，蕲春
+hb, hg, hm; hu bei, huang gang, huang mei; 湖北，黄冈，黄梅
+hb, hg, wx; hu bei, huang gang, wu xue; 湖北，黄冈，武穴
+hb, hg, tf; hu bei, huang gang, tuan feng; 湖北，黄冈，团风
+hb, hs, cq; hu bei, huang shi, cheng qu; 湖北，黄石，城区
+hb, hs, dy; hu bei, huang shi, da ye; 湖北，黄石，大冶
+hb, hs, yx; hu bei, huang shi, yang xin; 湖北，黄石，阳新
+hb, hs, ts; hu bei, huang shi, tie shan; 湖北，黄石，铁山
+hb, hs, xl; hu bei, huang shi, xia lu; 湖北，黄石，下陆
+hb, hs, xss; hu bei, huang shi, xi sai shan; 湖北，黄石，西塞山
+hb, xn, cq; hu bei, xian ning, cheng qu; 湖北，咸宁，城区
+hb, xn, cb; hu bei, xian ning, chi bi; 湖北，咸宁，赤壁
+hb, xn, jy; hu bei, xian ning, jia yu; 湖北，咸宁，嘉鱼
+hb, xn, cy; hu bei, xian ning, chong yang; 湖北，咸宁，崇阳
+hb, xn, tc; hu bei, xian ning, tong cheng; 湖北，咸宁，通城
+hb, xn, ts; hu bei, xian ning, tong shan; 湖北，咸宁，通山
+hb, jz, cq; hu bei, jing zhou, cheng qu; 湖北，荆州，城区
+hb, jz, jl; hu bei, jing zhou, jiang ling; 湖北，荆州，江陵
+hb, jz, ga; hu bei, jing zhou, gong an; 湖北，荆州，公安
+hb, jz, ss; hu bei, jing zhou, shi shou; 湖北，荆州，石首
+hb, jz, jl; hu bei, jing zhou, jian li; 湖北，荆州，监利
+hb, jz, hh; hu bei, jing zhou, hong hu; 湖北，荆州，洪湖
+hb, jz, sz; hu bei, jing zhou, song zi; 湖北，荆州，松滋
+hb, yc, cq; hu bei, yi chang, cheng qu; 湖北，宜昌，城区
+hb, yc, ya; hu bei, yi chang, yuan an; 湖北，宜昌，远安
+hb, yc, zg; hu bei, yi chang, zi gui; 湖北，宜昌，秭归
+hb, yc, xs; hu bei, yi chang, xing shan; 湖北，宜昌，兴山
+hb, yc, wf; hu bei, yi chang, wu feng; 湖北，宜昌，五峰
+hb, yc, dy; hu bei, yi chang, dang yang; 湖北，宜昌，当阳
+hb, yc, zy; hu bei, yi chang, zhang yang; 湖北，宜昌，长阳
+hb, yc, yd; hu bei, yi chang, yi dou; 湖北，宜昌，宜都
+hb, yc, zj; hu bei, yi chang, zhi jiang; 湖北，宜昌，枝江
+hb, yc, yl; hu bei, yi chang, yi ling; 湖北，宜昌，夷陵
+hb, es, cq; hu bei, en shi, cheng qu; 湖北，恩施，城区
+hb, es, lc; hu bei, en shi, li chuan; 湖北，恩施，利川
+hb, es, js; hu bei, en shi, jian shi; 湖北，恩施，建始
+hb, es, xf; hu bei, en shi, xian feng; 湖北，恩施，咸丰
+hb, es, xe; hu bei, en shi, xuan en; 湖北，恩施，宣恩
+hb, es, hf; hu bei, en shi, he feng; 湖北，恩施，鹤峰
+hb, es, lf; hu bei, en shi, lai feng; 湖北，恩施，来凤
+hb, es, bd; hu bei, en shi, ba dong; 湖北，恩施，巴东
+hb, sy, cq; hu bei, shi yan, cheng qu; 湖北，十堰，城区
+hb, sy, zx; hu bei, shi yan, zhu xi; 湖北，十堰，竹溪
+hb, sy, yx; hu bei, shi yan, yun xi; 湖北，十堰，郧西
+hb, sy, yy; hu bei, shi yan, yun yang; 湖北，十堰，郧阳
+hb, sy, zs; hu bei, shi yan, zhu shan; 湖北，十堰，竹山
+hb, sy, fx; hu bei, shi yan, fang xian; 湖北，十堰，房县
+hb, sy, djk; hu bei, shi yan, dan jiang kou; 湖北，十堰，丹江口
+hb, sy, mj; hu bei, shi yan, mao jian; 湖北，十堰，茅箭
+hb, sy, zw; hu bei, shi yan, zhang wan; 湖北，十堰，张湾
+hb, snj, cq; hu bei, shen nong jia, cheng qu; 湖北，神农架，城区
+hb, sz, cq; hu bei, sui zhou, cheng qu; 湖北，随州，城区
+hb, sz, gs; hu bei, sui zhou, guang shui; 湖北，随州，广水
+hb, jm, cq; hu bei, jing men, cheng qu; 湖北，荆门，城区
+hb, jm, zx; hu bei, jing men, zhong xiang; 湖北，荆门，钟祥
+hb, jm, js; hu bei, jing men, jing shan; 湖北，荆门，京山
+hb, jm, dd; hu bei, jing men, duo dao; 湖北，荆门，掇刀
+hb, jm, sy; hu bei, jing men, sha yang; 湖北，荆门，沙洋
+hb, tm, cq; hu bei, tian men, cheng qu; 湖北，天门，城区
+hb, xt, cq; hu bei, xian tao, cheng qu; 湖北，仙桃，城区
+hb, qj, cq; hu bei, qian jiang, cheng qu; 湖北，潜江，城区
+hn, cs, cq; hu nan, chang sha, cheng qu; 湖南，长沙，城区
+hn, cs, nx; hu nan, chang sha, ning xiang; 湖南，长沙，宁乡
+hn, cs, ly; hu nan, chang sha, liu yang; 湖南，长沙，浏阳
+hn, cs, xjxq; hu nan, chang sha, xiang jiang xin qu; 湖南，长沙，湘江新区
+hn, cs, wc; hu nan, chang sha, wang cheng; 湖南，长沙，望城
+hn, xt, cq; hu nan, xiang tan, cheng qu; 湖南，湘潭，城区
+hn, xt, ss; hu nan, xiang tan, shao shan; 湖南，湘潭，韶山
+hn, xt, xx; hu nan, xiang tan, xiang xiang; 湖南，湘潭，湘乡
+hn, zz, cq; hu nan, zhu zhou, cheng qu; 湖南，株洲，城区
+hn, zz, yx; hu nan, zhu zhou, you xian; 湖南，株洲，攸县
+hn, zz, ll; hu nan, zhu zhou, li ling; 湖南，株洲，醴陵
+hn, zz, cl; hu nan, zhu zhou, cha ling; 湖南，株洲，茶陵
+hn, zz, yl; hu nan, zhu zhou, yan ling; 湖南，株洲，炎陵
+hn, hy, cq; hu nan, heng yang, cheng qu; 湖南，衡阳，城区
+hn, hy, hs; hu nan, heng yang, heng shan; 湖南，衡阳，衡山
+hn, hy, hd; hu nan, heng yang, heng dong; 湖南，衡阳，衡东
+hn, hy, qd; hu nan, heng yang, qi dong; 湖南，衡阳，祁东
+hn, hy, hyx; hu nan, heng yang, heng yang xian; 湖南，衡阳，衡阳县
+hn, hy, cn; hu nan, heng yang, chang ning; 湖南，衡阳，常宁
+hn, hy, hn; hu nan, heng yang, heng nan; 湖南，衡阳，衡南
+hn, hy, ly; hu nan, heng yang, lei yang; 湖南，衡阳，耒阳
+hn, hy, ny; hu nan, heng yang, nan yue; 湖南，衡阳，南岳
+hn, cz, cq; hu nan, chen zhou, cheng qu; 湖南，郴州，城区
+hn, cz, gy; hu nan, chen zhou, gui yang; 湖南，郴州，桂阳
+hn, cz, jh; hu nan, chen zhou, jia he; 湖南，郴州，嘉禾
+hn, cz, yz; hu nan, chen zhou, yi zhang; 湖南，郴州，宜章
+hn, cz, lw; hu nan, chen zhou, lin wu; 湖南，郴州，临武
+hn, cz, zx; hu nan, chen zhou, zi xing; 湖南，郴州，资兴
+hn, cz, rc; hu nan, chen zhou, ru cheng; 湖南，郴州，汝城
+hn, cz, ar; hu nan, chen zhou, an ren; 湖南，郴州，安仁
+hn, cz, yx; hu nan, chen zhou, yong xing; 湖南，郴州，永兴
+hn, cz, gd; hu nan, chen zhou, gui dong; 湖南，郴州，桂东
+hn, cz, sx; hu nan, chen zhou, su xian; 湖南，郴州，苏仙
+hn, cd, cq; hu nan, chang de, cheng qu; 湖南，常德，城区
+hn, cd, ax; hu nan, chang de, an xiang; 湖南，常德，安乡
+hn, cd, ty; hu nan, chang de, tao yuan; 湖南，常德，桃源
+hn, cd, hs; hu nan, chang de, han shou; 湖南，常德，汉寿
+hn, cd, lx; hu nan, chang de, li xian; 湖南，常德，澧县
+hn, cd, ll; hu nan, chang de, lin li; 湖南，常德，临澧
+hn, cd, sm; hu nan, chang de, shi men; 湖南，常德，石门
+hn, cd, js; hu nan, chang de, jin shi; 湖南，常德，津市
+hn, yy, cq; hu nan, yi yang, cheng qu; 湖南，益阳，城区
+hn, yy, hsq; hu nan, yi yang, he shan qu; 湖南，益阳，赫山区
+hn, yy, nx; hu nan, yi yang, nan xian; 湖南，益阳，南县
+hn, yy, tj; hu nan, yi yang, tao jiang; 湖南，益阳，桃江
+hn, yy, ah; hu nan, yi yang, an hua; 湖南，益阳，安化
+hn, yy, yj; hu nan, yi yang, yuan jiang; 湖南，益阳，沅江
+hn, ld, cq; hu nan, lou di, cheng qu; 湖南，娄底，城区
+hn, ld, sf; hu nan, lou di, shuang feng; 湖南，娄底，双峰
+hn, ld, lsj; hu nan, lou di, leng shui jiang; 湖南，娄底，冷水江
+hn, ld, xh; hu nan, lou di, xin hua; 湖南，娄底，新化
+hn, ld, ly; hu nan, lou di, lian yuan; 湖南，娄底，涟源
+hn, sy, cq; hu nan, shao yang, cheng qu; 湖南，邵阳，城区
+hn, sy, lh; hu nan, shao yang, long hui; 湖南，邵阳，隆回
+hn, sy, dk; hu nan, shao yang, dong kou; 湖南，邵阳，洞口
+hn, sy, xs; hu nan, shao yang, xin shao; 湖南，邵阳，新邵
+hn, sy, sd; hu nan, shao yang, shao dong; 湖南，邵阳，邵东
+hn, sy, sn; hu nan, shao yang, sui ning; 湖南，邵阳，绥宁
+hn, sy, xn; hu nan, shao yang, xin ning; 湖南，邵阳，新宁
+hn, sy, wg; hu nan, shao yang, wu gang; 湖南，邵阳，武冈
+hn, sy, cb; hu nan, shao yang, cheng bu; 湖南，邵阳，城步
+hn, sy, syx; hu nan, shao yang, shao yang xian; 湖南，邵阳，邵阳县
+hn, yy, cq; hu nan, yue yang, cheng qu; 湖南，岳阳，城区
+hn, yy, hr; hu nan, yue yang, hua rong; 湖南，岳阳，华容
+hn, yy, xy; hu nan, yue yang, xiang yin; 湖南，岳阳，湘阴
+hn, yy, ml; hu nan, yue yang, mi luo; 湖南，岳阳，汨罗
+hn, yy, pj; hu nan, yue yang, ping jiang; 湖南，岳阳，平江
+hn, yy, lx; hu nan, yue yang, lin xiang; 湖南，岳阳，临湘
+hn, zjj, cq; hu nan, zhang jia jie, cheng qu; 湖南，张家界，城区
+hn, zjj, sz; hu nan, zhang jia jie, sang zhi; 湖南，张家界，桑植
+hn, zjj, cl; hu nan, zhang jia jie, ci li; 湖南，张家界，慈利
+hn, zjj, wly; hu nan, zhang jia jie, wu ling yuan; 湖南，张家界，武陵源
+hn, hh, cq; hu nan, huai hua, cheng qu; 湖南，怀化，城区
+hn, hh, yl; hu nan, huai hua, yuan ling; 湖南，怀化，沅陵
+hn, hh, cx; hu nan, huai hua, chen xi; 湖南，怀化，辰溪
+hn, hh, jz; hu nan, huai hua, jing zhou; 湖南，怀化，靖州
+hn, hh, ht; hu nan, huai hua, hui tong; 湖南，怀化，会同
+hn, hh, td; hu nan, huai hua, tong dao; 湖南，怀化，通道
+hn, hh, my; hu nan, huai hua, ma yang; 湖南，怀化，麻阳
+hn, hh, xh; hu nan, huai hua, xin huang; 湖南，怀化，新晃
+hn, hh, zj; hu nan, huai hua, zhi jiang; 湖南，怀化，芷江
+hn, hh, xp; hu nan, huai hua, xu pu; 湖南，怀化，溆浦
+hn, hh, zf; hu nan, huai hua, zhong fang; 湖南，怀化，中方
+hn, hh, hj; hu nan, huai hua, hong jiang; 湖南，怀化，洪江
+hn, yz, cq; hu nan, yong zhou, cheng qu; 湖南，永州，城区
+hn, yz, qy; hu nan, yong zhou, qi yang; 湖南，永州，祁阳
+hn, yz, da; hu nan, yong zhou, dong an; 湖南，永州，东安
+hn, yz, sp; hu nan, yong zhou, shuang pai; 湖南，永州，双牌
+hn, yz, dx; hu nan, yong zhou, dao xian; 湖南，永州，道县
+hn, yz, ny; hu nan, yong zhou, ning yuan; 湖南，永州，宁远
+hn, yz, jy; hu nan, yong zhou, jiang yong; 湖南，永州，江永
+hn, yz, ls; hu nan, yong zhou, lan shan; 湖南，永州，蓝山
+hn, yz, xt; hu nan, yong zhou, xin tian; 湖南，永州，新田
+hn, yz, jh; hu nan, yong zhou, jiang hua; 湖南，永州，江华
+hn, yz, lst; hu nan, yong zhou, leng shui tan; 湖南，永州，冷水滩
+hn, xx, js; hu nan, xiang xi, ji shou; 湖南，湘西，吉首
+hn, xx, bj; hu nan, xiang xi, bao jing; 湖南，湘西，保靖
+hn, xx, ys; hu nan, xiang xi, yong shun; 湖南，湘西，永顺
+hn, xx, gz; hu nan, xiang xi, gu zhang; 湖南，湘西，古丈
+hn, xx, fh; hu nan, xiang xi, feng huang; 湖南，湘西，凤凰
+hn, xx, lx; hu nan, xiang xi, lu xi; 湖南，湘西，泸溪
+hn, xx, ls; hu nan, xiang xi, long shan; 湖南，湘西，龙山
+hn, xx, hy; hu nan, xiang xi, hua yuan; 湖南，湘西，花垣
+jl, cc, cq; ji lin, chang chun, cheng qu; 吉林，长春，城区
+jl, cc, na; ji lin, chang chun, nong an; 吉林，长春，农安
+jl, cc, dh; ji lin, chang chun, de hui; 吉林，长春，德惠
+jl, cc, jt; ji lin, chang chun, jiu tai; 吉林，长春，九台
+jl, cc, ys; ji lin, chang chun, yu shu; 吉林，长春，榆树
+jl, cc, sy; ji lin, chang chun, shuang yang; 吉林，长春，双阳
+jl, cq; ji lin, cheng qu; 吉林，城区
+jl, sl; ji lin, shu lan; 吉林，舒兰
+jl, yj; ji lin, yong ji; 吉林，永吉
+jl, jh; ji lin, jiao he; 吉林，蛟河
+jl, ps; ji lin, pan shi; 吉林，磐石
+jl, hd; ji lin, hua dian; 吉林，桦甸
+jl, yb, yj; ji lin, yan bian, yan ji; 吉林，延边，延吉
+jl, yb, dh; ji lin, yan bian, dun hua; 吉林，延边，敦化
+jl, yb, at; ji lin, yan bian, an tu; 吉林，延边，安图
+jl, yb, wq; ji lin, yan bian, wang qing; 吉林，延边，汪清
+jl, yb, hl; ji lin, yan bian, he long; 吉林，延边，和龙
+jl, yb, lj; ji lin, yan bian, long jing; 吉林，延边，龙井
+jl, yb, hc; ji lin, yan bian, hui chun; 吉林，延边，珲春
+jl, yb, tm; ji lin, yan bian, tu men; 吉林，延边，图们
+jl, sp, cq; ji lin, si ping, cheng qu; 吉林，四平，城区
+jl, sp, sl; ji lin, si ping, shuang liao; 吉林，四平，双辽
+jl, sp, ls; ji lin, si ping, li shu; 吉林，四平，梨树
+jl, sp, gzl; ji lin, si ping, gong zhu ling; 吉林，四平，公主岭
+jl, sp, yt; ji lin, si ping, yi tong; 吉林，四平，伊通
+jl, th, cq; ji lin, tong hua, cheng qu; 吉林，通化，城区
+jl, th, mhk; ji lin, tong hua, mei he kou; 吉林，通化，梅河口
+jl, th, lh; ji lin, tong hua, liu he; 吉林，通化，柳河
+jl, th, hn; ji lin, tong hua, hui nan; 吉林，通化，辉南
+jl, th, ja; ji lin, tong hua, ji an; 吉林，通化，集安
+jl, th, thx; ji lin, tong hua, tong hua xian; 吉林，通化，通化县
+jl, bc, cq; ji lin, bai cheng, cheng qu; 吉林，白城，城区
+jl, bc, tn; ji lin, bai cheng, tao nan; 吉林，白城，洮南
+jl, bc, da; ji lin, bai cheng, da an; 吉林，白城，大安
+jl, bc, zl; ji lin, bai cheng, zhen lai; 吉林，白城，镇赉
+jl, bc, ty; ji lin, bai cheng, tong yu; 吉林，白城，通榆
+jl, ly, cq; ji lin, liao yuan, cheng qu; 吉林，辽源，城区
+jl, ly, df; ji lin, liao yuan, dong feng; 吉林，辽源，东丰
+jl, ly, dl; ji lin, liao yuan, dong liao; 吉林，辽源，东辽
+jl, sy, cq; ji lin, song yuan, cheng qu; 吉林，松原，城区
+jl, sy, qa; ji lin, song yuan, qian an; 吉林，松原，乾安
+jl, sy, qg; ji lin, song yuan, qian guo; 吉林，松原，前郭
+jl, sy, zl; ji lin, song yuan, zhang ling; 吉林，松原，长岭
+jl, sy, fy; ji lin, song yuan, fu yu; 吉林，松原，扶余
+jl, bs, cq; ji lin, bai shan, cheng qu; 吉林，白山，城区
+jl, bs, jy; ji lin, bai shan, jing yu; 吉林，白山，靖宇
+jl, bs, lj; ji lin, bai shan, lin jiang; 吉林，白山，临江
+jl, bs, zb; ji lin, bai shan, zhang bai; 吉林，白山，长白
+jl, bs, fs; ji lin, bai shan, fu song; 吉林，白山，抚松
+jl, bs, jy; ji lin, bai shan, jiang yuan; 吉林，白山，江源
+jnd, dld; jia na da, duo lun duo; 加拿大，多伦多（Toronto）
+jnd, wghg; jia na da, wen ge hua gang; 加拿大，温哥华港（Vancouver Harbour）
+jpz, jb; jian pu zhai, jin bian; 柬埔寨，金边（Phnom Penh）
+jpz, mdw; jian pu zhai, ma de wang; 柬埔寨，马德望（Battambang）
+jpz, xl; jian pu zhai, xian li; 柬埔寨，暹粒（Siemreap）
+jpz, glg; jian pu zhai, ge luo ge; 柬埔寨，格罗戈（Krakor）
+jpz, sds; jian pu zhai, shang ding sheng; 柬埔寨，上丁省（Stungtreng）
+jpz, gb; jian pu zhai, gong bu; 柬埔寨，贡布（Kampot）
+jpz, bz; jian pu zhai, bang zhan; 柬埔寨，磅湛（Kompong  Cham）
+jpz, cz; jian pu zhai, chai zhen; 柬埔寨，柴桢（Svayrieng）
+js, nj, cq; jiang su, nan jing, cheng qu; 江苏，南京，城区
+js, nj, ls; jiang su, nan jing, li shui; 江苏，南京，溧水
+js, nj, gc; jiang su, nan jing, gao chun; 江苏，南京，高淳
+js, nj, jn; jiang su, nan jing, jiang ning; 江苏，南京，江宁
+js, nj, lh; jiang su, nan jing, liu he; 江苏，南京，六合
+js, nj, pk; jiang su, nan jing, pu kou; 江苏，南京，浦口
+js, wx, cq; jiang su, wu xi, cheng qu; 江苏，无锡，城区
+js, wx, jy; jiang su, wu xi, jiang yin; 江苏，无锡，江阴
+js, wx, yx; jiang su, wu xi, yi xing; 江苏，无锡，宜兴
+js, wx, xs; jiang su, wu xi, xi shan; 江苏，无锡，锡山
+js, zj, cq; jiang su, zhen jiang, cheng qu; 江苏，镇江，城区
+js, zj, dy; jiang su, zhen jiang, dan yang; 江苏，镇江，丹阳
+js, zj, yz; jiang su, zhen jiang, yang zhong; 江苏，镇江，扬中
+js, zj, jr; jiang su, zhen jiang, ju rong; 江苏，镇江，句容
+js, zj, dt; jiang su, zhen jiang, dan tu; 江苏，镇江，丹徒
+js, sz, cq; jiang su, su zhou, cheng qu; 江苏，苏州，城区
+js, sz, cs; jiang su, su zhou, chang shu; 江苏，苏州，常熟
+js, sz, zjg; jiang su, su zhou, zhang jia gang; 江苏，苏州，张家港
+js, sz, ks; jiang su, su zhou, kun shan; 江苏，苏州，昆山
+js, sz, wz; jiang su, su zhou, wu zhong; 江苏，苏州，吴中
+js, sz, wj; jiang su, su zhou, wu jiang; 江苏，苏州，吴江
+js, sz, tc; jiang su, su zhou, tai cang; 江苏，苏州，太仓
+js, nt, cq; jiang su, nan tong, cheng qu; 江苏，南通，城区
+js, nt, ha; jiang su, nan tong, hai an; 江苏，南通，海安
+js, nt, rg; jiang su, nan tong, ru gao; 江苏，南通，如皋
+js, nt, rd; jiang su, nan tong, ru dong; 江苏，南通，如东
+js, nt, qd; jiang su, nan tong, qi dong; 江苏，南通，启东
+js, nt, hm; jiang su, nan tong, hai men; 江苏，南通，海门
+js, nt, tz; jiang su, nan tong, tong zhou; 江苏，南通，通州
+js, yz, cq; jiang su, yang zhou, cheng qu; 江苏，扬州，城区
+js, yz, by; jiang su, yang zhou, bao ying; 江苏，扬州，宝应
+js, yz, yz; jiang su, yang zhou, yi zheng; 江苏，扬州，仪征
+js, yz, gy; jiang su, yang zhou, gao you; 江苏，扬州，高邮
+js, yz, jd; jiang su, yang zhou, jiang du; 江苏，扬州，江都
+js, yz, hj; jiang su, yang zhou, han jiang; 江苏，扬州，邗江
+js, yc, cq; jiang su, yan cheng, cheng qu; 江苏，盐城，城区
+js, yc, xs; jiang su, yan cheng, xiang shui; 江苏，盐城，响水
+js, yc, bh; jiang su, yan cheng, bin hai; 江苏，盐城，滨海
+js, yc, fn; jiang su, yan cheng, fu ning; 江苏，盐城，阜宁
+js, yc, sy; jiang su, yan cheng, she yang; 江苏，盐城，射阳
+js, yc, jh; jiang su, yan cheng, jian hu; 江苏，盐城，建湖
+js, yc, dt; jiang su, yan cheng, dong tai; 江苏，盐城，东台
+js, yc, df; jiang su, yan cheng, da feng; 江苏，盐城，大丰
+js, yc, yd; jiang su, yan cheng, yan dou; 江苏，盐城，盐都
+js, xz, cq; jiang su, xu zhou, cheng qu; 江苏，徐州，城区
+js, xz, ts; jiang su, xu zhou, tong shan; 江苏，徐州，铜山
+js, xz, fx; jiang su, xu zhou, feng xian; 江苏，徐州，丰县
+js, xz, px; jiang su, xu zhou, pei xian; 江苏，徐州，沛县
+js, xz, pz; jiang su, xu zhou, pi zhou; 江苏，徐州，邳州
+js, xz, sn; jiang su, xu zhou, sui ning; 江苏，徐州，睢宁
+js, xz, xy; jiang su, xu zhou, xin yi; 江苏，徐州，新沂
+js, ha, cq; jiang su, huai an, cheng qu; 江苏，淮安，城区
+js, ha, jh; jiang su, huai an, jin hu; 江苏，淮安，金湖
+js, ha, xy; jiang su, huai an, xu yi; 江苏，淮安，盱眙
+js, ha, hz; jiang su, huai an, hong ze; 江苏，淮安，洪泽
+js, ha, ls; jiang su, huai an, lian shui; 江苏，淮安，涟水
+js, ha, hyq; jiang su, huai an, huai yin qu; 江苏，淮安，淮阴区
+js, ha, haq; jiang su, huai an, huai an qu; 江苏，淮安，淮安区
+js, lyg, cq; jiang su, lian yun gang, cheng qu; 江苏，连云港，城区
+js, lyg, dh; jiang su, lian yun gang, dong hai; 江苏，连云港，东海
+js, lyg, gy; jiang su, lian yun gang, gan yu; 江苏，连云港，赣榆
+js, lyg, gy; jiang su, lian yun gang, guan yun; 江苏，连云港，灌云
+js, lyg, gn; jiang su, lian yun gang, guan nan; 江苏，连云港，灌南
+js, cz, cq; jiang su, chang zhou, cheng qu; 江苏，常州，城区
+js, cz, ly; jiang su, chang zhou, li yang; 江苏，常州，溧阳
+js, cz, jt; jiang su, chang zhou, jin tan; 江苏，常州，金坛
+js, cz, wj; jiang su, chang zhou, wu jin; 江苏，常州，武进
+js, tz, cq; jiang su, tai zhou, cheng qu; 江苏，泰州，城区
+js, tz, xh; jiang su, tai zhou, xing hua; 江苏，泰州，兴化
+js, tz, tx; jiang su, tai zhou, tai xing; 江苏，泰州，泰兴
+js, tz, jy; jiang su, tai zhou, jiang yan; 江苏，泰州，姜堰
+js, tz, jj; jiang su, tai zhou, jing jiang; 江苏，泰州，靖江
+js, sq, cq; jiang su, su qian, cheng qu; 江苏，宿迁，城区
+js, sq, sy; jiang su, su qian, shu yang; 江苏，宿迁，沭阳
+js, sq, sy; jiang su, su qian, si yang; 江苏，宿迁，泗阳
+js, sq, sh; jiang su, su qian, si hong; 江苏，宿迁，泗洪
+js, sq, sy; jiang su, su qian, su yu; 江苏，宿迁，宿豫
+jx, nc, cq; jiang xi, nan chang, cheng qu; 江西，南昌，城区
+jx, nc, xj; jiang xi, nan chang, xin jian; 江西，南昌，新建
+jx, nc, ncx; jiang xi, nan chang, nan chang xian; 江西，南昌，南昌县
+jx, nc, ay; jiang xi, nan chang, an yi; 江西，南昌，安义
+jx, nc, jx; jiang xi, nan chang, jin xian; 江西，南昌，进贤
+jx, jj, cq; jiang xi, jiu jiang, cheng qu; 江西，九江，城区
+jx, jj, rc; jiang xi, jiu jiang, rui chang; 江西，九江，瑞昌
+jx, jj, ls; jiang xi, jiu jiang, lu shan; 江西，九江，庐山
+jx, jj, wn; jiang xi, jiu jiang, wu ning; 江西，九江，武宁
+jx, jj, da; jiang xi, jiu jiang, de an; 江西，九江，德安
+jx, jj, yx; jiang xi, jiu jiang, yong xiu; 江西，九江，永修
+jx, jj, hk; jiang xi, jiu jiang, hu kou; 江西，九江，湖口
+jx, jj, pz; jiang xi, jiu jiang, peng ze; 江西，九江，彭泽
+jx, jj, dc; jiang xi, jiu jiang, dou chang; 江西，九江，都昌
+jx, jj, xs; jiang xi, jiu jiang, xiu shui; 江西，九江，修水
+jx, jj, lx; jiang xi, jiu jiang, lian xi; 江西，九江，濂溪
+jx, sr, cq; jiang xi, shang rao, cheng qu; 江西，上饶，城区
+jx, sr, py; jiang xi, shang rao, po yang; 江西，上饶，鄱阳
+jx, sr, wy; jiang xi, shang rao, wu yuan; 江西，上饶，婺源
+jx, sr, yg; jiang xi, shang rao, yu gan; 江西，上饶，余干
+jx, sr, wn; jiang xi, shang rao, wan nian; 江西，上饶，万年
+jx, sr, dx; jiang xi, shang rao, de xing; 江西，上饶，德兴
+jx, sr, srx; jiang xi, shang rao, shang rao xian; 江西，上饶，上饶县
+jx, sr, yy; jiang xi, shang rao, yi yang; 江西，上饶，弋阳
+jx, sr, hf; jiang xi, shang rao, heng feng; 江西，上饶，横峰
+jx, sr, ys; jiang xi, shang rao, yan shan; 江西，上饶，铅山
+jx, sr, ys; jiang xi, shang rao, yu shan; 江西，上饶，玉山
+jx, sr, gf; jiang xi, shang rao, guang feng; 江西，上饶，广丰
+jx, fz, cq; jiang xi, fu zhou, cheng qu; 江西，抚州，城区
+jx, fz, gc; jiang xi, fu zhou, guang chang; 江西，抚州，广昌
+jx, fz, la; jiang xi, fu zhou, le an; 江西，抚州，乐安
+jx, fz, cr; jiang xi, fu zhou, chong ren; 江西，抚州，崇仁
+jx, fz, jx; jiang xi, fu zhou, jin xi; 江西，抚州，金溪
+jx, fz, zx; jiang xi, fu zhou, zi xi; 江西，抚州，资溪
+jx, fz, yh; jiang xi, fu zhou, yi huang; 江西，抚州，宜黄
+jx, fz, nc; jiang xi, fu zhou, nan cheng; 江西，抚州，南城
+jx, fz, nf; jiang xi, fu zhou, nan feng; 江西，抚州，南丰
+jx, fz, lc; jiang xi, fu zhou, li chuan; 江西，抚州，黎川
+jx, fz, dx; jiang xi, fu zhou, dong xiang; 江西，抚州，东乡
+jx, yc, cq; jiang xi, yi chun, cheng qu; 江西，宜春，城区
+jx, yc, tg; jiang xi, yi chun, tong gu; 江西，宜春，铜鼓
+jx, yc, yf; jiang xi, yi chun, yi feng; 江西，宜春，宜丰
+jx, yc, wz; jiang xi, yi chun, wan zai; 江西，宜春，万载
+jx, yc, sg; jiang xi, yi chun, shang gao; 江西，宜春，上高
+jx, yc, ja; jiang xi, yi chun, jing an; 江西，宜春，靖安
+jx, yc, fx; jiang xi, yi chun, feng xin; 江西，宜春，奉新
+jx, yc, ga; jiang xi, yi chun, gao an; 江西，宜春，高安
+jx, yc, zs; jiang xi, yi chun, zhang shu; 江西，宜春，樟树
+jx, yc, fc; jiang xi, yi chun, feng cheng; 江西，宜春，丰城
+jx, ja, cq; jiang xi, ji an, cheng qu; 江西，吉安，城区
+jx, ja, jax; jiang xi, ji an, ji an xian; 江西，吉安，吉安县
+jx, ja, js; jiang xi, ji an, ji shui; 江西，吉安，吉水
+jx, ja, xg; jiang xi, ji an, xin gan; 江西，吉安，新干
+jx, ja, xj; jiang xi, ji an, xia jiang; 江西，吉安，峡江
+jx, ja, yf; jiang xi, ji an, yong feng; 江西，吉安，永丰
+jx, ja, yx; jiang xi, ji an, yong xin; 江西，吉安，永新
+jx, ja, jgs; jiang xi, ji an, jing gang shan; 江西，吉安，井冈山
+jx, ja, wa; jiang xi, ji an, wan an; 江西，吉安，万安
+jx, ja, sc; jiang xi, ji an, sui chuan; 江西，吉安，遂川
+jx, ja, th; jiang xi, ji an, tai he; 江西，吉安，泰和
+jx, ja, af; jiang xi, ji an, an fu; 江西，吉安，安福
+jx, gz, cq; jiang xi, gan zhou, cheng qu; 江西，赣州，城区
+jx, gz, cy; jiang xi, gan zhou, chong yi; 江西，赣州，崇义
+jx, gz, sy; jiang xi, gan zhou, shang you; 江西，赣州，上犹
+jx, gz, nk; jiang xi, gan zhou, nan kang; 江西，赣州，南康
+jx, gz, dy; jiang xi, gan zhou, da yu; 江西，赣州，大余
+jx, gz, xf; jiang xi, gan zhou, xin feng; 江西，赣州，信丰
+jx, gz, nd; jiang xi, gan zhou, ning dou; 江西，赣州，宁都
+jx, gz, sc; jiang xi, gan zhou, shi cheng; 江西，赣州，石城
+jx, gz, rj; jiang xi, gan zhou, rui jin; 江西，赣州，瑞金
+jx, gz, yd; jiang xi, gan zhou, yu dou; 江西，赣州，于都
+jx, gz, hc; jiang xi, gan zhou, hui chang; 江西，赣州，会昌
+jx, gz, ay; jiang xi, gan zhou, an yuan; 江西，赣州，安远
+jx, gz, qn; jiang xi, gan zhou, quan nan; 江西，赣州，全南
+jx, gz, ln; jiang xi, gan zhou, long nan; 江西，赣州，龙南
+jx, gz, dn; jiang xi, gan zhou, ding nan; 江西，赣州，定南
+jx, gz, xw; jiang xi, gan zhou, xun wu; 江西，赣州，寻乌
+jx, gz, xg; jiang xi, gan zhou, xing guo; 江西，赣州，兴国
+jx, gz, gx; jiang xi, gan zhou, gan xian; 江西，赣州，赣县
+jx, jdz, cq; jiang xi, jing de zhen, cheng qu; 江西，景德镇，城区
+jx, jdz, lp; jiang xi, jing de zhen, le ping; 江西，景德镇，乐平
+jx, jdz, fl; jiang xi, jing de zhen, fu liang; 江西，景德镇，浮梁
+jx, px, cq; jiang xi, ping xiang, cheng qu; 江西，萍乡，城区
+jx, px, lh; jiang xi, ping xiang, lian hua; 江西，萍乡，莲花
+jx, px, sl; jiang xi, ping xiang, shang li; 江西，萍乡，上栗
+jx, px, ay; jiang xi, ping xiang, an yuan; 江西，萍乡，安源
+jx, px, lx; jiang xi, ping xiang, lu xi; 江西，萍乡，芦溪
+jx, px, xd; jiang xi, ping xiang, xiang dong; 江西，萍乡，湘东
+jx, xy, cq; jiang xi, xin yu, cheng qu; 江西，新余，城区
+jx, xy, fy; jiang xi, xin yu, fen yi; 江西，新余，分宜
+jx, yt, cq; jiang xi, ying tan, cheng qu; 江西，鹰潭，城区
+jx, yt, yj; jiang xi, ying tan, yu jiang; 江西，鹰潭，余江
+jx, yt, gx; jiang xi, ying tan, gui xi; 江西，鹰潭，贵溪
+ln, sy, cq; liao ning, shen yang, cheng qu; 辽宁，沈阳，城区
+ln, sy, lz; liao ning, shen yang, liao zhong; 辽宁，沈阳，辽中
+ln, sy, kp; liao ning, shen yang, kang ping; 辽宁，沈阳，康平
+ln, sy, fk; liao ning, shen yang, fa ku; 辽宁，沈阳，法库
+ln, sy, xm; liao ning, shen yang, xin min; 辽宁，沈阳，新民
+ln, dl, cq; liao ning, da lian, cheng qu; 辽宁，大连，城区
+ln, dl, wfd; liao ning, da lian, wa fang dian; 辽宁，大连，瓦房店
+ln, dl, jz; liao ning, da lian, jin zhou; 辽宁，大连，金州
+ln, dl, pld; liao ning, da lian, pu lan dian; 辽宁，大连，普兰店
+ln, dl, ls; liao ning, da lian, lv shun; 辽宁，大连，旅顺
+ln, dl, zh; liao ning, da lian, zhang hai; 辽宁，大连，长海
+ln, dl, zh; liao ning, da lian, zhuang he; 辽宁，大连，庄河
+ln, as, cq; liao ning, an shan, cheng qu; 辽宁，鞍山，城区
+ln, as, ta; liao ning, an shan, tai an; 辽宁，鞍山，台安
+ln, as, xy; liao ning, an shan, xiu yan; 辽宁，鞍山，岫岩
+ln, as, hc; liao ning, an shan, hai cheng; 辽宁，鞍山，海城
+ln, fs, cq; liao ning, fu shun, cheng qu; 辽宁，抚顺，城区
+ln, fs, xb; liao ning, fu shun, xin bin; 辽宁，抚顺，新宾
+ln, fs, qy; liao ning, fu shun, qing yuan; 辽宁，抚顺，清原
+ln, bx, cq; liao ning, ben xi, cheng qu; 辽宁，本溪，城区
+ln, bx, bxx; liao ning, ben xi, ben xi xian; 辽宁，本溪，本溪县
+ln, bx, hr; liao ning, ben xi, huan ren; 辽宁，本溪，桓仁
+ln, dd, cq; liao ning, dan dong, cheng qu; 辽宁，丹东，城区
+ln, dd, fc; liao ning, dan dong, feng cheng; 辽宁，丹东，凤城
+ln, dd, kd; liao ning, dan dong, kuan dian; 辽宁，丹东，宽甸
+ln, dd, dg; liao ning, dan dong, dong gang; 辽宁，丹东，东港
+ln, jz, cq; liao ning, jin zhou, cheng qu; 辽宁，锦州，城区
+ln, jz, lh; liao ning, jin zhou, ling hai; 辽宁，锦州，凌海
+ln, jz, yx; liao ning, jin zhou, yi xian; 辽宁，锦州，义县
+ln, jz, hs; liao ning, jin zhou, hei shan; 辽宁，锦州，黑山
+ln, jz, bz; liao ning, jin zhou, bei zhen; 辽宁，锦州，北镇
+ln, yk, cq; liao ning, ying kou, cheng qu; 辽宁，营口，城区
+ln, yk, dsq; liao ning, ying kou, da shi qiao; 辽宁，营口，大石桥
+ln, yk, gz; liao ning, ying kou, gai zhou; 辽宁，营口，盖州
+ln, fx, cq; liao ning, fu xin, cheng qu; 辽宁，阜新，城区
+ln, fx, zw; liao ning, fu xin, zhang wu; 辽宁，阜新，彰武
+ln, ly, cq; liao ning, liao yang, cheng qu; 辽宁，辽阳，城区
+ln, ly, lyx; liao ning, liao yang, liao yang xian; 辽宁，辽阳，辽阳县
+ln, ly, dt; liao ning, liao yang, deng ta; 辽宁，辽阳，灯塔
+ln, ly, gzl; liao ning, liao yang, gong zhang ling; 辽宁，辽阳，弓长岭
+ln, tl, cq; liao ning, tie ling, cheng qu; 辽宁，铁岭，城区
+ln, tl, ky; liao ning, tie ling, kai yuan; 辽宁，铁岭，开原
+ln, tl, ct; liao ning, tie ling, chang tu; 辽宁，铁岭，昌图
+ln, tl, xf; liao ning, tie ling, xi feng; 辽宁，铁岭，西丰
+ln, tl, dbs; liao ning, tie ling, diao bing shan; 辽宁，铁岭，调兵山
+ln, zy, cq; liao ning, zhao yang, cheng qu; 辽宁，朝阳，城区
+ln, zy, ly; liao ning, zhao yang, ling yuan; 辽宁，朝阳，凌源
+ln, zy, kz; liao ning, zhao yang, ka zuo; 辽宁，朝阳，喀左
+ln, zy, bp; liao ning, zhao yang, bei piao; 辽宁，朝阳，北票
+ln, zy, jpx; liao ning, zhao yang, jian ping xian; 辽宁，朝阳，建平县
+ln, pj, cq; liao ning, pan jin, cheng qu; 辽宁，盘锦，城区
+ln, pj, dw; liao ning, pan jin, da wa; 辽宁，盘锦，大洼
+ln, pj, ps; liao ning, pan jin, pan shan; 辽宁，盘锦，盘山
+ln, hld, cq; liao ning, hu lu dao, cheng qu; 辽宁，葫芦岛，城区
+ln, hld, jc; liao ning, hu lu dao, jian chang; 辽宁，葫芦岛，建昌
+ln, hld, sz; liao ning, hu lu dao, sui zhong; 辽宁，葫芦岛，绥中
+ln, hld, xc; liao ning, hu lu dao, xing cheng; 辽宁，葫芦岛，兴城
+mlxy, jlp; ma lai xi ya, ji long po; 马来西亚，吉隆坡（Kuala Lumpur）
+mlxy, jlp; ma lai xi ya, ji long po; 马来西亚，吉隆坡（Kuala Lumpur）
+mlxy, gj; ma lai xi ya, gu jin; 马来西亚，古晋（Kuching）
+mlxy, gd; ma lai xi ya, gu da; 马来西亚，古达（Kudat）
+mlxy, dh; ma lai xi ya, dou hu; 马来西亚，斗湖（Tawau）
+mlxy, jlpgjjc; ma lai xi ya, ji long po guo ji ji chang; 马来西亚，吉隆坡国际机场（Kualalumpur Int' LAirpor）
+mlxy, dml; ma lai xi ya, dan ma lu; 马来西亚，淡马鲁（Temerloh）
+mlxy, gd; ma lai xi ya, guan dan; 马来西亚，关丹（Kuantan）
+mlxy, fsg; ma lai xi ya, feng sheng gang; 马来西亚，丰盛港（Mersing）
+mlxy, btws; ma lai xi ya, ba te wo si; 马来西亚，巴特沃斯（Butterworth）
+mlxy, gdbl; ma lai xi ya, ge da ba lu; 马来西亚，哥打巴鲁（Kotabharu）
+mlxy, gljl; ma lai xi ya, gua la ji lai; 马来西亚，瓜拉吉赖（Kualakrai）
+mlxy, gldjl; ma lai xi ya, gua la deng jia lou; 马来西亚，瓜拉登嘉楼（Kualatrengganu）
+mlxy, bdl; ma lai xi ya, ba da ling; 马来西亚，八打灵（Petalingjaya）
+mg, lsj; mei guo, luo shan ji; 美国，洛杉矶（Los Angeles）
+mg, bsd; mei guo, bo shi dun; 美国，波士顿（Boston）
+mg, zjg; mei guo, zhi jia ge; 美国，芝加哥（Chicago）
+mg, ny; mei guo, niu yue; 美国，纽约（New York）
+mg, lswjs; mei guo, la si wei jia si; 美国，拉斯维加斯（Lasvegas）
+mg, hsd; mei guo, hua sheng dun; 美国，华盛顿（Washington D. C）
+mg, jjs; mei guo, jiu jin shan; 美国，旧金山（Sanfrancisco）
+nmg, hhht, cq; nei meng gu, hu he hao te, cheng qu; 内蒙古，呼和浩特，城区
+nmg, hhht, tzq; nei meng gu, hu he hao te, tu zuo qi; 内蒙古，呼和浩特，土左旗
+nmg, hhht, tx; nei meng gu, hu he hao te, tuo xian; 内蒙古，呼和浩特，托县
+nmg, hhht, hl; nei meng gu, hu he hao te, he lin; 内蒙古，呼和浩特，和林
+nmg, hhht, qsh; nei meng gu, hu he hao te, qing shui he; 内蒙古，呼和浩特，清水河
+nmg, hhht, sh; nei meng gu, hu he hao te, sai han; 内蒙古，呼和浩特，赛罕
+nmg, hhht, wc; nei meng gu, hu he hao te, wu chuan; 内蒙古，呼和浩特，武川
+nmg, bt, cq; nei meng gu, bao tou, cheng qu; 内蒙古，包头，城区
+nmg, bt, byeb; nei meng gu, bao tou, bai yun e bo; 内蒙古，包头，白云鄂博
+nmg, bt, tyq; nei meng gu, bao tou, tu you qi; 内蒙古，包头，土右旗
+nmg, bt, gy; nei meng gu, bao tou, gu yang; 内蒙古，包头，固阳
+nmg, bt, dmq; nei meng gu, bao tou, da mao qi; 内蒙古，包头，达茂旗
+nmg, wh, cq; nei meng gu, wu hai, cheng qu; 内蒙古，乌海，城区
+nmg, wlcb, jn; nei meng gu, wu lan cha bu, ji ning; 内蒙古，乌兰察布，集宁
+nmg, wlcb, zz; nei meng gu, wu lan cha bu, zhuo zi; 内蒙古，乌兰察布，卓资
+nmg, wlcb, hd; nei meng gu, wu lan cha bu, hua de; 内蒙古，乌兰察布，化德
+nmg, wlcb, sd; nei meng gu, wu lan cha bu, shang dou; 内蒙古，乌兰察布，商都
+nmg, wlcb, cq; nei meng gu, wu lan cha bu, cheng qu; 内蒙古，乌兰察布，城区
+nmg, wlcb, xh; nei meng gu, wu lan cha bu, xing he; 内蒙古，乌兰察布，兴和
+nmg, wlcb, lc; nei meng gu, wu lan cha bu, liang cheng; 内蒙古，乌兰察布，凉城
+nmg, wlcb, cyqq; nei meng gu, wu lan cha bu, cha you qian qi; 内蒙古，乌兰察布，察右前旗
+nmg, wlcb, cyzq; nei meng gu, wu lan cha bu, cha you zhong qi; 内蒙古，乌兰察布，察右中旗
+nmg, wlcb, cyhq; nei meng gu, wu lan cha bu, cha you hou qi; 内蒙古，乌兰察布，察右后旗
+nmg, wlcb, szwq; nei meng gu, wu lan cha bu, si zi wang qi; 内蒙古，乌兰察布，四子王旗
+nmg, wlcb, fz; nei meng gu, wu lan cha bu, feng zhen; 内蒙古，乌兰察布，丰镇
+nmg, tl, cq; nei meng gu, tong liao, cheng qu; 内蒙古，通辽，城区
+nmg, tl, kzzq; nei meng gu, tong liao, ke zuo zhong qi; 内蒙古，通辽，科左中旗
+nmg, tl, kzhq; nei meng gu, tong liao, ke zuo hou qi; 内蒙古，通辽，科左后旗
+nmg, tl, kl; nei meng gu, tong liao, kai lu; 内蒙古，通辽，开鲁
+nmg, tl, kl; nei meng gu, tong liao, ku lun; 内蒙古，通辽，库伦
+nmg, tl, nm; nei meng gu, tong liao, nai man; 内蒙古，通辽，奈曼
+nmg, tl, zlt; nei meng gu, tong liao, zha lu te; 内蒙古，通辽，扎鲁特
+nmg, cf, cq; nei meng gu, chi feng, cheng qu; 内蒙古，赤峰，城区
+nmg, cf, alq; nei meng gu, chi feng, a lu qi; 内蒙古，赤峰，阿鲁旗
+nmg, cf, blzq; nei meng gu, chi feng, ba lin zuo qi; 内蒙古，赤峰，巴林左旗
+nmg, cf, blyq; nei meng gu, chi feng, ba lin you qi; 内蒙古，赤峰，巴林右旗
+nmg, cf, lx; nei meng gu, chi feng, lin xi; 内蒙古，赤峰，林西
+nmg, cf, kskt; nei meng gu, chi feng, ke shen ke teng; 内蒙古，赤峰，克什克腾
+nmg, cf, wnt; nei meng gu, chi feng, weng niu te; 内蒙古，赤峰，翁牛特
+nmg, cf, klq; nei meng gu, chi feng, ka la qin; 内蒙古，赤峰，喀喇沁
+nmg, cf, nc; nei meng gu, chi feng, ning cheng; 内蒙古，赤峰，宁城
+nmg, cf, ah; nei meng gu, chi feng, ao han; 内蒙古，赤峰，敖汉
+nmg, eeds, cq; nei meng gu, e er duo si, cheng qu; 内蒙古，鄂尔多斯，城区
+nmg, eeds, dlt; nei meng gu, e er duo si, da la te; 内蒙古，鄂尔多斯，达拉特
+nmg, eeds, zge; nei meng gu, e er duo si, zhun ge er; 内蒙古，鄂尔多斯，准格尔
+nmg, eeds, eqq; nei meng gu, e er duo si, e qian qi; 内蒙古，鄂尔多斯，鄂前旗
+nmg, eeds, etk; nei meng gu, e er duo si, e tuo ke; 内蒙古，鄂尔多斯，鄂托克
+nmg, eeds, hjq; nei meng gu, e er duo si, hang jin qi; 内蒙古，鄂尔多斯，杭锦旗
+nmg, eeds, wsq; nei meng gu, e er duo si, wu shen qi; 内蒙古，鄂尔多斯，乌审旗
+nmg, eeds, yjhl; nei meng gu, e er duo si, yi jin huo luo; 内蒙古，鄂尔多斯，伊金霍洛
+nmg, eeds, ds; nei meng gu, e er duo si, dong sheng; 内蒙古，鄂尔多斯，东胜
+nmg, byne, lh; nei meng gu, ba yan nao er, lin he; 内蒙古，巴彦淖尔，临河
+nmg, byne, wy; nei meng gu, ba yan nao er, wu yuan; 内蒙古，巴彦淖尔，五原
+nmg, byne, dk; nei meng gu, ba yan nao er, deng kou; 内蒙古，巴彦淖尔，磴口
+nmg, byne, wqq; nei meng gu, ba yan nao er, wu qian qi; 内蒙古，巴彦淖尔，乌前旗
+nmg, byne, wzq; nei meng gu, ba yan nao er, wu zhong qi; 内蒙古，巴彦淖尔，乌中旗
+nmg, byne, whq; nei meng gu, ba yan nao er, wu hou qi; 内蒙古，巴彦淖尔，乌后旗
+nmg, byne, hjhq; nei meng gu, ba yan nao er, hang jin hou qi; 内蒙古，巴彦淖尔，杭锦后旗
+nmg, xlgl, xlht; nei meng gu, xi lin guo lei, xi lin hao te; 内蒙古，锡林郭勒，锡林浩特
+nmg, xlgl, elht; nei meng gu, xi lin guo lei, er lian hao te; 内蒙古，锡林郭勒，二连浩特
+nmg, xlgl, abg; nei meng gu, xi lin guo lei, a ba ga; 内蒙古，锡林郭勒，阿巴嘎
+nmg, xlgl, szq; nei meng gu, xi lin guo lei, su zuo qi; 内蒙古，锡林郭勒，苏左旗
+nmg, xlgl, syq; nei meng gu, xi lin guo lei, su you qi; 内蒙古，锡林郭勒，苏右旗
+nmg, xlgl, dwq; nei meng gu, xi lin guo lei, dong wu qi; 内蒙古，锡林郭勒，东乌旗
+nmg, xlgl, xwq; nei meng gu, xi lin guo lei, xi wu qi; 内蒙古，锡林郭勒，西乌旗
+nmg, xlgl, tps; nei meng gu, xi lin guo lei, tai pu si; 内蒙古，锡林郭勒，太仆寺
+nmg, xlgl, xhq; nei meng gu, xi lin guo lei, xiang huang qi; 内蒙古，锡林郭勒，镶黄旗
+nmg, xlgl, zxbq; nei meng gu, xi lin guo lei, zheng xiang bai qi; 内蒙古，锡林郭勒，正镶白旗
+nmg, xlgl, zlq; nei meng gu, xi lin guo lei, zheng lan qi; 内蒙古，锡林郭勒，正蓝旗
+nmg, xlgl, dl; nei meng gu, xi lin guo lei, duo lun; 内蒙古，锡林郭勒，多伦
+nmg, hlbe, hle; nei meng gu, hu lun bei er, hai la er; 内蒙古，呼伦贝尔，海拉尔
+nmg, hlbe, arq; nei meng gu, hu lun bei er, a rong qi; 内蒙古，呼伦贝尔，阿荣旗
+nmg, hlbe, mldw; nei meng gu, hu lun bei er, mo li da wa; 内蒙古，呼伦贝尔，莫力达瓦
+nmg, hlbe, elcq; nei meng gu, hu lun bei er, e lun chun qi; 内蒙古，呼伦贝尔，鄂伦春旗
+nmg, hlbe, ewkq; nei meng gu, hu lun bei er, e wen ke qi; 内蒙古，呼伦贝尔，鄂温克旗
+nmg, hlbe, cq; nei meng gu, hu lun bei er, chen qi; 内蒙古，呼伦贝尔，陈旗
+nmg, hlbe, xzq; nei meng gu, hu lun bei er, xin zuo qi; 内蒙古，呼伦贝尔，新左旗
+nmg, hlbe, xyq; nei meng gu, hu lun bei er, xin you qi; 内蒙古，呼伦贝尔，新右旗
+nmg, hlbe, mzl; nei meng gu, hu lun bei er, man zhou li; 内蒙古，呼伦贝尔，满洲里
+nmg, hlbe, yks; nei meng gu, hu lun bei er, ya ke shi; 内蒙古，呼伦贝尔，牙克石
+nmg, hlbe, zlt; nei meng gu, hu lun bei er, zha lan tun; 内蒙古，呼伦贝尔，扎兰屯
+nmg, hlbe, eegn; nei meng gu, hu lun bei er, e er gu na; 内蒙古，呼伦贝尔，额尔古纳
+nmg, hlbe, gh; nei meng gu, hu lun bei er, gen he; 内蒙古，呼伦贝尔，根河
+nmg, xam, wlht; nei meng gu, xing an meng, wu lan hao te; 内蒙古，兴安盟，乌兰浩特
+nmg, xam, aes; nei meng gu, xing an meng, a er shan; 内蒙古，兴安盟，阿尔山
+nmg, xam, kyzq; nei meng gu, xing an meng, ke you zhong qi; 内蒙古，兴安盟，科右中旗
+nmg, xam, zlt; nei meng gu, xing an meng, zha lai te; 内蒙古，兴安盟，扎赉特
+nmg, xam, tq; nei meng gu, xing an meng, tu quan; 内蒙古，兴安盟，突泉
+nmg, xam, kyqq; nei meng gu, xing an meng, ke you qian qi; 内蒙古，兴安盟，科右前旗
+nmg, alsm, azq; nei meng gu, a la shan meng, a zuo qi; 内蒙古，阿拉善盟，阿左旗
+nmg, alsm, ayq; nei meng gu, a la shan meng, a you qi; 内蒙古，阿拉善盟，阿右旗
+nmg, alsm, ejn; nei meng gu, a la shan meng, e ji na; 内蒙古，阿拉善盟，额济纳
+nx, yc, cq; ning xia, yin chuan, cheng qu; 宁夏，银川，城区
+nx, yc, yn; ning xia, yin chuan, yong ning; 宁夏，银川，永宁
+nx, yc, lw; ning xia, yin chuan, ling wu; 宁夏，银川，灵武
+nx, yc, hl; ning xia, yin chuan, he lan; 宁夏，银川，贺兰
+nx, szs, cq; ning xia, shi zui shan, cheng qu; 宁夏，石嘴山，城区
+nx, szs, hn; ning xia, shi zui shan, hui nong; 宁夏，石嘴山，惠农
+nx, szs, pl; ning xia, shi zui shan, ping luo; 宁夏，石嘴山，平罗
+nx, wz, cq; ning xia, wu zhong, cheng qu; 宁夏，吴忠，城区
+nx, wz, tx; ning xia, wu zhong, tong xin; 宁夏，吴忠，同心
+nx, wz, yc; ning xia, wu zhong, yan chi; 宁夏，吴忠，盐池
+nx, wz, qtx; ning xia, wu zhong, qing tong xia; 宁夏，吴忠，青铜峡
+nx, gy, cq; ning xia, gu yuan, cheng qu; 宁夏，固原，城区
+nx, gy, xj; ning xia, gu yuan, xi ji; 宁夏，固原，西吉
+nx, gy, ld; ning xia, gu yuan, long de; 宁夏，固原，隆德
+nx, gy, jy; ning xia, gu yuan, jing yuan; 宁夏，固原，泾源
+nx, gy, py; ning xia, gu yuan, peng yang; 宁夏，固原，彭阳
+nx, zw, cq; ning xia, zhong wei, cheng qu; 宁夏，中卫，城区
+nx, zw, zn; ning xia, zhong wei, zhong ning; 宁夏，中卫，中宁
+nx, zw, hy; ning xia, zhong wei, hai yuan; 宁夏，中卫，海原
+qh, xn, cq; qing hai, xi ning, cheng qu; 青海，西宁，城区
+qh, xn, dt; qing hai, xi ning, da tong; 青海，西宁，大通
+qh, xn, hy; qing hai, xi ning, huang yuan; 青海，西宁，湟源
+qh, xn, hz; qing hai, xi ning, huang zhong; 青海，西宁，湟中
+qh, hd, pa; qing hai, hai dong, ping an; 青海，海东，平安
+qh, hd, ld; qing hai, hai dong, le dou; 青海，海东，乐都
+qh, hd, mh; qing hai, hai dong, min he; 青海，海东，民和
+qh, hd, hz; qing hai, hai dong, hu zhu; 青海，海东，互助
+qh, hd, hl; qing hai, hai dong, hua long; 青海，海东，化隆
+qh, hd, xh; qing hai, hai dong, xun hua; 青海，海东，循化
+qh, hn, tr; qing hai, huang nan, tong ren; 青海，黄南，同仁
+qh, hn, jz; qing hai, huang nan, jian zha; 青海，黄南，尖扎
+qh, hn, zk; qing hai, huang nan, ze ku; 青海，黄南，泽库
+qh, hn, hn; qing hai, huang nan, he nan; 青海，黄南，河南
+qh, hn, gh; qing hai, hai nan, gong he; 青海，海南，共和
+qh, hn, gd; qing hai, hai nan, gui de; 青海，海南，贵德
+qh, hn, xh; qing hai, hai nan, xing hai; 青海，海南，兴海
+qh, hn, gn; qing hai, hai nan, gui nan; 青海，海南，贵南
+qh, hn, td; qing hai, hai nan, tong de; 青海，海南，同德
+qh, gl, mq; qing hai, guo luo, ma qin; 青海，果洛，玛沁
+qh, gl, bm; qing hai, guo luo, ban ma; 青海，果洛，班玛
+qh, gl, gd; qing hai, guo luo, gan de; 青海，果洛，甘德
+qh, gl, dr; qing hai, guo luo, da ri; 青海，果洛，达日
+qh, gl, jz; qing hai, guo luo, jiu zhi; 青海，果洛，久治
+qh, gl, md; qing hai, guo luo, ma duo; 青海，果洛，玛多
+qh, ys, cq; qing hai, yu shu, cheng qu; 青海，玉树，城区
+qh, ys, cd; qing hai, yu shu, cheng duo; 青海，玉树，称多
+qh, ys, zd; qing hai, yu shu, zhi duo; 青海，玉树，治多
+qh, ys, zd; qing hai, yu shu, za duo; 青海，玉树，杂多
+qh, ys, nq; qing hai, yu shu, nang qian; 青海，玉树，囊谦
+qh, ys, qml; qing hai, yu shu, qu ma lai; 青海，玉树，曲麻莱
+qh, hx, dlh; qing hai, hai xi, de ling ha; 青海，海西，德令哈
+qh, hx, tj; qing hai, hai xi, tian jun; 青海，海西，天峻
+qh, hx, wl; qing hai, hai xi, wu lan; 青海，海西，乌兰
+qh, hx, my; qing hai, hai xi, mang ya; 青海，海西，茫崖
+qh, hx, dcd; qing hai, hai xi, da chai dan; 青海，海西，大柴旦
+qh, hx, lh; qing hai, hai xi, leng hu; 青海，海西，冷湖
+qh, hb, hy; qing hai, hai bei, hai yan; 青海，海北，海晏
+qh, hb, my; qing hai, hai bei, men yuan; 青海，海北，门源
+qh, hb, ql; qing hai, hai bei, qi lian; 青海，海北，祁连
+qh, hb, gc; qing hai, hai bei, gang cha; 青海，海北，刚察
+rb, dj; ri ben, dong jing; 日本，东京（Tokyo）
+rb, jd; ri ben, jing du; 日本，京都（Kyoto）
+rb, db; ri ben, da ban; 日本，大阪（Osaka）
+sd, jn, cq; shan dong, ji nan, cheng qu; 山东，济南，城区
+sd, jn, zq; shan dong, ji nan, zhang qing; 山东，济南，长清
+sd, jn, sh; shan dong, ji nan, shang he; 山东，济南，商河
+sd, jn, zq; shan dong, ji nan, zhang qiu; 山东，济南，章丘
+sd, jn, py; shan dong, ji nan, ping yin; 山东，济南，平阴
+sd, jn, jy; shan dong, ji nan, ji yang; 山东，济南，济阳
+sd, jn, lx; shan dong, ji nan, li xia; 山东，济南，历下
+sd, qd, cq; shan dong, qing dao, cheng qu; 山东，青岛，城区
+sd, qd, ls; shan dong, qing dao, lao shan; 山东，青岛，崂山
+sd, qd, jm; shan dong, qing dao, ji mo; 山东，青岛，即墨
+sd, qd, jz; shan dong, qing dao, jiao zhou; 山东，青岛，胶州
+sd, qd, hd; shan dong, qing dao, huang dao; 山东，青岛，黄岛
+sd, qd, lx; shan dong, qing dao, lai xi; 山东，青岛，莱西
+sd, qd, pd; shan dong, qing dao, ping du; 山东，青岛，平度
+sd, zb, cq; shan dong, zi bo, cheng qu; 山东，淄博，城区
+sd, zb, zc; shan dong, zi bo, zi chuan; 山东，淄博，淄川
+sd, zb, bs; shan dong, zi bo, bo shan; 山东，淄博，博山
+sd, zb, gq; shan dong, zi bo, gao qing; 山东，淄博，高青
+sd, zb, zc; shan dong, zi bo, zhou cun; 山东，淄博，周村
+sd, zb, yy; shan dong, zi bo, yi yuan; 山东，淄博，沂源
+sd, zb, ht; shan dong, zi bo, huan tai; 山东，淄博，桓台
+sd, zb, lz; shan dong, zi bo, lin zi; 山东，淄博，临淄
+sd, dz, cq; shan dong, de zhou, cheng qu; 山东，德州，城区
+sd, dz, wc; shan dong, de zhou, wu cheng; 山东，德州，武城
+sd, dz, ly; shan dong, de zhou, lin yi; 山东，德州，临邑
+sd, dz, qh; shan dong, de zhou, qi he; 山东，德州，齐河
+sd, dz, ll; shan dong, de zhou, le ling; 山东，德州，乐陵
+sd, dz, qy; shan dong, de zhou, qing yun; 山东，德州，庆云
+sd, dz, py; shan dong, de zhou, ping yuan; 山东，德州，平原
+sd, dz, nj; shan dong, de zhou, ning jin; 山东，德州，宁津
+sd, dz, xj; shan dong, de zhou, xia jin; 山东，德州，夏津
+sd, dz, yc; shan dong, de zhou, yu cheng; 山东，德州，禹城
+sd, yt, cq; shan dong, yan tai, cheng qu; 山东，烟台，城区
+sd, yt, lz; shan dong, yan tai, lai zhou; 山东，烟台，莱州
+sd, yt, zd; shan dong, yan tai, zhang dao; 山东，烟台，长岛
+sd, yt, pl; shan dong, yan tai, peng lai; 山东，烟台，蓬莱
+sd, yt, lk; shan dong, yan tai, long kou; 山东，烟台，龙口
+sd, yt, zy; shan dong, yan tai, zhao yuan; 山东，烟台，招远
+sd, yt, qx; shan dong, yan tai, qi xia; 山东，烟台，栖霞
+sd, yt, fs; shan dong, yan tai, fu shan; 山东，烟台，福山
+sd, yt, mp; shan dong, yan tai, mu ping; 山东，烟台，牟平
+sd, yt, ly; shan dong, yan tai, lai yang; 山东，烟台，莱阳
+sd, yt, hy; shan dong, yan tai, hai yang; 山东，烟台，海阳
+sd, wf, cq; shan dong, wei fang, cheng qu; 山东，潍坊，城区
+sd, wf, qz; shan dong, wei fang, qing zhou; 山东，潍坊，青州
+sd, wf, sg; shan dong, wei fang, shou guang; 山东，潍坊，寿光
+sd, wf, lq; shan dong, wei fang, lin qu; 山东，潍坊，临朐
+sd, wf, cl; shan dong, wei fang, chang le; 山东，潍坊，昌乐
+sd, wf, cy; shan dong, wei fang, chang yi; 山东，潍坊，昌邑
+sd, wf, aq; shan dong, wei fang, an qiu; 山东，潍坊，安丘
+sd, wf, gm; shan dong, wei fang, gao mi; 山东，潍坊，高密
+sd, wf, zc; shan dong, wei fang, zhu cheng; 山东，潍坊，诸城
+sd, jn, cq; shan dong, ji ning, cheng qu; 山东，济宁，城区
+sd, jn, jx; shan dong, ji ning, jia xiang; 山东，济宁，嘉祥
+sd, jn, ws; shan dong, ji ning, wei shan; 山东，济宁，微山
+sd, jn, yt; shan dong, ji ning, yu tai; 山东，济宁，鱼台
+sd, jn, yz; shan dong, ji ning, yan zhou; 山东，济宁，兖州
+sd, jn, jx; shan dong, ji ning, jin xiang; 山东，济宁，金乡
+sd, jn, ws; shan dong, ji ning, wen shang; 山东，济宁，汶上
+sd, jn, ss; shan dong, ji ning, si shui; 山东，济宁，泗水
+sd, jn, ls; shan dong, ji ning, liang shan; 山东，济宁，梁山
+sd, jn, qf; shan dong, ji ning, qu fu; 山东，济宁，曲阜
+sd, jn, zc; shan dong, ji ning, zou cheng; 山东，济宁，邹城
+sd, ta, cq; shan dong, tai an, cheng qu; 山东，泰安，城区
+sd, ta, xt; shan dong, tai an, xin tai; 山东，泰安，新泰
+sd, ta, fc; shan dong, tai an, fei cheng; 山东，泰安，肥城
+sd, ta, dp; shan dong, tai an, dong ping; 山东，泰安，东平
+sd, ta, ny; shan dong, tai an, ning yang; 山东，泰安，宁阳
+sd, ly, cq; shan dong, lin yi, cheng qu; 山东，临沂，城区
+sd, ly, jn; shan dong, lin yi, ju nan; 山东，临沂，莒南
+sd, ly, yn; shan dong, lin yi, yi nan; 山东，临沂，沂南
+sd, ly, ll; shan dong, lin yi, lan ling; 山东，临沂，兰陵
+sd, ly, ls; shan dong, lin yi, lin shu; 山东，临沂，临沭
+sd, ly, tc; shan dong, lin yi, tan cheng; 山东，临沂，郯城
+sd, ly, my; shan dong, lin yi, meng yin; 山东，临沂，蒙阴
+sd, ly, py; shan dong, lin yi, ping yi; 山东，临沂，平邑
+sd, ly, fx; shan dong, lin yi, fei xian; 山东，临沂，费县
+sd, ly, ys; shan dong, lin yi, yi shui; 山东，临沂，沂水
+sd, hz, cq; shan dong, he ze, cheng qu; 山东，菏泽，城区
+sd, hz, jc; shan dong, he ze, juan cheng; 山东，菏泽，鄄城
+sd, hz, yc; shan dong, he ze, yun cheng; 山东，菏泽，郓城
+sd, hz, dm; shan dong, he ze, dong ming; 山东，菏泽，东明
+sd, hz, dt; shan dong, he ze, ding tao; 山东，菏泽，定陶
+sd, hz, jy; shan dong, he ze, ju ye; 山东，菏泽，巨野
+sd, hz, cx; shan dong, he ze, cao xian; 山东，菏泽，曹县
+sd, hz, cw; shan dong, he ze, cheng wu; 山东，菏泽，成武
+sd, hz, dx; shan dong, he ze, dan xian; 山东，菏泽，单县
+sd, bz, cq; shan dong, bin zhou, cheng qu; 山东，滨州，城区
+sd, bz, bx; shan dong, bin zhou, bo xing; 山东，滨州，博兴
+sd, bz, wd; shan dong, bin zhou, wu di; 山东，滨州，无棣
+sd, bz, yx; shan dong, bin zhou, yang xin; 山东，滨州，阳信
+sd, bz, hm; shan dong, bin zhou, hui min; 山东，滨州，惠民
+sd, bz, zh; shan dong, bin zhou, zhan hua; 山东，滨州，沾化
+sd, bz, zp; shan dong, bin zhou, zou ping; 山东，滨州，邹平
+sd, dy, cq; shan dong, dong ying, cheng qu; 山东，东营，城区
+sd, dy, hk; shan dong, dong ying, he kou; 山东，东营，河口
+sd, dy, kl; shan dong, dong ying, ken li; 山东，东营，垦利
+sd, dy, lj; shan dong, dong ying, li jin; 山东，东营，利津
+sd, dy, gr; shan dong, dong ying, guang rao; 山东，东营，广饶
+sd, wh, cq; shan dong, wei hai, cheng qu; 山东，威海，城区
+sd, wh, wd; shan dong, wei hai, wen deng; 山东，威海，文登
+sd, wh, rc; shan dong, wei hai, rong cheng; 山东，威海，荣成
+sd, wh, rs; shan dong, wei hai, ru shan; 山东，威海，乳山
+sd, zz, cq; shan dong, zao zhuang, cheng qu; 山东，枣庄，城区
+sd, zz, xc; shan dong, zao zhuang, xue cheng; 山东，枣庄，薛城
+sd, zz, yc; shan dong, zao zhuang, yi cheng; 山东，枣庄，峄城
+sd, zz, tez; shan dong, zao zhuang, tai er zhuang; 山东，枣庄，台儿庄
+sd, zz, tz; shan dong, zao zhuang, teng zhou; 山东，枣庄，滕州
+sd, rz, cq; shan dong, ri zhao, cheng qu; 山东，日照，城区
+sd, rz, wl; shan dong, ri zhao, wu lian; 山东，日照，五莲
+sd, rz, jx; shan dong, ri zhao, ju xian; 山东，日照，莒县
+sd, lw, cq; shan dong, lai wu, cheng qu; 山东，莱芜，城区
+sd, lc, cq; shan dong, liao cheng, cheng qu; 山东，聊城，城区
+sd, lc, gx; shan dong, liao cheng, guan xian; 山东，聊城，冠县
+sd, lc, yg; shan dong, liao cheng, yang gu; 山东，聊城，阳谷
+sd, lc, gt; shan dong, liao cheng, gao tang; 山东，聊城，高唐
+sd, lc, cp; shan dong, liao cheng, chi ping; 山东，聊城，茌平
+sd, lc, de; shan dong, liao cheng, dong e; 山东，聊城，东阿
+sd, lc, lq; shan dong, liao cheng, lin qing; 山东，聊城，临清
+sd, lc, sx; shan dong, liao cheng, shen xian; 山东，聊城，莘县
+sx, ty, cq; shan xi, tai yuan, cheng qu; 山西，太原，城区
+sx, ty, qx; shan xi, tai yuan, qing xu; 山西，太原，清徐
+sx, ty, yq; shan xi, tai yuan, yang qu; 山西，太原，阳曲
+sx, ty, lf; shan xi, tai yuan, lou fan; 山西，太原，娄烦
+sx, ty, gj; shan xi, tai yuan, gu jiao; 山西，太原，古交
+sx, ty, jcpq; shan xi, tai yuan, jian cao ping qu; 山西，太原，尖草坪区
+sx, ty, xdq; shan xi, tai yuan, xiao dian qu; 山西，太原，小店区
+sx, dt, cq; shan xi, da tong, cheng qu; 山西，大同，城区
+sx, dt, yg; shan xi, da tong, yang gao; 山西，大同，阳高
+sx, dt, dtx; shan xi, da tong, da tong xian; 山西，大同，大同县
+sx, dt, tz; shan xi, da tong, tian zhen; 山西，大同，天镇
+sx, dt, gl; shan xi, da tong, guang ling; 山西，大同，广灵
+sx, dt, lq; shan xi, da tong, ling qiu; 山西，大同，灵丘
+sx, dt, hy; shan xi, da tong, hun yuan; 山西，大同，浑源
+sx, dt, zy; shan xi, da tong, zuo yun; 山西，大同，左云
+sx, yq, cq; shan xi, yang quan, cheng qu; 山西，阳泉，城区
+sx, yq, yx; shan xi, yang quan, yu xian; 山西，阳泉，盂县
+sx, yq, pd; shan xi, yang quan, ping ding; 山西，阳泉，平定
+sx, jz, cq; shan xi, jin zhong, cheng qu; 山西，晋中，城区
+sx, jz, yc; shan xi, jin zhong, yu ci; 山西，晋中，榆次
+sx, jz, ys; shan xi, jin zhong, yu she; 山西，晋中，榆社
+sx, jz, zq; shan xi, jin zhong, zuo quan; 山西，晋中，左权
+sx, jz, hs; shan xi, jin zhong, he shun; 山西，晋中，和顺
+sx, jz, xy; shan xi, jin zhong, xi yang; 山西，晋中，昔阳
+sx, jz, sy; shan xi, jin zhong, shou yang; 山西，晋中，寿阳
+sx, jz, tg; shan xi, jin zhong, tai gu; 山西，晋中，太谷
+sx, jz, qx; shan xi, jin zhong, qi xian; 山西，晋中，祁县
+sx, jz, py; shan xi, jin zhong, ping yao; 山西，晋中，平遥
+sx, jz, ls; shan xi, jin zhong, ling shi; 山西，晋中，灵石
+sx, jz, jx; shan xi, jin zhong, jie xiu; 山西，晋中，介休
+sx, zz, cq; shan xi, zhang zhi, cheng qu; 山西，长治，城区
+sx, zz, lc; shan xi, zhang zhi, li cheng; 山西，长治，黎城
+sx, zz, tl; shan xi, zhang zhi, tun liu; 山西，长治，屯留
+sx, zz, lc; shan xi, zhang zhi, lu cheng; 山西，长治，潞城
+sx, zz, xy; shan xi, zhang zhi, xiang yuan; 山西，长治，襄垣
+sx, zz, ps; shan xi, zhang zhi, ping shun; 山西，长治，平顺
+sx, zz, wx; shan xi, zhang zhi, wu xiang; 山西，长治，武乡
+sx, zz, qx; shan xi, zhang zhi, qin xian; 山西，长治，沁县
+sx, zz, zz; shan xi, zhang zhi, zhang zi; 山西，长治，长子
+sx, zz, qy; shan xi, zhang zhi, qin yuan; 山西，长治，沁源
+sx, zz, hg; shan xi, zhang zhi, hu guan; 山西，长治，壶关
+sx, jc, cq; shan xi, jin cheng, cheng qu; 山西，晋城，城区
+sx, jc, qs; shan xi, jin cheng, qin shui; 山西，晋城，沁水
+sx, jc, yc; shan xi, jin cheng, yang cheng; 山西，晋城，阳城
+sx, jc, lc; shan xi, jin cheng, ling chuan; 山西，晋城，陵川
+sx, jc, gp; shan xi, jin cheng, gao ping; 山西，晋城，高平
+sx, jc, zz; shan xi, jin cheng, ze zhou; 山西，晋城，泽州
+sx, lf, cq; shan xi, lin fen, cheng qu; 山西，临汾，城区
+sx, lf, qw; shan xi, lin fen, qu wo; 山西，临汾，曲沃
+sx, lf, yh; shan xi, lin fen, yong he; 山西，临汾，永和
+sx, lf, xx; shan xi, lin fen, xi xian; 山西，临汾，隰县
+sx, lf, dn; shan xi, lin fen, da ning; 山西，临汾，大宁
+sx, lf, jx; shan xi, lin fen, ji xian; 山西，临汾，吉县
+sx, lf, xf; shan xi, lin fen, xiang fen; 山西，临汾，襄汾
+sx, lf, px; shan xi, lin fen, pu xian; 山西，临汾，蒲县
+sx, lf, fx; shan xi, lin fen, fen xi; 山西，临汾，汾西
+sx, lf, hd; shan xi, lin fen, hong dong; 山西，临汾，洪洞
+sx, lf, hz; shan xi, lin fen, huo zhou; 山西，临汾，霍州
+sx, lf, xn; shan xi, lin fen, xiang ning; 山西，临汾，乡宁
+sx, lf, yc; shan xi, lin fen, yi cheng; 山西，临汾，翼城
+sx, lf, hm; shan xi, lin fen, hou ma; 山西，临汾，侯马
+sx, lf, fs; shan xi, lin fen, fu shan; 山西，临汾，浮山
+sx, lf, az; shan xi, lin fen, an ze; 山西，临汾，安泽
+sx, lf, gx; shan xi, lin fen, gu xian; 山西，临汾，古县
+sx, yc, cq; shan xi, yun cheng, cheng qu; 山西，运城，城区
+sx, yc, ly; shan xi, yun cheng, lin yi; 山西，运城，临猗
+sx, yc, js; shan xi, yun cheng, ji shan; 山西，运城，稷山
+sx, yc, wr; shan xi, yun cheng, wan rong; 山西，运城，万荣
+sx, yc, hj; shan xi, yun cheng, he jin; 山西，运城，河津
+sx, yc, xj; shan xi, yun cheng, xin jiang; 山西，运城，新绛
+sx, yc, jx; shan xi, yun cheng, jiang xian; 山西，运城，绛县
+sx, yc, wx; shan xi, yun cheng, wen xi; 山西，运城，闻喜
+sx, yc, yq; shan xi, yun cheng, yuan qu; 山西，运城，垣曲
+sx, yc, yj; shan xi, yun cheng, yong ji; 山西，运城，永济
+sx, yc, rc; shan xi, yun cheng, rui cheng; 山西，运城，芮城
+sx, yc, xx; shan xi, yun cheng, xia xian; 山西，运城，夏县
+sx, yc, pl; shan xi, yun cheng, ping lu; 山西，运城，平陆
+sx, sz, cq; shan xi, shuo zhou, cheng qu; 山西，朔州，城区
+sx, sz, pl; shan xi, shuo zhou, ping lu; 山西，朔州，平鲁
+sx, sz, sy; shan xi, shuo zhou, shan yin; 山西，朔州，山阴
+sx, sz, yy; shan xi, shuo zhou, you yu; 山西，朔州，右玉
+sx, sz, yx; shan xi, shuo zhou, ying xian; 山西，朔州，应县
+sx, sz, hr; shan xi, shuo zhou, huai ren; 山西，朔州，怀仁
+sx, xz, cq; shan xi, xin zhou, cheng qu; 山西，忻州，城区
+sx, xz, dx; shan xi, xin zhou, ding xiang; 山西，忻州，定襄
+sx, xz, wtx; shan xi, xin zhou, wu tai xian; 山西，忻州，五台县
+sx, xz, hq; shan xi, xin zhou, he qu; 山西，忻州，河曲
+sx, xz, pg; shan xi, xin zhou, pian guan; 山西，忻州，偏关
+sx, xz, sc; shan xi, xin zhou, shen chi; 山西，忻州，神池
+sx, xz, nw; shan xi, xin zhou, ning wu; 山西，忻州，宁武
+sx, xz, dx; shan xi, xin zhou, dai xian; 山西，忻州，代县
+sx, xz, fz; shan xi, xin zhou, fan zhi; 山西，忻州，繁峙
+sx, xz, bd; shan xi, xin zhou, bao de; 山西，忻州，保德
+sx, xz, jl; shan xi, xin zhou, jing le; 山西，忻州，静乐
+sx, xz, kl; shan xi, xin zhou, ke lan; 山西，忻州，岢岚
+sx, xz, wz; shan xi, xin zhou, wu zhai; 山西，忻州，五寨
+sx, xz, yp; shan xi, xin zhou, yuan ping; 山西，忻州，原平
+sx, ll, cq; shan xi, lv liang, cheng qu; 山西，吕梁，城区
+sx, ll, ls; shan xi, lv liang, li shi; 山西，吕梁，离石
+sx, ll, lx; shan xi, lv liang, lin xian; 山西，吕梁，临县
+sx, ll, xx; shan xi, lv liang, xing xian; 山西，吕梁，兴县
+sx, ll, lx; shan xi, lv liang, lan xian; 山西，吕梁，岚县
+sx, ll, ll; shan xi, lv liang, liu lin; 山西，吕梁，柳林
+sx, ll, sl; shan xi, lv liang, shi lou; 山西，吕梁，石楼
+sx, ll, fs; shan xi, lv liang, fang shan; 山西，吕梁，方山
+sx, ll, jk; shan xi, lv liang, jiao kou; 山西，吕梁，交口
+sx, ll, zy; shan xi, lv liang, zhong yang; 山西，吕梁，中阳
+sx, ll, xy; shan xi, lv liang, xiao yi; 山西，吕梁，孝义
+sx, ll, fy; shan xi, lv liang, fen yang; 山西，吕梁，汾阳
+sx, ll, ws; shan xi, lv liang, wen shui; 山西，吕梁，文水
+sx, ll, jc; shan xi, lv liang, jiao cheng; 山西，吕梁，交城
+sx, xa, cq; shan xi, xi an, cheng qu; 陕西，西安，城区
+sx, xa, ca; shan xi, xi an, chang an; 陕西，西安，长安
+sx, xa, lt; shan xi, xi an, lin tong; 陕西，西安，临潼
+sx, xa, lt; shan xi, xi an, lan tian; 陕西，西安，蓝田
+sx, xa, zz; shan xi, xi an, zhou zhi; 陕西，西安，周至
+sx, xa, hx; shan xi, xi an, hu xian; 陕西，西安，户县
+sx, xa, gl; shan xi, xi an, gao ling; 陕西，西安，高陵
+sx, xy, cq; shan xi, xian yang, cheng qu; 陕西，咸阳，城区
+sx, xy, sy; shan xi, xian yang, san yuan; 陕西，咸阳，三原
+sx, xy, lq; shan xi, xian yang, li quan; 陕西，咸阳，礼泉
+sx, xy, ys; shan xi, xian yang, yong shou; 陕西，咸阳，永寿
+sx, xy, ch; shan xi, xian yang, chun hua; 陕西，咸阳，淳化
+sx, xy, jy; shan xi, xian yang, jing yang; 陕西，咸阳，泾阳
+sx, xy, wg; shan xi, xian yang, wu gong; 陕西，咸阳，武功
+sx, xy, qx; shan xi, xian yang, qian xian; 陕西，咸阳，乾县
+sx, xy, bx; shan xi, xian yang, bin xian; 陕西，咸阳，彬县
+sx, xy, zw; shan xi, xian yang, zhang wu; 陕西，咸阳，长武
+sx, xy, xy; shan xi, xian yang, xun yi; 陕西，咸阳，旬邑
+sx, xy, xp; shan xi, xian yang, xing ping; 陕西，咸阳，兴平
+sx, ya, cq; shan xi, yan an, cheng qu; 陕西，延安，城区
+sx, ya, yc; shan xi, yan an, yan chang; 陕西，延安，延长
+sx, ya, yc; shan xi, yan an, yan chuan; 陕西，延安，延川
+sx, ya, zz; shan xi, yan an, zi zhang; 陕西，延安，子长
+sx, ya, yc; shan xi, yan an, yi chuan; 陕西，延安，宜川
+sx, ya, fx; shan xi, yan an, fu xian; 陕西，延安，富县
+sx, ya, zd; shan xi, yan an, zhi dan; 陕西，延安，志丹
+sx, ya, as; shan xi, yan an, an sai; 陕西，延安，安塞
+sx, ya, gq; shan xi, yan an, gan quan; 陕西，延安，甘泉
+sx, ya, lc; shan xi, yan an, luo chuan; 陕西，延安，洛川
+sx, ya, hl; shan xi, yan an, huang ling; 陕西，延安，黄陵
+sx, ya, hl; shan xi, yan an, huang long; 陕西，延安，黄龙
+sx, ya, wq; shan xi, yan an, wu qi; 陕西，延安，吴起
+sx, yl, cq; shan xi, yu lin, cheng qu; 陕西，榆林，城区
+sx, yl, fg; shan xi, yu lin, fu gu; 陕西，榆林，府谷
+sx, yl, sm; shan xi, yu lin, shen mu; 陕西，榆林，神木
+sx, yl, jx; shan xi, yu lin, jia xian; 陕西，榆林，佳县
+sx, yl, db; shan xi, yu lin, ding bian; 陕西，榆林，定边
+sx, yl, jb; shan xi, yu lin, jing bian; 陕西，榆林，靖边
+sx, yl, hs; shan xi, yu lin, heng shan; 陕西，榆林，横山
+sx, yl, mz; shan xi, yu lin, mi zhi; 陕西，榆林，米脂
+sx, yl, zz; shan xi, yu lin, zi zhou; 陕西，榆林，子洲
+sx, yl, sd; shan xi, yu lin, sui de; 陕西，榆林，绥德
+sx, yl, wb; shan xi, yu lin, wu bu; 陕西，榆林，吴堡
+sx, yl, qj; shan xi, yu lin, qing jian; 陕西，榆林，清涧
+sx, yl, yy; shan xi, yu lin, yu yang; 陕西，榆林，榆阳
+sx, wn, cq; shan xi, wei nan, cheng qu; 陕西，渭南，城区
+sx, wn, tg; shan xi, wei nan, tong guan; 陕西，渭南，潼关
+sx, wn, dl; shan xi, wei nan, da li; 陕西，渭南，大荔
+sx, wn, bs; shan xi, wei nan, bai shui; 陕西，渭南，白水
+sx, wn, fp; shan xi, wei nan, fu ping; 陕西，渭南，富平
+sx, wn, pc; shan xi, wei nan, pu cheng; 陕西，渭南，蒲城
+sx, wn, cc; shan xi, wei nan, cheng cheng; 陕西，渭南，澄城
+sx, wn, hy; shan xi, wei nan, he yang; 陕西，渭南，合阳
+sx, wn, hc; shan xi, wei nan, han cheng; 陕西，渭南，韩城
+sx, wn, hy; shan xi, wei nan, hua yin; 陕西，渭南，华阴
+sx, wn, hz; shan xi, wei nan, hua zhou; 陕西，渭南，华州
+sx, sl, cq; shan xi, shang luo, cheng qu; 陕西，商洛，城区
+sx, sl, ln; shan xi, shang luo, luo nan; 陕西，商洛，洛南
+sx, sl, zs; shan xi, shang luo, zha shui; 陕西，商洛，柞水
+sx, sl, sz; shan xi, shang luo, shang zhou; 陕西，商洛，商州
+sx, sl, za; shan xi, shang luo, zhen an; 陕西，商洛，镇安
+sx, sl, df; shan xi, shang luo, dan feng; 陕西，商洛，丹凤
+sx, sl, sn; shan xi, shang luo, shang nan; 陕西，商洛，商南
+sx, sl, sy; shan xi, shang luo, shan yang; 陕西，商洛，山阳
+sx, ak, cq; shan xi, an kang, cheng qu; 陕西，安康，城区
+sx, ak, zy; shan xi, an kang, zi yang; 陕西，安康，紫阳
+sx, ak, sq; shan xi, an kang, shi quan; 陕西，安康，石泉
+sx, ak, hy; shan xi, an kang, han yin; 陕西，安康，汉阴
+sx, ak, xy; shan xi, an kang, xun yang; 陕西，安康，旬阳
+sx, ak, lg; shan xi, an kang, lan gao; 陕西，安康，岚皋
+sx, ak, pl; shan xi, an kang, ping li; 陕西，安康，平利
+sx, ak, bh; shan xi, an kang, bai he; 陕西，安康，白河
+sx, ak, zp; shan xi, an kang, zhen ping; 陕西，安康，镇坪
+sx, ak, ns; shan xi, an kang, ning shan; 陕西，安康，宁陕
+sx, hz, cq; shan xi, han zhong, cheng qu; 陕西，汉中，城区
+sx, hz, ly; shan xi, han zhong, lve yang; 陕西，汉中，略阳
+sx, hz, mx; shan xi, han zhong, mian xian; 陕西，汉中，勉县
+sx, hz, lb; shan xi, han zhong, liu ba; 陕西，汉中，留坝
+sx, hz, yx; shan xi, han zhong, yang xian; 陕西，汉中，洋县
+sx, hz, cg; shan xi, han zhong, cheng gu; 陕西，汉中，城固
+sx, hz, xx; shan xi, han zhong, xi xiang; 陕西，汉中，西乡
+sx, hz, fp; shan xi, han zhong, fu ping; 陕西，汉中，佛坪
+sx, hz, nq; shan xi, han zhong, ning qiang; 陕西，汉中，宁强
+sx, hz, nz; shan xi, han zhong, nan zheng; 陕西，汉中，南郑
+sx, hz, zb; shan xi, han zhong, zhen ba; 陕西，汉中，镇巴
+sx, bj, cq; shan xi, bao ji, cheng qu; 陕西，宝鸡，城区
+sx, bj, qy; shan xi, bao ji, qian yang; 陕西，宝鸡，千阳
+sx, bj, ly; shan xi, bao ji, lin you; 陕西，宝鸡，麟游
+sx, bj, qs; shan xi, bao ji, qi shan; 陕西，宝鸡，岐山
+sx, bj, fx; shan xi, bao ji, feng xiang; 陕西，宝鸡，凤翔
+sx, bj, ff; shan xi, bao ji, fu feng; 陕西，宝鸡，扶风
+sx, bj, mx; shan xi, bao ji, mei xian; 陕西，宝鸡，眉县
+sx, bj, tb; shan xi, bao ji, tai bai; 陕西，宝鸡，太白
+sx, bj, fx; shan xi, bao ji, feng xian; 陕西，宝鸡，凤县
+sx, bj, lx; shan xi, bao ji, long xian; 陕西，宝鸡，陇县
+sx, bj, cc; shan xi, bao ji, chen cang; 陕西，宝鸡，陈仓
+sx, tc, cq; shan xi, tong chuan, cheng qu; 陕西，铜川，城区
+sx, tc, yj; shan xi, tong chuan, yi jun; 陕西，铜川，宜君
+sx, tc, yz; shan xi, tong chuan, yao zhou; 陕西，铜川，耀州
+sx, yl, cq; shan xi, yang ling, cheng qu; 陕西，杨凌，城区
+sh, cq; shang hai, cheng qu; 上海，城区
+sh, mx; shang hai, min xing; 上海，闵行
+sh, bs; shang hai, bao shan; 上海，宝山
+sh, jd; shang hai, jia ding; 上海，嘉定
+sh, pdxq; shang hai, pu dong xin qu; 上海，浦东新区
+sh, js; shang hai, jin shan; 上海，金山
+sh, qp; shang hai, qing pu; 上海，青浦
+sh, sj; shang hai, song jiang; 上海，松江
+sh, fx; shang hai, feng xian; 上海，奉贤
+sh, cm; shang hai, chong ming; 上海，崇明
+sh, xh; shang hai, xu hui; 上海，徐汇
+sc, cd, cq; si chuan, cheng du, cheng qu; 四川，成都，城区
+sc, cd, lqy; si chuan, cheng du, long quan yi; 四川，成都，龙泉驿
+sc, cd, xd; si chuan, cheng du, xin dou; 四川，成都，新都
+sc, cd, wj; si chuan, cheng du, wen jiang; 四川，成都，温江
+sc, cd, jt; si chuan, cheng du, jin tang; 四川，成都，金堂
+sc, cd, sl; si chuan, cheng du, shuang liu; 四川，成都，双流
+sc, cd, px; si chuan, cheng du, pi xian; 四川，成都，郫县
+sc, cd, dy; si chuan, cheng du, da yi; 四川，成都，大邑
+sc, cd, pj; si chuan, cheng du, pu jiang; 四川，成都，蒲江
+sc, cd, xj; si chuan, cheng du, xin jin; 四川，成都，新津
+sc, cd, djy; si chuan, cheng du, du jiang yan; 四川，成都，都江堰
+sc, cd, pz; si chuan, cheng du, peng zhou; 四川，成都，彭州
+sc, cd, ql; si chuan, cheng du, qiong lai; 四川，成都，邛崃
+sc, cd, cz; si chuan, cheng du, chong zhou; 四川，成都，崇州
+sc, cd, qbj; si chuan, cheng du, qing bai jiang; 四川，成都，青白江
+sc, cd, jy; si chuan, cheng du, jian yang; 四川，成都，简阳
+sc, pzh, cq; si chuan, pan zhi hua, cheng qu; 四川，攀枝花，城区
+sc, pzh, rh; si chuan, pan zhi hua, ren he; 四川，攀枝花，仁和
+sc, pzh, my; si chuan, pan zhi hua, mi yi; 四川，攀枝花，米易
+sc, pzh, yb; si chuan, pan zhi hua, yan bian; 四川，攀枝花，盐边
+sc, zg, cq; si chuan, zi gong, cheng qu; 四川，自贡，城区
+sc, zg, fs; si chuan, zi gong, fu shun; 四川，自贡，富顺
+sc, zg, rx; si chuan, zi gong, rong xian; 四川，自贡，荣县
+sc, my, cq; si chuan, mian yang, cheng qu; 四川，绵阳，城区
+sc, my, st; si chuan, mian yang, san tai; 四川，绵阳，三台
+sc, my, yt; si chuan, mian yang, yan ting; 四川，绵阳，盐亭
+sc, my, zt; si chuan, mian yang, zi tong; 四川，绵阳，梓潼
+sc, my, bc; si chuan, mian yang, bei chuan; 四川，绵阳，北川
+sc, my, pw; si chuan, mian yang, ping wu; 四川，绵阳，平武
+sc, my, jy; si chuan, mian yang, jiang you; 四川，绵阳，江油
+sc, my, az; si chuan, mian yang, an zhou; 四川，绵阳，安州
+sc, nc, cq; si chuan, nan chong, cheng qu; 四川，南充，城区
+sc, nc, nb; si chuan, nan chong, nan bu; 四川，南充，南部
+sc, nc, ys; si chuan, nan chong, ying shan; 四川，南充，营山
+sc, nc, pa; si chuan, nan chong, peng an; 四川，南充，蓬安
+sc, nc, yl; si chuan, nan chong, yi long; 四川，南充，仪陇
+sc, nc, xc; si chuan, nan chong, xi chong; 四川，南充，西充
+sc, nc, lz; si chuan, nan chong, lang zhong; 四川，南充，阆中
+sc, dz, cq; si chuan, da zhou, cheng qu; 四川，达州，城区
+sc, dz, xh; si chuan, da zhou, xuan han; 四川，达州，宣汉
+sc, dz, kj; si chuan, da zhou, kai jiang; 四川，达州，开江
+sc, dz, dz; si chuan, da zhou, da zhu; 四川，达州，大竹
+sc, dz, qx; si chuan, da zhou, qu xian; 四川，达州，渠县
+sc, dz, wy; si chuan, da zhou, wan yuan; 四川，达州，万源
+sc, dz, tc; si chuan, da zhou, tong chuan; 四川，达州，通川
+sc, dz, dc; si chuan, da zhou, da chuan; 四川，达州，达川
+sc, sn, cq; si chuan, sui ning, cheng qu; 四川，遂宁，城区
+sc, sn, px; si chuan, sui ning, peng xi; 四川，遂宁，蓬溪
+sc, sn, sh; si chuan, sui ning, she hong; 四川，遂宁，射洪
+sc, ga, cq; si chuan, guang an, cheng qu; 四川，广安，城区
+sc, ga, yc; si chuan, guang an, yue chi; 四川，广安，岳池
+sc, ga, ws; si chuan, guang an, wu sheng; 四川，广安，武胜
+sc, ga, ls; si chuan, guang an, lin shui; 四川，广安，邻水
+sc, ga, hy; si chuan, guang an, hua ying; 四川，广安，华蓥
+sc, bz, cq; si chuan, ba zhong, cheng qu; 四川，巴中，城区
+sc, bz, tj; si chuan, ba zhong, tong jiang; 四川，巴中，通江
+sc, bz, nj; si chuan, ba zhong, nan jiang; 四川，巴中，南江
+sc, bz, pc; si chuan, ba zhong, ping chang; 四川，巴中，平昌
+sc, lz, cq; si chuan, lu zhou, cheng qu; 四川，泸州，城区
+sc, lz, lx; si chuan, lu zhou, lu xian; 四川，泸州，泸县
+sc, lz, hj; si chuan, lu zhou, he jiang; 四川，泸州，合江
+sc, lz, xy; si chuan, lu zhou, xu yong; 四川，泸州，叙永
+sc, lz, gl; si chuan, lu zhou, gu lin; 四川，泸州，古蔺
+sc, lz, nx; si chuan, lu zhou, na xi; 四川，泸州，纳溪
+sc, yb, cq; si chuan, yi bin, cheng qu; 四川，宜宾，城区
+sc, yb, ybx; si chuan, yi bin, yi bin xian; 四川，宜宾，宜宾县
+sc, yb, nx; si chuan, yi bin, nan xi; 四川，宜宾，南溪
+sc, yb, ja; si chuan, yi bin, jiang an; 四川，宜宾，江安
+sc, yb, zn; si chuan, yi bin, zhang ning; 四川，宜宾，长宁
+sc, yb, gx; si chuan, yi bin, gao xian; 四川，宜宾，高县
+sc, yb, gx; si chuan, yi bin, gong xian; 四川，宜宾，珙县
+sc, yb, yl; si chuan, yi bin, yun lian; 四川，宜宾，筠连
+sc, yb, xw; si chuan, yi bin, xing wen; 四川，宜宾，兴文
+sc, yb, ps; si chuan, yi bin, ping shan; 四川，宜宾，屏山
+sc, nj, cq; si chuan, nei jiang, cheng qu; 四川，内江，城区
+sc, nj, dx; si chuan, nei jiang, dong xing; 四川，内江，东兴
+sc, nj, wy; si chuan, nei jiang, wei yuan; 四川，内江，威远
+sc, nj, zz; si chuan, nei jiang, zi zhong; 四川，内江，资中
+sc, nj, lc; si chuan, nei jiang, long chang; 四川，内江，隆昌
+sc, zy, cq; si chuan, zi yang, cheng qu; 四川，资阳，城区
+sc, zy, ay; si chuan, zi yang, an yue; 四川，资阳，安岳
+sc, zy, lz; si chuan, zi yang, le zhi; 四川，资阳，乐至
+sc, ls, cq; si chuan, le shan, cheng qu; 四川，乐山，城区
+sc, ls, qw; si chuan, le shan, qian wei; 四川，乐山，犍为
+sc, ls, jy; si chuan, le shan, jing yan; 四川，乐山，井研
+sc, ls, jj; si chuan, le shan, jia jiang; 四川，乐山，夹江
+sc, ls, mc; si chuan, le shan, mu chuan; 四川，乐山，沐川
+sc, ls, eb; si chuan, le shan, e bian; 四川，乐山，峨边
+sc, ls, mb; si chuan, le shan, ma bian; 四川，乐山，马边
+sc, ls, ems; si chuan, le shan, e mei shan; 四川，乐山，峨眉山
+sc, ms, cq; si chuan, mei shan, cheng qu; 四川，眉山，城区
+sc, ms, rs; si chuan, mei shan, ren shou; 四川，眉山，仁寿
+sc, ms, ps; si chuan, mei shan, peng shan; 四川，眉山，彭山
+sc, ms, hy; si chuan, mei shan, hong ya; 四川，眉山，洪雅
+sc, ms, dl; si chuan, mei shan, dan leng; 四川，眉山，丹棱
+sc, ms, qs; si chuan, mei shan, qing shen; 四川，眉山，青神
+sc, ls, cq; si chuan, liang shan, cheng qu; 四川，凉山，城区
+sc, ls, ml; si chuan, liang shan, mu li; 四川，凉山，木里
+sc, ls, yy; si chuan, liang shan, yan yuan; 四川，凉山，盐源
+sc, ls, dc; si chuan, liang shan, de chang; 四川，凉山，德昌
+sc, ls, hl; si chuan, liang shan, hui li; 四川，凉山，会理
+sc, ls, hd; si chuan, liang shan, hui dong; 四川，凉山，会东
+sc, ls, nn; si chuan, liang shan, ning nan; 四川，凉山，宁南
+sc, ls, pg; si chuan, liang shan, pu ge; 四川，凉山，普格
+sc, ls, xc; si chuan, liang shan, xi chang; 四川，凉山，西昌
+sc, ls, jy; si chuan, liang shan, jin yang; 四川，凉山，金阳
+sc, ls, zj; si chuan, liang shan, zhao jue; 四川，凉山，昭觉
+sc, ls, xd; si chuan, liang shan, xi de; 四川，凉山，喜德
+sc, ls, mn; si chuan, liang shan, mian ning; 四川，凉山，冕宁
+sc, ls, yx; si chuan, liang shan, yue xi; 四川，凉山，越西
+sc, ls, gl; si chuan, liang shan, gan luo; 四川，凉山，甘洛
+sc, ls, lb; si chuan, liang shan, lei bo; 四川，凉山，雷波
+sc, ls, mg; si chuan, liang shan, mei gu; 四川，凉山，美姑
+sc, ls, bt; si chuan, liang shan, bu tuo; 四川，凉山，布拖
+sc, ya, cq; si chuan, ya an, cheng qu; 四川，雅安，城区
+sc, ya, ms; si chuan, ya an, ming shan; 四川，雅安，名山
+sc, ya, xj; si chuan, ya an, xing jing; 四川，雅安，荥经
+sc, ya, hy; si chuan, ya an, han yuan; 四川，雅安，汉源
+sc, ya, sm; si chuan, ya an, shi mian; 四川，雅安，石棉
+sc, ya, tq; si chuan, ya an, tian quan; 四川，雅安，天全
+sc, ya, ls; si chuan, ya an, lu shan; 四川，雅安，芦山
+sc, ya, bx; si chuan, ya an, bao xing; 四川，雅安，宝兴
+sc, gz, cq; si chuan, gan zi, cheng qu; 四川，甘孜，城区
+sc, gz, kd; si chuan, gan zi, kang ding; 四川，甘孜，康定
+sc, gz, ld; si chuan, gan zi, lu ding; 四川，甘孜，泸定
+sc, gz, db; si chuan, gan zi, dan ba; 四川，甘孜，丹巴
+sc, gz, jl; si chuan, gan zi, jiu long; 四川，甘孜，九龙
+sc, gz, yj; si chuan, gan zi, ya jiang; 四川，甘孜，雅江
+sc, gz, df; si chuan, gan zi, dao fu; 四川，甘孜，道孚
+sc, gz, lh; si chuan, gan zi, lu huo; 四川，甘孜，炉霍
+sc, gz, xl; si chuan, gan zi, xin long; 四川，甘孜，新龙
+sc, gz, dg; si chuan, gan zi, de ge; 四川，甘孜，德格
+sc, gz, by; si chuan, gan zi, bai yu; 四川，甘孜，白玉
+sc, gz, sq; si chuan, gan zi, shi qu; 四川，甘孜，石渠
+sc, gz, sd; si chuan, gan zi, se da; 四川，甘孜，色达
+sc, gz, lt; si chuan, gan zi, li tang; 四川，甘孜，理塘
+sc, gz, bt; si chuan, gan zi, ba tang; 四川，甘孜，巴塘
+sc, gz, xc; si chuan, gan zi, xiang cheng; 四川，甘孜，乡城
+sc, gz, dc; si chuan, gan zi, dao cheng; 四川，甘孜，稻城
+sc, gz, dr; si chuan, gan zi, de rong; 四川，甘孜，得荣
+sc, ab, cq; si chuan, a ba, cheng qu; 四川，阿坝，城区
+sc, ab, wc; si chuan, a ba, wen chuan; 四川，阿坝，汶川
+sc, ab, lx; si chuan, a ba, li xian; 四川，阿坝，理县
+sc, ab, mx; si chuan, a ba, mao xian; 四川，阿坝，茂县
+sc, ab, sp; si chuan, a ba, song pan; 四川，阿坝，松潘
+sc, ab, jzg; si chuan, a ba, jiu zhai gou; 四川，阿坝，九寨沟
+sc, ab, jc; si chuan, a ba, jin chuan; 四川，阿坝，金川
+sc, ab, xj; si chuan, a ba, xiao jin; 四川，阿坝，小金
+sc, ab, hs; si chuan, a ba, hei shui; 四川，阿坝，黑水
+sc, ab, mek; si chuan, a ba, ma er kang; 四川，阿坝，马尔康
+sc, ab, rt; si chuan, a ba, rang tang; 四川，阿坝，壤塘
+sc, ab, reg; si chuan, a ba, ruo er gai; 四川，阿坝，若尔盖
+sc, ab, hy; si chuan, a ba, hong yuan; 四川，阿坝，红原
+sc, dy, cq; si chuan, de yang, cheng qu; 四川，德阳，城区
+sc, dy, zj; si chuan, de yang, zhong jiang; 四川，德阳，中江
+sc, dy, gh; si chuan, de yang, guang han; 四川，德阳，广汉
+sc, dy, sf; si chuan, de yang, shen fang; 四川，德阳，什邡
+sc, dy, mz; si chuan, de yang, mian zhu; 四川，德阳，绵竹
+sc, dy, lj; si chuan, de yang, luo jiang; 四川，德阳，罗江
+sc, gy, cq; si chuan, guang yuan, cheng qu; 四川，广元，城区
+sc, gy, wc; si chuan, guang yuan, wang cang; 四川，广元，旺苍
+sc, gy, qc; si chuan, guang yuan, qing chuan; 四川，广元，青川
+sc, gy, jg; si chuan, guang yuan, jian ge; 四川，广元，剑阁
+sc, gy, cx; si chuan, guang yuan, cang xi; 四川，广元，苍溪
+tw, tb, cq; tai wan, tai bei, cheng qu; 台湾，台北，城区
+tw, tb, ty; tai wan, tai bei, tao yuan; 台湾，台北，桃园
+tw, tb, xz; tai wan, tai bei, xin zhu; 台湾，台北，新竹
+tw, tb, yl; tai wan, tai bei, yi lan; 台湾，台北，宜兰
+tw, gx, cq; tai wan, gao xiong, cheng qu; 台湾，高雄，城区
+tw, gx, jy; tai wan, gao xiong, jia yi; 台湾，高雄，嘉义
+tw, gx, tn; tai wan, gao xiong, tai nan; 台湾，高雄，台南
+tw, gx, td; tai wan, gao xiong, tai dong; 台湾，高雄，台东
+tw, gx, pd; tai wan, gao xiong, ping dong; 台湾，高雄，屏东
+tw, tz, cq; tai wan, tai zhong, cheng qu; 台湾，台中，城区
+tw, tz, ml; tai wan, tai zhong, miao li; 台湾，台中，苗栗
+tw, tz, zh; tai wan, tai zhong, zhang hua; 台湾，台中，彰化
+tw, tz, nt; tai wan, tai zhong, nan tou; 台湾，台中，南投
+tw, tz, hl; tai wan, tai zhong, hua lian; 台湾，台中，花莲
+tw, tz, yl; tai wan, tai zhong, yun lin; 台湾，台中，云林
+tg, mg; tai guo, man gu; 泰国，曼谷（Bangkok）
+tg, btlnyqxz; tai guo, bo ta lun nong ye qi xiang zu; 泰国，博他仑农业气象组（Phatthalung Agri Met）
+tg, bdn; tai guo, bei da nian; 泰国，北大年（Pattani）
+tg, cy; tai guo, cheng yi; 泰国，程逸（Uttaradit）
+tg, bcw; tai guo, bi cha wen; 泰国，碧差汶（Phetchabun）
+tg, cnnyqxz; tai guo, cai na nong ye qi xiang zu; 泰国，猜纳农业气象组（Chainat Agri Met）
+tg, cyb; tai guo, cai ye ben; 泰国，猜也贲（Chaiyaphum）
+tg, bzwl; tai guo, ba zhen wu li; 泰国，巴真武里（Prachinburi）
+tg, bcnyqxz; tai guo, bei chong nong ye qi xiang zu; 泰国，北冲农业气象组（Pakchong Agri Met）
+tg, bbf; tai guo, bei bi fu; 泰国，北碧府（Kanchanaburi）
+tg, bnnyqxz; tai guo, bang na nong ye qi xiang zu; 泰国，邦那农业气象组（Bangna Agri Met）
+tg, blnyqxz; tai guo, bei liu nong ye qi xiang zu; 泰国，北柳农业气象组（Chachoengsao Agri Met）
+tg, bty; tai guo, ba ti ya; 泰国，芭提雅（Phatthaya）
+tg, cp; tai guo, chun peng; 泰国，春蓬（Chumphon）
+tlndhdbg, xbyg; te li ni da he duo ba ge, xi ban ya gang; 特立尼达和多巴哥，西班牙港（Port Of Spain）
+tlndhdbg, pykgjjc; te li ni da he duo ba ge, pi ya ke guo ji ji chang; 特立尼达和多巴哥，皮亚科国际机场（Piarco Int' LAirport）
+tj, cq; tian jin, cheng qu; 天津，城区
+tj, wq; tian jin, wu qing; 天津，武清
+tj, bd; tian jin, bao di; 天津，宝坻
+tj, dl; tian jin, dong li; 天津，东丽
+tj, xq; tian jin, xi qing; 天津，西青
+tj, bc; tian jin, bei chen; 天津，北辰
+tj, nh; tian jin, ning he; 天津，宁河
+tj, jh; tian jin, jing hai; 天津，静海
+tj, jn; tian jin, jin nan; 天津，津南
+tj, bhxq; tian jin, bin hai xin qu; 天津，滨海新区
+tj, jx; tian jin, ji xian; 天津，蓟县
+xby, bsln; xi ban ya, ba sai luo na; 西班牙，巴塞罗那（Barcelona）
+xby, awyd; xi ban ya, ao wei ye duo; 西班牙，奥维耶多（Oviedo）
+xby, aebst; xi ban ya, a er ba sai te; 西班牙，阿尔巴塞特（Albacete Losllanos）
+xby, aemly; xi ban ya, a er mei li ya; 西班牙，阿尔梅里亚（Almeria Aeropuerto）
+xby, alkt; xi ban ya, a li kan te; 西班牙，阿利坎特（Alicante Elaltet）
+xby, blydld; xi ban ya, ba li ya duo li de; 西班牙，巴利亚多利德（Valladolid）
+xby, als; xi ban ya, ao lun sai; 西班牙，奥伦塞（Orense）
+xby, awl; xi ban ya, a wei la; 西班牙，阿维拉（Avila）
+xby, gdlhl; xi ban ya, gua da la ha la; 西班牙，瓜达拉哈拉（Guadalajara）
+xby, blxy; xi ban ya, ba lun xi ya; 西班牙，巴伦西亚（Valencia）
+xby, aemgl; xi ban ya, a er ma ge luo; 西班牙，阿尔马格罗（Almagro）
+xby, alkt; xi ban ya, a li kan te; 西班牙，阿里坎特（Alicante）
+xby, he; xi ban ya, ha en; 西班牙，哈恩（Jaen）
+xz, ls, cq; xi zang, la sa, cheng qu; 西藏，拉萨，城区
+xz, ls, dx; xi zang, la sa, dang xiong; 西藏，拉萨，当雄
+xz, ls, nm; xi zang, la sa, ni mu; 西藏，拉萨，尼木
+xz, ls, lz; xi zang, la sa, lin zhou; 西藏，拉萨，林周
+xz, ls, dldq; xi zang, la sa, dui long de qing; 西藏，拉萨，堆龙德庆
+xz, ls, qs; xi zang, la sa, qu shui; 西藏，拉萨，曲水
+xz, ls, dz; xi zang, la sa, da zi; 西藏，拉萨，达孜
+xz, ls, mzgk; xi zang, la sa, mo zhu gong ka; 西藏，拉萨，墨竹工卡
+xz, rkz, cq; xi zang, ri ka ze, cheng qu; 西藏，日喀则，城区
+xz, rkz, lz; xi zang, ri ka ze, la zi; 西藏，日喀则，拉孜
+xz, rkz, nml; xi zang, ri ka ze, nan mu lin; 西藏，日喀则，南木林
+xz, rkz, nlm; xi zang, ri ka ze, nie la mu; 西藏，日喀则，聂拉木
+xz, rkz, dr; xi zang, ri ka ze, ding ri; 西藏，日喀则，定日
+xz, rkz, jz; xi zang, ri ka ze, jiang zi; 西藏，日喀则，江孜
+xz, rkz, pl; xi zang, ri ka ze, pa li; 西藏，日喀则，帕里
+xz, rkz, zb; xi zang, ri ka ze, zhong ba; 西藏，日喀则，仲巴
+xz, rkz, sg; xi zang, ri ka ze, sa ga; 西藏，日喀则，萨嘎
+xz, rkz, jl; xi zang, ri ka ze, ji long; 西藏，日喀则，吉隆
+xz, rkz, ar; xi zang, ri ka ze, ang ren; 西藏，日喀则，昂仁
+xz, rkz, dj; xi zang, ri ka ze, ding jie; 西藏，日喀则，定结
+xz, rkz, sj; xi zang, ri ka ze, sa jia; 西藏，日喀则，萨迦
+xz, rkz, xtm; xi zang, ri ka ze, xie tong men; 西藏，日喀则，谢通门
+xz, rkz, gb; xi zang, ri ka ze, gang ba; 西藏，日喀则，岗巴
+xz, rkz, bl; xi zang, ri ka ze, bai lang; 西藏，日喀则，白朗
+xz, rkz, yd; xi zang, ri ka ze, ya dong; 西藏，日喀则，亚东
+xz, rkz, km; xi zang, ri ka ze, kang ma; 西藏，日喀则，康马
+xz, rkz, rb; xi zang, ri ka ze, ren bu; 西藏，日喀则，仁布
+xz, sn, cq; xi zang, shan nan, cheng qu; 西藏，山南，城区
+xz, sn, gg; xi zang, shan nan, gong ga; 西藏，山南，贡嘎
+xz, sn, zn; xi zang, shan nan, zha nang; 西藏，山南，扎囊
+xz, sn, jc; xi zang, shan nan, jia cha; 西藏，山南，加查
+xz, sn, lqz; xi zang, shan nan, lang qia zi; 西藏，山南，浪卡子
+xz, sn, cn; xi zang, shan nan, cuo na; 西藏，山南，错那
+xz, sn, lz; xi zang, shan nan, long zi; 西藏，山南，隆子
+xz, sn, nd; xi zang, shan nan, nai dong; 西藏，山南，乃东
+xz, sn, sr; xi zang, shan nan, sang ri; 西藏，山南，桑日
+xz, sn, lz; xi zang, shan nan, luo zha; 西藏，山南，洛扎
+xz, sn, cm; xi zang, shan nan, cuo mei; 西藏，山南，措美
+xz, sn, qj; xi zang, shan nan, qiong jie; 西藏，山南，琼结
+xz, sn, qs; xi zang, shan nan, qu song; 西藏，山南，曲松
+xz, lz, cq; xi zang, lin zhi, cheng qu; 西藏，林芝，城区
+xz, lz, bm; xi zang, lin zhi, bo mi; 西藏，林芝，波密
+xz, lz, ml; xi zang, lin zhi, mi lin; 西藏，林芝，米林
+xz, lz, cy; xi zang, lin zhi, cha yu; 西藏，林芝，察隅
+xz, lz, gbjd; xi zang, lin zhi, gong bu jiang da; 西藏，林芝，工布江达
+xz, lz, lx; xi zang, lin zhi, lang xian; 西藏，林芝，朗县
+xz, lz, mt; xi zang, lin zhi, mo tuo; 西藏，林芝，墨脱
+xz, cd, cq; xi zang, chang dou, cheng qu; 西藏，昌都，城区
+xz, cd, dq; xi zang, chang dou, ding qing; 西藏，昌都，丁青
+xz, cd, bb; xi zang, chang dou, bian ba; 西藏，昌都，边坝
+xz, cd, ll; xi zang, chang dou, luo long; 西藏，昌都，洛隆
+xz, cd, zg; xi zang, chang dou, zuo gong; 西藏，昌都，左贡
+xz, cd, mk; xi zang, chang dou, mang kang; 西藏，昌都，芒康
+xz, cd, lwq; xi zang, chang dou, lei wu qi; 西藏，昌都，类乌齐
+xz, cd, bs; xi zang, chang dou, ba su; 西藏，昌都，八宿
+xz, cd, jd; xi zang, chang dou, jiang da; 西藏，昌都，江达
+xz, cd, cy; xi zang, chang dou, cha ya; 西藏，昌都，察雅
+xz, cd, gj; xi zang, chang dou, gong jue; 西藏，昌都，贡觉
+xz, nq, cq; xi zang, na qu, cheng qu; 西藏，那曲，城区
+xz, nq, nm; xi zang, na qu, ni ma; 西藏，那曲，尼玛
+xz, nq, jl; xi zang, na qu, jia li; 西藏，那曲，嘉黎
+xz, nq, bg; xi zang, na qu, ban ge; 西藏，那曲，班戈
+xz, nq, ad; xi zang, na qu, an duo; 西藏，那曲，安多
+xz, nq, sx; xi zang, na qu, suo xian; 西藏，那曲，索县
+xz, nq, nr; xi zang, na qu, nie rong; 西藏，那曲，聂荣
+xz, nq, bq; xi zang, na qu, ba qing; 西藏，那曲，巴青
+xz, nq, br; xi zang, na qu, bi ru; 西藏，那曲，比如
+xz, nq, sh; xi zang, na qu, shuang hu; 西藏，那曲，双湖
+xz, al, cq; xi zang, a li, cheng qu; 西藏，阿里，城区
+xz, al, gz; xi zang, a li, gai ze; 西藏，阿里，改则
+xz, al, pl; xi zang, a li, pu lan; 西藏，阿里，普兰
+xz, al, zd; xi zang, a li, zha da; 西藏，阿里，札达
+xz, al, ge; xi zang, a li, ga er; 西藏，阿里，噶尔
+xz, al, rt; xi zang, a li, ri tu; 西藏，阿里，日土
+xz, al, gj; xi zang, a li, ge ji; 西藏，阿里，革吉
+xz, al, cq; xi zang, a li, cuo qin; 西藏，阿里，措勤
+xg, cq; xiang gang, cheng qu; 香港，城区
+xg, jl; xiang gang, jiu long; 香港，九龙
+xg, xj; xiang gang, xin jie; 香港，新界
+xjp, xjp; xin jia po, xin jia po; 新加坡，新加坡（Singapore）
+xj, wlmq, cq; xin jiang, wu lu mu qi, cheng qu; 新疆，乌鲁木齐，城区
+xj, wlmq, dbc; xin jiang, wu lu mu qi, da ban cheng; 新疆，乌鲁木齐，达坂城
+xj, klmy, cq; xin jiang, ke la ma yi, cheng qu; 新疆，克拉玛依，城区
+xj, klmy, weh; xin jiang, ke la ma yi, wu er he; 新疆，克拉玛依，乌尔禾
+xj, klmy, bjt; xin jiang, ke la ma yi, bai jian tan; 新疆，克拉玛依，白碱滩
+xj, shz, cq; xin jiang, shi he zi, cheng qu; 新疆，石河子，城区
+xj, cj, cq; xin jiang, chang ji, cheng qu; 新疆，昌吉，城区
+xj, cj, htb; xin jiang, chang ji, hu tu bi; 新疆，昌吉，呼图壁
+xj, cj, fk; xin jiang, chang ji, fu kang; 新疆，昌吉，阜康
+xj, cj, jmse; xin jiang, chang ji, ji mu sa er; 新疆，昌吉，吉木萨尔
+xj, cj, qt; xin jiang, chang ji, qi tai; 新疆，昌吉，奇台
+xj, cj, mns; xin jiang, chang ji, ma na si; 新疆，昌吉，玛纳斯
+xj, cj, ml; xin jiang, chang ji, mu lei; 新疆，昌吉，木垒
+xj, tlf, cq; xin jiang, tu lu fan, cheng qu; 新疆，吐鲁番，城区
+xj, tlf, tkx; xin jiang, tu lu fan, tuo ke xun; 新疆，吐鲁番，托克逊
+xj, tlf, ss; xin jiang, tu lu fan, shan shan; 新疆，吐鲁番，鄯善
+xj, bygl, kel; xin jiang, ba yin guo leng, ku er lei; 新疆，巴音郭楞，库尔勒
+xj, bygl, lt; xin jiang, ba yin guo leng, lun tai; 新疆，巴音郭楞，轮台
+xj, bygl, yl; xin jiang, ba yin guo leng, yu li; 新疆，巴音郭楞，尉犁
+xj, bygl, rq; xin jiang, ba yin guo leng, ruo qiang; 新疆，巴音郭楞，若羌
+xj, bygl, qm; xin jiang, ba yin guo leng, qie mo; 新疆，巴音郭楞，且末
+xj, bygl, hj; xin jiang, ba yin guo leng, he jing; 新疆，巴音郭楞，和静
+xj, bygl, yq; xin jiang, ba yin guo leng, yan qi; 新疆，巴音郭楞，焉耆
+xj, bygl, hs; xin jiang, ba yin guo leng, he shuo; 新疆，巴音郭楞，和硕
+xj, bygl, bh; xin jiang, ba yin guo leng, bo hu; 新疆，巴音郭楞，博湖
+xj, ale, cq; xin jiang, a la er, cheng qu; 新疆，阿拉尔，城区
+xj, aks, cq; xin jiang, a ke su, cheng qu; 新疆，阿克苏，城区
+xj, aks, ws; xin jiang, a ke su, wu shen; 新疆，阿克苏，乌什
+xj, aks, ws; xin jiang, a ke su, wen su; 新疆，阿克苏，温宿
+xj, aks, bc; xin jiang, a ke su, bai cheng; 新疆，阿克苏，拜城
+xj, aks, xh; xin jiang, a ke su, xin he; 新疆，阿克苏，新和
+xj, aks, sy; xin jiang, a ke su, sha ya; 新疆，阿克苏，沙雅
+xj, aks, kc; xin jiang, a ke su, ku che; 新疆，阿克苏，库车
+xj, aks, kp; xin jiang, a ke su, ke ping; 新疆，阿克苏，柯坪
+xj, aks, awt; xin jiang, a ke su, a wa ti; 新疆，阿克苏，阿瓦提
+xj, ks, cq; xin jiang, ka shi, cheng qu; 新疆，喀什，城区
+xj, ks, yjs; xin jiang, ka shi, ying ji sha; 新疆，喀什，英吉沙
+xj, ks, tskeg; xin jiang, ka shi, ta shen ku er gan; 新疆，喀什，塔什库尔干
+xj, ks, mgt; xin jiang, ka shi, mai gai ti; 新疆，喀什，麦盖提
+xj, ks, sc; xin jiang, ka shi, sha che; 新疆，喀什，莎车
+xj, ks, yc; xin jiang, ka shi, ye cheng; 新疆，喀什，叶城
+xj, ks, zp; xin jiang, ka shi, ze pu; 新疆，喀什，泽普
+xj, ks, bc; xin jiang, ka shi, ba chu; 新疆，喀什，巴楚
+xj, ks, yph; xin jiang, ka shi, yue pu hu; 新疆，喀什，岳普湖
+xj, ks, gs; xin jiang, ka shi, ga shi; 新疆，喀什，伽师
+xj, ks, sf; xin jiang, ka shi, shu fu; 新疆，喀什，疏附
+xj, ks, sl; xin jiang, ka shi, shu le; 新疆，喀什，疏勒
+xj, yl, yn; xin jiang, yi li, yi ning; 新疆，伊犁，伊宁
+xj, yl, cbce; xin jiang, yi li, cha bu cha er; 新疆，伊犁，察布查尔
+xj, yl, nlk; xin jiang, yi li, ni lei ke; 新疆，伊犁，尼勒克
+xj, yl, ynx; xin jiang, yi li, yi ning xian; 新疆，伊犁，伊宁县
+xj, yl, gl; xin jiang, yi li, gong liu; 新疆，伊犁，巩留
+xj, yl, xy; xin jiang, yi li, xin yuan; 新疆，伊犁，新源
+xj, yl, zs; xin jiang, yi li, zhao su; 新疆，伊犁，昭苏
+xj, yl, tks; xin jiang, yi li, te ke si; 新疆，伊犁，特克斯
+xj, yl, hc; xin jiang, yi li, huo cheng; 新疆，伊犁，霍城
+xj, yl, hegs; xin jiang, yi li, huo er guo si; 新疆，伊犁，霍尔果斯
+xj, yl, kt; xin jiang, yi li, kui tun; 新疆，伊犁，奎屯
+xj, tc, cq; xin jiang, ta cheng, cheng qu; 新疆，塔城，城区
+xj, tc, ym; xin jiang, ta cheng, yu min; 新疆，塔城，裕民
+xj, tc, em; xin jiang, ta cheng, e min; 新疆，塔城，额敏
+xj, tc, hbkse; xin jiang, ta cheng, he bu ke sai er; 新疆，塔城，和布克赛尔
+xj, tc, tl; xin jiang, ta cheng, tuo li; 新疆，塔城，托里
+xj, tc, ws; xin jiang, ta cheng, wu su; 新疆，塔城，乌苏
+xj, tc, sw; xin jiang, ta cheng, sha wan; 新疆，塔城，沙湾
+xj, hm, cq; xin jiang, ha mi, cheng qu; 新疆，哈密，城区
+xj, hm, blk; xin jiang, ha mi, ba li kun; 新疆，哈密，巴里坤
+xj, hm, yw; xin jiang, ha mi, yi wu; 新疆，哈密，伊吾
+xj, ht, cq; xin jiang, he tian, cheng qu; 新疆，和田，城区
+xj, ht, ps; xin jiang, he tian, pi shan; 新疆，和田，皮山
+xj, ht, cl; xin jiang, he tian, ce lei; 新疆，和田，策勒
+xj, ht, my; xin jiang, he tian, mo yu; 新疆，和田，墨玉
+xj, ht, lp; xin jiang, he tian, luo pu; 新疆，和田，洛浦
+xj, ht, mf; xin jiang, he tian, min feng; 新疆，和田，民丰
+xj, ht, yt; xin jiang, he tian, yu tian; 新疆，和田，于田
+xj, alt, cq; xin jiang, a lei tai, cheng qu; 新疆，阿勒泰，城区
+xj, alt, hbh; xin jiang, a lei tai, ha ba he; 新疆，阿勒泰，哈巴河
+xj, alt, jmn; xin jiang, a lei tai, ji mu nai; 新疆，阿勒泰，吉木乃
+xj, alt, bej; xin jiang, a lei tai, bu er jin; 新疆，阿勒泰，布尔津
+xj, alt, fh; xin jiang, a lei tai, fu hai; 新疆，阿勒泰，福海
+xj, alt, fy; xin jiang, a lei tai, fu yun; 新疆，阿勒泰，富蕴
+xj, alt, qh; xin jiang, a lei tai, qing he; 新疆，阿勒泰，青河
+xj, kz, ats; xin jiang, ke zhou, a tu shen; 新疆，克州，阿图什
+xj, kz, wq; xin jiang, ke zhou, wu qia; 新疆，克州，乌恰
+xj, kz, akt; xin jiang, ke zhou, a ke tao; 新疆，克州，阿克陶
+xj, kz, ahq; xin jiang, ke zhou, a he qi; 新疆，克州，阿合奇
+xj, betl, bl; xin jiang, bo er ta la, bo le; 新疆，博尔塔拉，博乐
+xj, betl, wq; xin jiang, bo er ta la, wen quan; 新疆，博尔塔拉，温泉
+xj, betl, jh; xin jiang, bo er ta la, jing he; 新疆，博尔塔拉，精河
+xj, betl, alsk; xin jiang, bo er ta la, a la shan kou; 新疆，博尔塔拉，阿拉山口
+yg, ld; ying guo, lun dun; 英国，伦敦（London）
+yn, hn; yue nan, he nei; 越南，河内（Hanoi）
+yn, xg; yue nan, xian gang; 越南，岘港（Danang）
+yn, km, cq; yun nan, kun ming, cheng qu; 云南，昆明，城区
+yn, km, dc; yun nan, kun ming, dong chuan; 云南，昆明，东川
+yn, km, xd; yun nan, kun ming, xun dian; 云南，昆明，寻甸
+yn, km, jn; yun nan, kun ming, jin ning; 云南，昆明，晋宁
+yn, km, yl; yun nan, kun ming, yi liang; 云南，昆明，宜良
+yn, km, sl; yun nan, kun ming, shi lin; 云南，昆明，石林
+yn, km, cg; yun nan, kun ming, cheng gong; 云南，昆明，呈贡
+yn, km, fm; yun nan, kun ming, fu min; 云南，昆明，富民
+yn, km, sm; yun nan, kun ming, song ming; 云南，昆明，嵩明
+yn, km, lq; yun nan, kun ming, lu quan; 云南，昆明，禄劝
+yn, km, an; yun nan, kun ming, an ning; 云南，昆明，安宁
+yn, dl, cq; yun nan, da li, cheng qu; 云南，大理，城区
+yn, dl, yl; yun nan, da li, yun long; 云南，大理，云龙
+yn, dl, yb; yun nan, da li, yang bi; 云南，大理，漾濞
+yn, dl, yp; yun nan, da li, yong ping; 云南，大理，永平
+yn, dl, bc; yun nan, da li, bin chuan; 云南，大理，宾川
+yn, dl, md; yun nan, da li, mi du; 云南，大理，弥渡
+yn, dl, xy; yun nan, da li, xiang yun; 云南，大理，祥云
+yn, dl, ws; yun nan, da li, wei shan; 云南，大理，巍山
+yn, dl, jc; yun nan, da li, jian chuan; 云南，大理，剑川
+yn, dl, ey; yun nan, da li, er yuan; 云南，大理，洱源
+yn, dl, hq; yun nan, da li, he qing; 云南，大理，鹤庆
+yn, dl, nj; yun nan, da li, nan jian; 云南，大理，南涧
+yn, hh, cq; yun nan, hong he, cheng qu; 云南，红河，城区
+yn, hh, sp; yun nan, hong he, shi ping; 云南，红河，石屏
+yn, hh, js; yun nan, hong he, jian shui; 云南，红河，建水
+yn, hh, ml; yun nan, hong he, mi le; 云南，红河，弥勒
+yn, hh, yy; yun nan, hong he, yuan yang; 云南，红河，元阳
+yn, hh, lc; yun nan, hong he, lv chun; 云南，红河，绿春
+yn, hh, ky; yun nan, hong he, kai yuan; 云南，红河，开远
+yn, hh, gj; yun nan, hong he, ge jiu; 云南，红河，个旧
+yn, hh, mz; yun nan, hong he, meng zi; 云南，红河，蒙自
+yn, hh, pb; yun nan, hong he, ping bian; 云南，红河，屏边
+yn, hh, lx; yun nan, hong he, lu xi; 云南，红河，泸西
+yn, hh, jp; yun nan, hong he, jin ping; 云南，红河，金平
+yn, hh, hk; yun nan, hong he, he kou; 云南，红河，河口
+yn, qj, cq; yun nan, qu jing, cheng qu; 云南，曲靖，城区
+yn, qj, zy; yun nan, qu jing, zhan yi; 云南，曲靖，沾益
+yn, qj, ll; yun nan, qu jing, lu liang; 云南，曲靖，陆良
+yn, qj, fy; yun nan, qu jing, fu yuan; 云南，曲靖，富源
+yn, qj, ml; yun nan, qu jing, ma long; 云南，曲靖，马龙
+yn, qj, sz; yun nan, qu jing, shi zong; 云南，曲靖，师宗
+yn, qj, lp; yun nan, qu jing, luo ping; 云南，曲靖，罗平
+yn, qj, hz; yun nan, qu jing, hui ze; 云南，曲靖，会泽
+yn, qj, xw; yun nan, qu jing, xuan wei; 云南，曲靖，宣威
+yn, bs, cq; yun nan, bao shan, cheng qu; 云南，保山，城区
+yn, bs, ll; yun nan, bao shan, long ling; 云南，保山，龙陵
+yn, bs, sd; yun nan, bao shan, shi dian; 云南，保山，施甸
+yn, bs, cn; yun nan, bao shan, chang ning; 云南，保山，昌宁
+yn, bs, tc; yun nan, bao shan, teng chong; 云南，保山，腾冲
+yn, ws, cq; yun nan, wen shan, cheng qu; 云南，文山，城区
+yn, ws, xc; yun nan, wen shan, xi chou; 云南，文山，西畴
+yn, ws, mg; yun nan, wen shan, ma guan; 云南，文山，马关
+yn, ws, mlp; yun nan, wen shan, ma li po; 云南，文山，麻栗坡
+yn, ws, ys; yun nan, wen shan, yan shan; 云南，文山，砚山
+yn, ws, qb; yun nan, wen shan, qiu bei; 云南，文山，丘北
+yn, ws, gn; yun nan, wen shan, guang nan; 云南，文山，广南
+yn, ws, fn; yun nan, wen shan, fu ning; 云南，文山，富宁
+yn, yx, cq; yun nan, yu xi, cheng qu; 云南，玉溪，城区
+yn, yx, cj; yun nan, yu xi, cheng jiang; 云南，玉溪，澄江
+yn, yx, jc; yun nan, yu xi, jiang chuan; 云南，玉溪，江川
+yn, yx, th; yun nan, yu xi, tong hai; 云南，玉溪，通海
+yn, yx, hn; yun nan, yu xi, hua ning; 云南，玉溪，华宁
+yn, yx, xp; yun nan, yu xi, xin ping; 云南，玉溪，新平
+yn, yx, ym; yun nan, yu xi, yi men; 云南，玉溪，易门
+yn, yx, es; yun nan, yu xi, e shan; 云南，玉溪，峨山
+yn, yx, yj; yun nan, yu xi, yuan jiang; 云南，玉溪，元江
+yn, cx, cq; yun nan, chu xiong, cheng qu; 云南，楚雄，城区
+yn, cx, dy; yun nan, chu xiong, da yao; 云南，楚雄，大姚
+yn, cx, ym; yun nan, chu xiong, yuan mou; 云南，楚雄，元谋
+yn, cx, ya; yun nan, chu xiong, yao an; 云南，楚雄，姚安
+yn, cx, md; yun nan, chu xiong, mou ding; 云南，楚雄，牟定
+yn, cx, nh; yun nan, chu xiong, nan hua; 云南，楚雄，南华
+yn, cx, wd; yun nan, chu xiong, wu ding; 云南，楚雄，武定
+yn, cx, lf; yun nan, chu xiong, lu feng; 云南，楚雄，禄丰
+yn, cx, sb; yun nan, chu xiong, shuang bai; 云南，楚雄，双柏
+yn, cx, yr; yun nan, chu xiong, yong ren; 云南，楚雄，永仁
+yn, pe, cq; yun nan, pu er, cheng qu; 云南，普洱，城区
+yn, pe, jg; yun nan, pu er, jing gu; 云南，普洱，景谷
+yn, pe, jd; yun nan, pu er, jing dong; 云南，普洱，景东
+yn, pe, lc; yun nan, pu er, lan cang; 云南，普洱，澜沧
+yn, pe, mj; yun nan, pu er, mo jiang; 云南，普洱，墨江
+yn, pe, jc; yun nan, pu er, jiang cheng; 云南，普洱，江城
+yn, pe, ml; yun nan, pu er, meng lian; 云南，普洱，孟连
+yn, pe, xm; yun nan, pu er, xi meng; 云南，普洱，西盟
+yn, pe, zy; yun nan, pu er, zhen yuan; 云南，普洱，镇沅
+yn, pe, ne; yun nan, pu er, ning er; 云南，普洱，宁洱
+yn, zt, cq; yun nan, zhao tong, cheng qu; 云南，昭通，城区
+yn, zt, ld; yun nan, zhao tong, lu dian; 云南，昭通，鲁甸
+yn, zt, yl; yun nan, zhao tong, yi liang; 云南，昭通，彝良
+yn, zt, zx; yun nan, zhao tong, zhen xiong; 云南，昭通，镇雄
+yn, zt, wx; yun nan, zhao tong, wei xin; 云南，昭通，威信
+yn, zt, qj; yun nan, zhao tong, qiao jia; 云南，昭通，巧家
+yn, zt, sj; yun nan, zhao tong, sui jiang; 云南，昭通，绥江
+yn, zt, ys; yun nan, zhao tong, yong shan; 云南，昭通，永善
+yn, zt, yj; yun nan, zhao tong, yan jin; 云南，昭通，盐津
+yn, zt, dg; yun nan, zhao tong, da guan; 云南，昭通，大关
+yn, zt, sf; yun nan, zhao tong, shui fu; 云南，昭通，水富
+yn, lc, cq; yun nan, lin cang, cheng qu; 云南，临沧，城区
+yn, lc, cy; yun nan, lin cang, cang yuan; 云南，临沧，沧源
+yn, lc, gm; yun nan, lin cang, geng ma; 云南，临沧，耿马
+yn, lc, sj; yun nan, lin cang, shuang jiang; 云南，临沧，双江
+yn, lc, fq; yun nan, lin cang, feng qing; 云南，临沧，凤庆
+yn, lc, yd; yun nan, lin cang, yong de; 云南，临沧，永德
+yn, lc, yx; yun nan, lin cang, yun xian; 云南，临沧，云县
+yn, lc, zk; yun nan, lin cang, zhen kang; 云南，临沧，镇康
+yn, nj, cq; yun nan, nu jiang, cheng qu; 云南，怒江，城区
+yn, nj, fg; yun nan, nu jiang, fu gong; 云南，怒江，福贡
+yn, nj, lp; yun nan, nu jiang, lan ping; 云南，怒江，兰坪
+yn, nj, ls; yun nan, nu jiang, lu shui; 云南，怒江，泸水
+yn, nj, gs; yun nan, nu jiang, gong shan; 云南，怒江，贡山
+yn, dq, xgll; yun nan, di qing, xiang ge li la; 云南，迪庆，香格里拉
+yn, dq, dq; yun nan, di qing, de qin; 云南，迪庆，德钦
+yn, dq, wx; yun nan, di qing, wei xi; 云南，迪庆，维西
+yn, lj, cq; yun nan, li jiang, cheng qu; 云南，丽江，城区
+yn, lj, ys; yun nan, li jiang, yong sheng; 云南，丽江，永胜
+yn, lj, hp; yun nan, li jiang, hua ping; 云南，丽江，华坪
+yn, lj, nl; yun nan, li jiang, ning lang; 云南，丽江，宁蒗
+yn, dh, cq; yun nan, de hong, cheng qu; 云南，德宏，城区
+yn, dh, lc; yun nan, de hong, long chuan; 云南，德宏，陇川
+yn, dh, yj; yun nan, de hong, ying jiang; 云南，德宏，盈江
+yn, dh, rl; yun nan, de hong, rui li; 云南，德宏，瑞丽
+yn, dh, lh; yun nan, de hong, liang he; 云南，德宏，梁河
+yn, dh, ms; yun nan, de hong, mang shi; 云南，德宏，芒市
+yn, xsbn, jh; yun nan, xi shuang ban na, jing hong; 云南，西双版纳，景洪
+yn, xsbn, mh; yun nan, xi shuang ban na, meng hai; 云南，西双版纳，勐海
+yn, xsbn, ml; yun nan, xi shuang ban na, meng la; 云南，西双版纳，勐腊
+zj, hz, cq; zhe jiang, hang zhou, cheng qu; 浙江，杭州，城区
+zj, hz, xs; zhe jiang, hang zhou, xiao shan; 浙江，杭州，萧山
+zj, hz, tl; zhe jiang, hang zhou, tong lu; 浙江，杭州，桐庐
+zj, hz, ca; zhe jiang, hang zhou, chun an; 浙江，杭州，淳安
+zj, hz, jd; zhe jiang, hang zhou, jian de; 浙江，杭州，建德
+zj, hz, yh; zhe jiang, hang zhou, yu hang; 浙江，杭州，余杭
+zj, hz, la; zhe jiang, hang zhou, lin an; 浙江，杭州，临安
+zj, hz, fy; zhe jiang, hang zhou, fu yang; 浙江，杭州，富阳
+zj, hz, cq; zhe jiang, hu zhou, cheng qu; 浙江，湖州，城区
+zj, hz, cx; zhe jiang, hu zhou, chang xing; 浙江，湖州，长兴
+zj, hz, aj; zhe jiang, hu zhou, an ji; 浙江，湖州，安吉
+zj, hz, dq; zhe jiang, hu zhou, de qing; 浙江，湖州，德清
+zj, jx, cq; zhe jiang, jia xing, cheng qu; 浙江，嘉兴，城区
+zj, jx, js; zhe jiang, jia xing, jia shan; 浙江，嘉兴，嘉善
+zj, jx, hn; zhe jiang, jia xing, hai ning; 浙江，嘉兴，海宁
+zj, jx, tx; zhe jiang, jia xing, tong xiang; 浙江，嘉兴，桐乡
+zj, jx, ph; zhe jiang, jia xing, ping hu; 浙江，嘉兴，平湖
+zj, jx, hy; zhe jiang, jia xing, hai yan; 浙江，嘉兴，海盐
+zj, nb, cq; zhe jiang, ning bo, cheng qu; 浙江，宁波，城区
+zj, nb, cx; zhe jiang, ning bo, ci xi; 浙江，宁波，慈溪
+zj, nb, yy; zhe jiang, ning bo, yu yao; 浙江，宁波，余姚
+zj, nb, fh; zhe jiang, ning bo, feng hua; 浙江，宁波，奉化
+zj, nb, xs; zhe jiang, ning bo, xiang shan; 浙江，宁波，象山
+zj, nb, nh; zhe jiang, ning bo, ning hai; 浙江，宁波，宁海
+zj, nb, bl; zhe jiang, ning bo, bei lun; 浙江，宁波，北仑
+zj, nb, yz; zhe jiang, ning bo, yin zhou; 浙江，宁波，鄞州
+zj, nb, zh; zhe jiang, ning bo, zhen hai; 浙江，宁波，镇海
+zj, sx, yc; zhe jiang, shao xing, yue cheng; 浙江，绍兴，越城
+zj, sx, zj; zhe jiang, shao xing, zhu ji; 浙江，绍兴，诸暨
+zj, sx, sy; zhe jiang, shao xing, shang yu; 浙江，绍兴，上虞
+zj, sx, xc; zhe jiang, shao xing, xin chang; 浙江，绍兴，新昌
+zj, sx, sz; zhe jiang, shao xing, sheng zhou; 浙江，绍兴，嵊州
+zj, sx, kq; zhe jiang, shao xing, ke qiao; 浙江，绍兴，柯桥
+zj, tz, cq; zhe jiang, tai zhou, cheng qu; 浙江，台州，城区
+zj, tz, yh; zhe jiang, tai zhou, yu huan; 浙江，台州，玉环
+zj, tz, sm; zhe jiang, tai zhou, san men; 浙江，台州，三门
+zj, tz, tt; zhe jiang, tai zhou, tian tai; 浙江，台州，天台
+zj, tz, xj; zhe jiang, tai zhou, xian ju; 浙江，台州，仙居
+zj, tz, wl; zhe jiang, tai zhou, wen ling; 浙江，台州，温岭
+zj, tz, lh; zhe jiang, tai zhou, lin hai; 浙江，台州，临海
+zj, tz, jj; zhe jiang, tai zhou, jiao jiang; 浙江，台州，椒江
+zj, tz, hy; zhe jiang, tai zhou, huang yan; 浙江，台州，黄岩
+zj, tz, lq; zhe jiang, tai zhou, lu qiao; 浙江，台州，路桥
+zj, wz, cq; zhe jiang, wen zhou, cheng qu; 浙江，温州，城区
+zj, wz, ts; zhe jiang, wen zhou, tai shun; 浙江，温州，泰顺
+zj, wz, wc; zhe jiang, wen zhou, wen cheng; 浙江，温州，文成
+zj, wz, py; zhe jiang, wen zhou, ping yang; 浙江，温州，平阳
+zj, wz, ra; zhe jiang, wen zhou, rui an; 浙江，温州，瑞安
+zj, wz, dt; zhe jiang, wen zhou, dong tou; 浙江，温州，洞头
+zj, wz, yq; zhe jiang, wen zhou, yue qing; 浙江，温州，乐清
+zj, wz, yj; zhe jiang, wen zhou, yong jia; 浙江，温州，永嘉
+zj, wz, cn; zhe jiang, wen zhou, cang nan; 浙江，温州，苍南
+zj, ls, cq; zhe jiang, li shui, cheng qu; 浙江，丽水，城区
+zj, ls, sc; zhe jiang, li shui, sui chang; 浙江，丽水，遂昌
+zj, ls, lq; zhe jiang, li shui, long quan; 浙江，丽水，龙泉
+zj, ls, jy; zhe jiang, li shui, jin yun; 浙江，丽水，缙云
+zj, ls, qt; zhe jiang, li shui, qing tian; 浙江，丽水，青田
+zj, ls, yh; zhe jiang, li shui, yun he; 浙江，丽水，云和
+zj, ls, qy; zhe jiang, li shui, qing yuan; 浙江，丽水，庆元
+zj, ls, sy; zhe jiang, li shui, song yang; 浙江，丽水，松阳
+zj, ls, jn; zhe jiang, li shui, jing ning; 浙江，丽水，景宁
+zj, jh, cq; zhe jiang, jin hua, cheng qu; 浙江，金华，城区
+zj, jh, pj; zhe jiang, jin hua, pu jiang; 浙江，金华，浦江
+zj, jh, lx; zhe jiang, jin hua, lan xi; 浙江，金华，兰溪
+zj, jh, yw; zhe jiang, jin hua, yi wu; 浙江，金华，义乌
+zj, jh, dy; zhe jiang, jin hua, dong yang; 浙江，金华，东阳
+zj, jh, wy; zhe jiang, jin hua, wu yi; 浙江，金华，武义
+zj, jh, yk; zhe jiang, jin hua, yong kang; 浙江，金华，永康
+zj, jh, pa; zhe jiang, jin hua, pan an; 浙江，金华，磐安
+zj, qz, cq; zhe jiang, qu zhou, cheng qu; 浙江，衢州，城区
+zj, qz, cs; zhe jiang, qu zhou, chang shan; 浙江，衢州，常山
+zj, qz, kh; zhe jiang, qu zhou, kai hua; 浙江，衢州，开化
+zj, qz, ly; zhe jiang, qu zhou, long you; 浙江，衢州，龙游
+zj, qz, js; zhe jiang, qu zhou, jiang shan; 浙江，衢州，江山
+zj, qz, qj; zhe jiang, qu zhou, qu jiang; 浙江，衢州，衢江
+zj, zs, cq; zhe jiang, zhou shan, cheng qu; 浙江，舟山，城区
+zj, zs, ss; zhe jiang, zhou shan, sheng si; 浙江，舟山，嵊泗
+zj, zs, ds; zhe jiang, zhou shan, dai shan; 浙江，舟山，岱山
+zj, zs, pt; zhe jiang, zhou shan, pu tuo; 浙江，舟山，普陀
+zj, zs, dh; zhe jiang, zhou shan, ding hai; 浙江，舟山，定海
+cq, cq; chong qing, cheng qu; 重庆，城区
+cq, yc; chong qing, yong chuan; 重庆，永川
+cq, hc; chong qing, he chuan; 重庆，合川
+cq, nc; chong qing, nan chuan; 重庆，南川
+cq, jj; chong qing, jiang jin; 重庆，江津
+cq, yb; chong qing, yu bei; 重庆，渝北
+cq, bb; chong qing, bei bei; 重庆，北碚
+cq, bn; chong qing, ba nan; 重庆，巴南
+cq, cs; chong qing, chang shou; 重庆，长寿
+cq, qj; chong qing, qian jiang; 重庆，黔江
+cq, wz; chong qing, wan zhou; 重庆，万州
+cq, fl; chong qing, fu ling; 重庆，涪陵
+cq, ck; chong qing, cheng kou; 重庆，城口
+cq, yy; chong qing, yun yang; 重庆，云阳
+cq, wx; chong qing, wu xi; 重庆，巫溪
+cq, fj; chong qing, feng jie; 重庆，奉节
+cq, ws; chong qing, wu shan; 重庆，巫山
+cq, tn; chong qing, tong nan; 重庆，潼南
+cq, dj; chong qing, dian jiang; 重庆，垫江
+cq, lp; chong qing, liang ping; 重庆，梁平
+cq, zx; chong qing, zhong xian; 重庆，忠县
+cq, sz; chong qing, shi zhu; 重庆，石柱
+cq, dz; chong qing, da zu; 重庆，大足
+cq, rc; chong qing, rong chang; 重庆，荣昌
+cq, tl; chong qing, tong liang; 重庆，铜梁
+cq, bs; chong qing, bi shan; 重庆，璧山
+cq, fd; chong qing, feng dou; 重庆，丰都
+cq, wl; chong qing, wu long; 重庆，武隆
+cq, ps; chong qing, peng shui; 重庆，彭水
+cq, qj; chong qing, qi jiang; 重庆，綦江
+cq, yy; chong qing, you yang; 重庆，酉阳
+cq, xs; chong qing, xiu shan; 重庆，秀山
+cq, kz; chong qing, kai zhou; 重庆，开州

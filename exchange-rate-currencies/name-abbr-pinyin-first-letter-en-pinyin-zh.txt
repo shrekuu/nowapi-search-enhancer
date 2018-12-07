@@ -1,0 +1,160 @@
+ALL; aebnylk; Albanian Lek; a er ba ni ya lie ke; 阿尔巴尼亚列克
+DZD; aejlydne; Algerian Dinar; a er ji li ya di na er; 阿尔及利亚第纳尔
+AFN; afhn; Afghani; a fu han ni; 阿富汗尼
+ARS; agtps; Argentine peso; a gen ting pi suo; 阿根廷披索
+AED; alqdlm; United Arab Emirates Dirham; a lian qiu di la mu; 阿联酋迪拉姆
+AWG; albd; Aruba Shield; a lu ba dun; 阿鲁巴盾
+OMR; amlye; Omani Rial; a man li ya er; 阿曼里亚尔
+AZN; asbjxmnt; Azerbaijan New Manat; a sai bai jiang xin ma na te; 阿塞拜疆新马纳特
+EGP; ajb; Egyptian pound; ai ji bang; 埃及镑
+ETB; asebybe; Ethiopian Bill; ai sai e bi ya bi er; 埃塞俄比亚比尔
+AOA; aglkz; Angola Kwanza; an ge la kuan zha; 安哥拉宽扎
+AUD; adlyy; Australian dollar; ao da li ya yuan; 澳大利亚元
+MOP; amb; MOP; ao men bi; 澳门币
+BBD; bbdsy; Barbados Dollar; ba ba duo si yuan; 巴巴多斯元
+BSD; bhmy; Bahamian dollar; ba ha ma yuan; 巴哈马元
+PKR; bjstlb; Pakistan Rupee; ba ji si tan lu bi; 巴基斯坦卢比
+PYG; blggln; Paraguay Guarani; ba la gui gua la ni; 巴拉圭瓜拉尼
+BHD; bldne; Bahraini Dinar; ba lin di na er; 巴林第纳尔
+PAB; bnmbby; Panamanian Balboa; ba na ma ba bo ya; 巴拿马巴波亚
+BRL; bxlye; Brazilian Real; ba xi lei ya er; 巴西雷亚尔
+BYR; belslb; Belarusian ruble; bai e luo si lu bu; 白俄罗斯卢布
+BMD; bmdy; Bermudian dollar; bai mu da yuan; 百慕大元
+BGN; bjlylw; Bulgarian Leva; bao jia li ya lie wa; 保加利亚列瓦
+ISK; bdkl; Icelandic Krona; bing dao ke lang; 冰岛克朗
+PLN; blzlt; Polish Zloty; bo lan zi luo ti; 波兰兹罗提
+BAM; bsnyhhsgwnk; Bosnia and Herzegovina; bo si ni ya he hei sai ge wei na ke; 波斯尼亚和黑塞哥维那可
+BOB; blwyn; Boliviano; bo li wei ya nuo; 玻利维亚诺
+BZD; blzy; Belize Dollar; bo li zi yuan; 伯利兹元
+BWP; bcwnpl; Botswana Pula; bo ci wa na pu la; 博茨瓦纳普拉
+BTN; bdnzm; Bhutan Nuzam; bu dan nu zha mu; 不丹努扎姆
+BIF; bldfl; Burundi Franc; bu long di fa lang; 布隆迪法郎
+KPW; cxy; Korean won; chao xian yuan; 朝鲜元
+DKK; dmkl; Danish Krone; dan mai ke lang; 丹麦克朗
+XCD; djlby; East Caribbean Dollar; dong jia lei bi yuan; 东加勒比元
+DOP; dmnjbs; Dominican Peso; duo mi ni jia bi suo; 多米尼加比索
+RUB; elslb; Russian ruble; e luo si lu bu; 俄罗斯卢布
+ERN; eltly; Eritrea; e li te li ya; 厄立特里亚
+PHP; flbbs; Philippine Peso; fei lv bin bi suo; 菲律宾比索
+FJD; fjy; Fiji Dollar; fei ji yuan; 斐济元
+CVE; fdjaskd; Cape Verde Escudo; fu de jiao ai si ku duo; 佛得角埃斯库多
+FKP; fklqdb; Falkland Islands Pound; fu ke lan qun dao bang; 福克兰群岛镑
+GMD; gbydlx; Gambian Dalasi; gang bi ya da la xi; 冈比亚达拉西
+CDF; ggfl; Congo franc; gang guo fa lang; 刚果法郎
+HKD; gb; Hong Kong dollar; gang bi; 港币
+COP; glbybs; Colombian Peso; ge lun bi ya bi suo; 哥伦比亚比索
+CRC; gsdljkl; Costa Rica; ge si da li jia ke lang; 哥斯达黎加科朗
+GEL; gljyll; Georgia Larry; ge lu ji ya la li; 格鲁吉亚拉里
+CUP; gbbs; Cuban Peso; gu ba bi suo; 古巴比索
+GYD; gyny; Guyana; gui ya na yuan; 圭亚那元
+KZT; hskstjg; Kazakhstan Tenge; ha sa ke si tan jian ge; 哈萨克斯坦坚戈
+HTG; hdgd; Haitian Gourde; hai di gu de; 海地古德
+KRW; hgy; Korean yuan; han guo yuan; 韩国元
+ANG; hld; Dutch Shield; he lan dun; 荷兰盾
+HNL; hdlslpl; Honduran Lempira; hong dou la si lun pi la; 洪都拉斯伦皮拉
+XAU; hj; gold; huang jin; 黄金
+DJF; jbtfl; Djibouti Franc; ji bu ti fa lang; 吉布提法郎
+KGS; jejssm; Kyrgyz Som; ji er ji si suo mu; 吉尔吉斯索姆
+GNF; jnyfl; Guinea Franc; ji nei ya fa lang; 几内亚法郎
+CAD; jndy; Canadian dollar; jia na da yuan; 加拿大元
+GHS; jnsd; Ghana Cedi; jia na sai de; 加纳塞地
+KHR; jpzre; Cambodian Riel; jian pu zhai rui er; 柬埔寨瑞尔
+CZK; jkkl; Czech Koruna; jie ke ke lang; 捷克克朗
+ZWL; jbbwy; Zimbabwean Yuan; jin ba bu wei yuan; 津巴布韦元
+QAR; ktelye; Qatari Rial; ka ta er li ya er; 卡塔尔里亚尔
+KYD; kmqdy; Cayman Islands Dollar; kai man qun dao yuan; 开曼群岛元
+KMF; kmlfl; Comoros Franc; ke mo luo fa lang; 科摩罗法郎
+KWD; kwtdne; Kuwaiti Dinar; ke wei te di na er; 科威特第纳尔
+HRK; kldykn; Croatian Kuna; ke luo de ya ku na; 克罗地亚库纳
+KES; knyxl; Kenyan shilling; ken ni ya xian ling; 肯尼亚先令
+LVL; ltwylt; Latvian Lat; la tuo wei ya la te; 拉脱维亚拉特
+LSL; lstlt; Lesotho Loti; lai suo tuo luo ti; 莱索托洛提
+LAK; lwjp; Lao Kip; lao wo ji pu; 老挝基普
+CNH; larmb; Offshore renminbi; li an ren min bi; 离岸人民币
+LBP; lbnb; Lebanese pound; li ba nen bang; 黎巴嫩镑
+LTL; ltwlt; Lithuanian Lita; li tao wan li te; 立陶宛立特
+LRD; lblyy; Liberia; li bi li ya yuan; 利比里亚元
+LYD; lbydne; Libyan Dinar; li bi ya di na er; 利比亚第纳尔
+RWF; lwdfl; Rwanda Franc; lu wang da fa lang; 卢旺达法郎
+RON; lmnyly; Romanian lei; luo ma ni ya lie yi; 罗马尼亚列伊
+MGA; mdjsjalyl; Ariari, Madagascar; ma da jia si jia a li ya li; 马达加斯加阿里亚里
+MVR; medflfy; Maldives Raffia; ma er dai fu la fei ya; 马尔代夫拉菲亚
+MWK; mlwkwc; Malawi Kwacha; ma la wei ke wa cha; 马拉维克瓦查
+MYR; mlxyljt; Malaysian Ringgit; ma lai xi ya lin ji te; 马来西亚林吉特
+MKD; mqddne; Macedonian Dinar; ma qi dun di na er; 马其顿第纳尔
+MUR; mlqslb; Mauritian Rupee; mao li qiu si lu bi; 毛里求斯卢比
+MRO; mltnywjy; Ugiya, Mauritania; mao li ta ni ya wu ji ya; 毛里塔尼亚乌吉亚
+USD; my; Dollar; mei yuan; 美元
+MNT; mgtglk; Mongolian Tugrik; meng gu tu ge li ke; 蒙古图格里克
+BDT; mjlgtk; Taka, Bangladesh; meng jia la guo ta ka; 孟加拉国塔卡
+PEN; blxse; New Sol, Peru; bi lu xin suo er; 秘鲁新索尔
+MMK; my; Kyat; mian yuan; 缅元
+MDL; medwly; Moldovan Leu; mo er duo wa lie yi; 摩尔多瓦列伊
+MAD; mlgdlm; Moroccan Dirham; mo luo ge di la mu; 摩洛哥迪拉姆
+MZN; msbkmdke; Mozambique Meticar; mo sang bi ke mei di ka er; 莫桑比克梅蒂卡尔
+MXN; mxgbs; Mexican Peso; mo xi ge bi suo; 墨西哥比索
+NAD; nmbyy; Namibian dollar; na mi bi ya yuan; 纳米比亚元
+ZAR; nflt; South African Rand; nan fei lan te; 南非兰特
+NPR; npelb; Nepalese Rupee; ni po er lu bi; 尼泊尔卢比
+NIO; njlgkdb; Nicaragua Cordoba; ni jia la gua ke duo ba; 尼加拉瓜科多巴
+NGN; nrlydne; Nigerian Dinar; ni ri li ya di na er; 尼日利亚第纳尔
+NOK; nwkl; Norwegian Krone; nuo wei ke lang; 挪威克朗
+EUR; oy; EUR; ou yuan; 欧元
+CNY; rmb; Renminbi; ren min bi; 人民币
+JPY; ry; JPY; ri yuan; 日元
+SEK; rdkl; Swedish Krona; rui dian ke lang; 瑞典克朗
+CHF; rsfl; Swiss Franc; rui shi fa lang; 瑞士法郎
+SVC; sewdkl; Salvador Colon; sa er wa duo ke lang; 萨尔瓦多科朗
+WST; smytl; Samoan Tara; sa mo ya ta la; 萨摩亚塔拉
+RSD; sewydne; Serbian Dinar; sai er wei ya di na er; 塞尔维亚第纳尔
+SLL; sllala; Sierra Leone; sai la li ang li ang; 塞拉利昂利昂
+SCR; sselb; Seychelles Rupee; sai she er lu bi; 塞舌尔卢比
+SAR; stalblye; Saudi Arabian Riyal; sha te a la bo li ya er; 沙特阿拉伯里亚尔
+STD; sdmdbl; Sao Tome Dobra; sheng duo mei duo bu la; 圣多美多布拉
+SHP; shlnb; St. Helena Pound; sheng he lei na bang; 圣赫勒拿镑
+LKR; sllklb; Sri Lankan Rupee; si li lan ka lu bi; 斯里兰卡卢比
+SZL; swsllljn; Swaziland Rirangini; si wei shi lan li lan ji ni; 斯威士兰里兰吉尼
+SDG; sdb; Sudanese pound; su dan bang; 苏丹镑
+SRD; slny; Surinamese; su li nan yuan; 苏里南元
+SBD; slmqdy; Solomon Islands Dollar; suo luo men qun dao yuan; 所罗门群岛元
+SOS; smlxl; Somali shilling; suo ma li xian ling; 索马里先令
+TJS; tjkstsmn; Tajikistan Somoni; ta ji ke si tan suo mo ni; 塔吉克斯坦索莫尼
+TWD; tb; Taiwan dollar; tai bi; 台币
+XPF; tpyfl; Pacific Franc; tai ping yang fa lang; 太平洋法郎
+THB; tz; Thai baht; tai zhu; 泰铢
+TZS; tsnyxl; Tanzanian shilling; tan sang ni ya xian ling; 坦桑尼亚先令
+XDR; tbtkq(gjhbjj); Special Drawing Rights (International Monetary Fund); te bie ti kuan quan（guo ji huo bi ji jin); 特别提款权（国际货币基金）
+TTD; tlndhdbgy; Trinidad and Tobago Dollar; te li ni da he duo ba ge yuan; 特立尼达和多巴哥元
+TND; tnsdne; Tunisian Dinar; tu ni si di na er; 突尼斯第纳尔
+TRY; teqll; Turkish lira; tu er qi li la; 土耳其里拉
+TMT; tkmstmnt; Turkmenistan Manat; tu ku man si tan ma na te; 土库曼斯坦马纳特
+VUV; wnatwt; Vanuatuwatu; wa nu a tu wa tu; 瓦努阿图瓦图
+GTQ; wdmlgce; Guatemalan Quetzal; wei de ma la ge cha er; 危地马拉格查尔
+VEF; wnrlblwe; Venezuelan Bolivar; wei nei rui la bo li wa er; 委内瑞拉玻利瓦尔
+BND; wly; Brunei Dollar; wen lai yuan; 文莱元
+UGX; wgdxl; Ugandan shilling; wu gan da xian ling; 乌干达先令
+UAH; wklglfn; Ukrainian hryvnia; wu ke lan ge li fu na; 乌克兰格里夫纳
+UYU; wlgbs; Uruguay Peso; wu la gui bi suo; 乌拉圭比索
+UZS; wzbkstsm; Uzbekistan Som; wu zi bie ke si tan suo mu; 乌兹别克斯坦索姆
+XOF; xffl; West African Franc; xi fei fa lang; 西非法郎
+PGK; xjnyjnjn; New Guinea, Kinakina; xin ji nei ya ji na ji na; 新几内亚基那基那
+SGD; xjpy; Singapore dollar; xin jia po yuan; 新加坡元
+NZD; xxly; New Zealand dollar; xin xi lan yuan; 新西兰元
+HUF; xylfl; Hungarian Forint; xiong ya li fu lin; 匈牙利福林
+SYP; xlyb; Syrian pound; xu li ya bang; 叙利亚镑
+JMD; ymjy; Jamaican dollar; ya mai jia yuan; 牙买加元
+AMD; ymnydlm; Armenian Dram; ya mei ni ya de la mu; 亚美尼亚德拉姆
+YER; ymlye; Yemeni Rial; ye men li ya er; 也门里亚尔
+IQD; ylkdne; Iraqi Dinar; yi la ke di na er; 伊拉克第纳尔
+IRR; yllye; Iranian Rial; yi lang li ya er; 伊朗里亚尔
+ILS; yslxke; Israeli Shekel; yi se lie xie ke er; 以色列谢克尔
+INR; ydlb; Indian Rupee; yin du lu bi; 印度卢比
+IDR; ydnxyd; Indonesian Shield; yin du ni xi ya dun; 印度尼西亚盾
+GBP; yb; GBP; ying bang; 英镑
+JOD; yddne; Jordanian Dinar; yue dan di na er; 约旦第纳尔
+VND; ynd; Vietnamese Shield; yue nan dun; 越南盾
+ZMW; zbykwc; Zambia Kwacha; zan bi ya ke wa cha; 赞比亚克瓦查
+GIP; zbltb; Gibraltar Pound; zhi bu luo tuo bang; 直布罗陀镑
+CLF; zlbs; Chilean Peso; zhi li bi suo; 智利比索
+CLP; zlbs; Chilean Peso; zhi li bi suo; 智利比索
+XAF; zffl; Central African Franc; zhong fei fa lang ; 中非法郎
